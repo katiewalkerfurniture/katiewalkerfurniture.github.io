@@ -1,0 +1,289 @@
+/* @override 
+	http://localhost:4000/public/css/site.css
+	http://127.0.0.1:4000/public/css/site.css
+*/
+
+/*
+site.css
+Author: Roland Whitehead
+Purpose: Site css for katiewalkerfurniture
+Created: 08Aug2014
+*/
+
+@font-face {
+/* Social fonts from  http://socicon.com */
+    font-family: 'socicon';
+    src: url('/public/font/socicon-webfont.eot');
+    src: url('/public/font/socicon-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/public/font/socicon-webfont.woff') format('woff'),
+         url('/public/font/socicon-webfont.ttf') format('truetype'),
+         url('/public/font/socicon-webfont.svg#sociconregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	padding: 0 1rem 1rem;
+}
+
+.social a {
+	color: white;
+	font: 20px 'socicon';
+	width: 36px;
+	height: 36px;
+	background-color: silver;
+	display: inline-block;
+	padding: 8px;
+	text-decoration: none;
+}
+
+.social a.follow {
+	width: 85px;
+}
+
+span.normal
+{
+	font: 15px "Gill Sans", sans-serif;
+	position: relative;
+	top: -5px;
+}
+
+
+.social a:hover {
+	background-color: #ffd300;
+	text-decoration: none;
+}
+
+
+body {
+	font: 16px/22px "Feura", sans-serif;
+	max-width: 800px;
+	margin-top: 2rem;
+	margin-right: auto;
+	margin-left: auto;
+	color: #515151;
+}
+
+a {
+	color: navy;
+}
+
+img {
+	margin: 0;
+	padding: 0;
+}
+
+.second_header {
+	height: 2rem;
+}
+
+.second_header ul.menu {
+	float: right;
+	clear: none;
+}
+
+
+
+ul.menu {
+	float: right;
+	display: inline-block;
+	margin-bottom: 0;
+}
+
+.header ul.menu {
+	padding-top: 52px;
+}
+
+.menu li {
+	list-style-type: none;
+	display: inline-block;
+}
+
+.menu a {
+	color: black;
+	padding-top: 0.5rem;
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+	height: 2rem;
+	display: inline-block;
+	border-bottom: 3px solid white;
+	text-decoration: none;
+}
+
+.menu a:hover {
+	background-color: #eee;
+	text-decoration: none;
+}
+
+.menu a.selected{
+	border-color: maroon;
+}
+
+.ar-wrapper {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+}
+
+.ar-wrapper:after {
+    padding-top: 56.25%; 
+    display: block;
+    content: '';
+}
+
+/*h1.page-title, h1.post_title {
+    position: absolute;
+    top: 0; bottom: 0; right: 0; left: 0;
+	padding-top: 1rem;
+	padding-left: 1rem;
+	color: white;
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:left top;
+	display: inline;
+}*/
+
+div.header-wrapper {
+	position:  relative;
+	margin-bottom: 1rem;
+}
+
+
+h1.page-title, h1.post_title {
+	position: absolute;
+	padding-top: 1rem;
+	padding-left: 1rem;
+}
+
+
+h1 {
+	margin-bottom: 1rem;
+	font-weight: 600;
+  	font-size: 175%;
+}
+
+h1.red {
+	color: #800;
+}
+
+img.page-title, img.post-title {
+	max-width: 800px;
+	width:  100%;
+	z-index: -1
+}
+
+p.lead {
+	line-height: 1.5rem;
+}
+
+.header a.logo {
+	width: 100px;
+	height:  100px;
+	background: url(../images/logo2.png) no-repeat;
+	display: inline-block;
+}
+
+.row {
+	display: table-row;
+}
+
+.cell {
+	display: table-cell;
+}
+
+/* RETAILERS */
+
+.retailers {
+	clear: both;
+}
+
+.retailers .related {
+	display: table;
+}
+
+.retailers h3 {
+	display:  none;
+}
+
+.retailers .logo {
+	width: 100%;
+	height:  100%;
+	vertical-align: middle;
+}
+
+.retailers .cell {
+	padding-bottom: 1rem;
+}
+
+.retailers .cell.logo {
+	width: 15%;
+	max-width: 150px;
+}
+
+.retailers .logo img {
+	width: 100%;
+}
+
+.retailers .cell.short-description {
+	padding-left: 1rem;
+}
+
+.work {
+	margin-top: 1rem;
+}
+
+.related
+{
+	border-top:  none;
+}
+
+.item
+{
+	width: 180px;
+	height: 180px;
+	border: 1px solid silver;
+	margin: 0 0.5rem 0.5rem 0;
+	display: inline-block;
+}
+
+.itemFront {
+	height: 100%;
+}
+
+.itemFont img {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.itemBack
+{
+	padding: 0.5rem;
+	background-color: white;
+	z-index: 10;
+	top: -178px;
+	position: relative;
+	height: 100%;
+	display:  none;
+}
+
+.itemBack a
+{
+	font-size: 0.8rem;
+	color: black;
+	text-decoration: none;
+}
+
+.itemBack a span.title
+{
+	font-weight: 600;
+	display: block;
+	margin-bottom: 0.5rem;
+}
+
+
+
+
+
+
+
