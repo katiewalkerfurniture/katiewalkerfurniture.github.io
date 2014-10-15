@@ -26,6 +26,10 @@ body {
 	padding: 0 1rem 1rem;
 }
 
+.post {
+	margin-top: 2rem;
+}
+
 .social a {
 	color: white;
 	font: 20px 'socicon';
