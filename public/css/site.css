@@ -118,7 +118,7 @@ ul.menu {
 	text-decoration: none;
 }
 .menu a:hover {
-	background-image: linear-gradient(#ccc, #fd0, #666);
+	background-image: linear-gradient(#fe1, #ffd300, #fa3);
 	text-decoration: none;
 }
 
