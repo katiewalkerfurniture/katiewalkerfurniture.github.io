@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="411.09161"
+   height="411.09161"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="kwroundel.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3935">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path3867"
+         id="use3937"
+         transform="matrix(0.99747469,0,0,0.97805595,7.7024217,11.768286)"
+         width="1"
+         height="1" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.57774786"
+     inkscape:cx="-224.75686"
+     inkscape:cy="-49.527884"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1328"
+     inkscape:window-height="826"
+     inkscape:window-x="43"
+     inkscape:window-y="4"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-290.44209,-65.56158)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffd300;fill-opacity:1;stroke:none"
+       id="path3867"
+       sodipodi:cx="496.01593"
+       sodipodi:cy="274.27454"
+       sodipodi:rx="205.5777"
+       sodipodi:ry="204.38248"
+       d="M 290.51828,268.57152 C 293.68639,155.73815 388.25908,66.821956 501.75229,69.971642 615.24551,73.121329 704.68169,167.14418 701.51358,279.97755 698.34547,392.81092 603.77279,481.72712 490.27957,478.57743 376.83565,475.42911 287.41777,381.48332 290.51479,268.69705"
+       sodipodi:start="3.1694999"
+       sodipodi:end="9.4520708"
+       transform="matrix(0.99983733,0,0,1.0056842,0.05261693,-4.726173)"
+       inkscape:export-filename="/Users/roland/Documents/2014/2014-10 (Oct)/KWRoundel2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:open="true" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:none"
+       id="path2985"
+       sodipodi:cx="300"
+       sodipodi:cy="338.07648"
+       sodipodi:rx="185.71428"
+       sodipodi:ry="185.71428"
+       d="M 114.69747,325.71658 C 121.52366,223.37682 210.02014,145.94777 312.3599,152.77395 414.69966,159.60014 492.12871,248.09662 485.30253,350.43638 478.47634,452.77614 389.97986,530.20519 287.6401,523.379 188.13355,516.7418 111.63337,432.69895 114.35489,333.00844"
+       sodipodi:start="3.2081952"
+       sodipodi:end="9.4520708"
+       sodipodi:open="true"
+       transform="matrix(0.60875439,0,0,0.60875439,41.660534,-14.873059)" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 285.05976,552.76059 c 0,0 6.86513,112.33922 106.3745,112.94821 111.79083,0.68415 116.53387,-112.3506 116.53387,-112.3506 l 0,0 0,0 1.19522,1.79283 0,0 -1.79283,0 0.59761,0"
+       id="path3033"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccccc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:none"
+       id="path3817"
+       sodipodi:cx="225.89641"
+       sodipodi:cy="193.59724"
+       sodipodi:rx="139.84064"
+       sodipodi:ry="103.38645"
+       d="M 86.365816,186.71653 C 91.505852,129.74437 158.14265,86.639902 235.20327,90.440014 312.26388,94.240126 370.56704,143.50579 365.427,200.47796 360.28696,257.45012 293.65017,300.55459 216.58955,296.75447 141.66231,293.05957 84.058584,246.27323 86.107851,190.77588"
+       sodipodi:start="3.2081952"
+       sodipodi:end="9.4520708"
+       sodipodi:open="true" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       id="rect3887"
+       width="280.83221"
+       height="265.79437"
+       x="396.8349"
+       y="181.0696"
+       clip-path="url(#clipPath3935)"
+       inkscape:export-filename="/Users/roland/Documents/2014/2014-10 (Oct)/KWRoundel2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.0025317,0,0,1.0224364,-5.6774775,-13.710251)" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:BonhamsMMXI;-inkscape-font-specification:BonhamsMMXI"
+       x="417.51544"
+       y="274.7728"
+       id="text4392"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="417.51544"
+         y="274.7728"
+         id="tspan4394"><tspan
+           x="417.51544"
+           y="274.7728"
+           style="font-size:72px;font-weight:500;text-align:start;text-anchor:start;font-family:Feura Sans;-inkscape-font-specification:Feura Sans;fill:#ffffff;fill-opacity:1"
+           id="tspan4396">Katie</tspan><tspan
+           dx="0"
+           x="588.37482"
+           y="274.7728"
+           style="font-size:72px;font-weight:500;text-align:start;text-anchor:start;font-family:Feura Sans;-inkscape-font-specification:Feura Sans;fill:#ffffff;fill-opacity:1"
+           id="tspan4398" /></tspan><tspan
+         sodipodi:role="line"
+         x="417.51544"
+         y="392.85281"
+         id="tspan4400"><tspan
+           x="417.51544"
+           y="392.85281"
+           style="font-size:72px;font-weight:500;text-align:start;text-anchor:start;font-family:Feura Sans;-inkscape-font-specification:Feura Sans;fill:#ffffff;fill-opacity:1"
+           id="tspan4402">Walker</tspan></tspan></text>
+  </g>
+</svg>

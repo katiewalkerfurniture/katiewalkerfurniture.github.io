@@ -31,14 +31,19 @@ body {
 	font: 20px 'socicon';
 	width: 36px;
 	height: 36px;
-	background-color: silver;
+	background-color: #808080;
 	display: inline-block;
 	padding: 8px;
 	text-decoration: none;
+	vertical-align: middle;
 }
 
 .social a.follow {
 	width: 85px;
+}
+
+.social a#mail {
+	padding-top: 10px;
 }
 
 span.normal
@@ -50,7 +55,7 @@ span.normal
 
 
 .social a:hover {
-	background-color: #ffd300;
+	background-image: linear-gradient(#fe1, #ffd300, #fa3);
 	text-decoration: none;
 }
 
@@ -75,6 +80,8 @@ img {
 
 .second_header {
 	height: 2rem;
+	position: relative;
+	top: -0.5rem;
 }
 
 .second_header ul.menu {
@@ -100,23 +107,24 @@ ul.menu {
 }
 
 .menu a {
-	color: black;
-	padding-top: 0.5rem;
+	color: white;
+	padding-top: 0.3rem;
 	padding-left: 1.5rem;
 	padding-right: 1.5rem;
 	height: 2rem;
 	display: inline-block;
-	border-bottom: 3px solid white;
+	background-image: linear-gradient(#ccc, #999, #666);
+	border: 3px solid white;
 	text-decoration: none;
 }
-
 .menu a:hover {
-	background-color: #eee;
+	background-image: linear-gradient(#ccc, #fd0, #666);
 	text-decoration: none;
 }
 
 .menu a.selected{
-	border-color: maroon;
+	background-color: #ffd300;
+	background-image: linear-gradient(#fe1, #ffd300, #fa3);
 }
 
 .ar-wrapper {
@@ -179,9 +187,11 @@ p.lead {
 .header a.logo {
 	width: 100px;
 	height:  100px;
-	background: url(../images/logo2.png) no-repeat;
+	background: url(/public/images/kwroundel.svg);
+	background-size: contain;
 	display: inline-block;
 }
+
 
 .row {
 	display: table-row;
@@ -239,10 +249,10 @@ p.lead {
 
 .item
 {
-	width: 180px;
-	height: 180px;
+	width: 175px;
+	height: 175px;
 	border: 1px solid silver;
-	margin: 0 0.5rem 0.5rem 0;
+	margin: 0 10px 10px 0;
 	display: inline-block;
 }
 
@@ -251,8 +261,6 @@ p.lead {
 }
 
 .itemFont img {
-	margin-right: auto;
-	margin-left: auto;
 }
 
 
