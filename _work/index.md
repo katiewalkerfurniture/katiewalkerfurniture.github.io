@@ -15,27 +15,23 @@ summary: Katie has some stunning work
 
   It can be found by visiting each retailers site including...
 
-  <div class="related">
-      {% for post in site.work %}
-      {% if post.title != "Work" %}
-      {% if post.type contains "buy" %}
-        <div class="item" id="item{{ post.title | remove:' '}}">
-		  <div class="itemFront">
+    <div class="grid">
+      {% for post in site.work %}{% if post.title != "Work" %}{% if post.type contains "buy" %}
+      <div class="cell" id="item{{ post.title | remove:' '}}">
+	      <div class="cell_front">
               <center>
-              <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
-                  <img src="{{ post.thumbnail }}" />
-		      </a>
+                  <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+                      <img src="{{ post.thumbnail }}" />
+                  </a>
               </center>
           </div>
-		  <div class="itemBack">
+		  <div class="cell_back">
               <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
                   <span class="title">{{ post.title }}</span>
-                  {{ post.summary }}
+                  Summary: {{ post.summary }}
               </a>
 	      </div>
-        </div>
-	  {% endif %}
-      {% endif %}
-	  {% endfor %}
-  </div>
+      </div>
+      {% endif %}{% endif %}{% endfor %}
+    </div>
 </div>

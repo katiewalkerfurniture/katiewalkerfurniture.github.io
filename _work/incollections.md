@@ -16,28 +16,24 @@ summary: Katie has some stunning work
   
   [Contact us](https://contact "Contact us") if you would like to discuss a commission.
 
-
-  <div class="related">
-      {% for post in site.work %}
-      {% if post.title != "Work" %}
-      {% if post.type contains "collection" %}
-        <div class="item" id="item{{ post.title | remove:' '}}">
-		  <div class="itemFront">
-              <center>
-              <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
-                  <img src="{{ post.thumbnail }}" />
-		      </a>
-              </center>
-          </div>
-		  <div class="itemBack">
-              <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
-                  <span class="title">{{ post.title }}</span>
-                  {{ post.summary }}
-              </a>
-	      </div>
+  <div class="grid">
+    {% for post in site.work %}{% if post.title != "Work" %}{% if post.type contains "collection" %}
+    <div class="cell" id="item{{ post.title | remove:' '}}">
+	    <div class="cell_front">
+            <center>
+                <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+                    <img src="{{ post.thumbnail }}" />
+                </a>
+            </center>
         </div>
-	  {% endif %}
-      {% endif %}
-	  {% endfor %}
+		<div class="cell_back">
+            <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+                <span class="title">{{ post.title }}</span>
+                Summary: {{ post.summary }}
+            </a>
+        </div>
+    </div>
+    {% endif %}{% endif %}{% endfor %}
   </div>
+
 </div>

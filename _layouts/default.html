@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<!--<link href='http://fonts.googleapis.com/css?family=Fjord+One' rel='stylesheet' type='text/css'>-->
 
   {% include head.html %}
   <body>
@@ -10,9 +11,25 @@
 
     {% include footer.html %}
 
-    {% if page.menus %}
-    {% capture selectMenus %}{% for item in page.menus %}'{{ item }}',{% endfor %}{% endcapture %}
     <script type="text/javascript">
+      function flipCell(el){
+        var el_list = el.getElementsByClassName('cell_back');
+        if (el_list[0].classList)
+          el_list[0].classList.add('show');
+        else
+           el_list[0].className += ' ' + 'show';
+        ;
+      }
+
+      function unflipCell(el){
+        var el_list = el.getElementsByClassName('cell_back');
+        if (el_list[0].classList)
+          el_list[0].classList.remove('show');
+        else
+          el_list[0].show = el_list[0].show.replace(new RegExp('(^|\\b)' + show.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
+      }
+
+
       function ready(fn) {
         if (document.addEventListener) {
           document.addEventListener('DOMContentLoaded', fn);
@@ -25,12 +42,22 @@
       }
 
       ready(function() {
+        {% if page.menus %}
+        {% capture selectMenus %}{% for item in page.menus %}'{{ item }}',{% endfor %}{% endcapture %}
         selectMenus([ {{ selectMenus }} ]);
-        /* add other stuff */
+        {% endif %}
+         /* add other stuff */
       });
 
+       var classFoundList = document.getElementsByClassName('cell');
+        for(var i=0;i<classFoundList.length;i++){
+          classFoundList[i].addEventListener('mouseover', function() { flipCell(this);});
+          classFoundList[i].addEventListener('mouseout', function() { unflipCell(this);});
+          classFoundList[i].addEventListener('click', function() { unflipCell(this);});
+        }
+
+
     </script>
-    {% endif %}
   </body>
 
 </html>

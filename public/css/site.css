@@ -24,35 +24,49 @@ Created: 08Aug2014
 
 body {
 	padding: 0 1rem 1rem;
+	/*font: 16px/22px "Feura", sans-serif;*/
+	/*font: 16px/22px 'Fjord One', serif;*/
+	font: 200 15px/22px "Courier New", Courier, monaco, mono;
+	max-width: 800px;
+	margin-top: 2rem;
+	margin-right: auto;
+	margin-left: auto;
+	color: #515151;
 }
 
 .post {
 	margin-top: 2rem;
 }
 
+.social {
+	display: inline-block;
+	width: 40%;
+	top: 0;
+}
+
 .social a {
 	color: white;
-	font: 20px 'socicon';
-	width: 36px;
-	height: 36px;
+	font: 16px 'socicon';
+	width: 17px;
+	height: 17px;
 	background-color: #808080;
 	display: inline-block;
-	padding: 8px;
+	padding: 6px;
 	text-decoration: none;
 	vertical-align: middle;
 }
 
 .social a.follow {
-	width: 85px;
+	width: 58px;
 }
 
 .social a#mail {
-	padding-top: 10px;
+	padding-top: 6px;
 }
 
 span.normal
 {
-	font: 15px "Gill Sans", sans-serif;
+	font: 11px "Feura", sans-serif;
 	position: relative;
 	top: -5px;
 }
@@ -63,14 +77,39 @@ span.normal
 	text-decoration: none;
 }
 
+#social, #contactFooter, #downloadBrochure {
+	vertical-align: top;
+	
+}
 
-body {
-	font: 16px/22px "Feura", sans-serif;
-	max-width: 800px;
-	margin-top: 2rem;
-	margin-right: auto;
-	margin-left: auto;
-	color: #515151;
+#contactFooter, #downloadBrochure {
+	font-size: 0.7rem;
+}
+
+#contactFooter
+{
+	display: inline-block;
+	text-align: center;
+	width: 29%;
+}
+
+
+
+#downloadBrochure
+{
+	display: inline-block;
+	text-align: right;
+	width: 28%
+}
+
+#downloadBrochure a {
+	color: black;
+}
+
+#rights
+{
+	font-size: 0.5rem;
+	margin-top: 0.5rem;
 }
 
 a {
@@ -78,19 +117,42 @@ a {
 }
 
 img {
+	width: 100%;
+	height: 100&;
 	margin: 0;
 	padding: 0;
+	vertical-align: top;
+}
+
+
+.header a.logo {
+	width: 100px;
+	height:  100px;
+	background: url(/public/images/kwroundel.svg);
+	background-size: contain;
+	position: absolute;
+}
+
+
+.header {
+	width: 100%;
+}
+
+.header .menu {
+	text-align: right;
+	padding-top: 55px;
+	padding-left: 100px;
 }
 
 .second_header {
-	height: 2rem;
+	width:  100%;
+	text-align: right;
 	position: relative;
-	top: -0.5rem;
+	top: -10px;
 }
 
 .second_header ul.menu {
-	float: right;
-	clear: none;
+
 }
 
 
@@ -112,10 +174,10 @@ ul.menu {
 
 .menu a {
 	color: white;
-	padding-top: 0.3rem;
+	padding-top: 0.4rem;
 	padding-left: 1.5rem;
 	padding-right: 1.5rem;
-	height: 2rem;
+	height: 1.8rem;
 	display: inline-block;
 	background-image: linear-gradient(#ccc, #999, #666);
 	border: 3px solid white;
@@ -143,23 +205,6 @@ ul.menu {
     content: '';
 }
 
-/*h1.page-title, h1.post_title {
-    position: absolute;
-    top: 0; bottom: 0; right: 0; left: 0;
-	padding-top: 1rem;
-	padding-left: 1rem;
-	color: white;
-	background-repeat:no-repeat;
-	background-size:contain;
-	background-position:left top;
-	display: inline;
-}*/
-
-div.header-wrapper {
-	position:  relative;
-	margin-bottom: 1rem;
-}
-
 
 h1.page-title, h1.post_title {
 	position: absolute;
@@ -168,14 +213,25 @@ h1.page-title, h1.post_title {
 }
 
 
+h1, h2, h3 {
+	font-family:  "Feura", sans-serif;
+}
+
+
 h1 {
 	margin-bottom: 1rem;
 	font-weight: 600;
-  	font-size: 175%;
+  	font-size: 130%;
 }
 
 h1.red {
 	color: #800;
+}
+
+h2 {
+	margin-bottom: 1rem;
+	font-weight: 600;
+  	font-size: 115%;	
 }
 
 img.page-title, img.post-title {
@@ -188,21 +244,18 @@ p.lead {
 	line-height: 1.5rem;
 }
 
-.header a.logo {
-	width: 100px;
-	height:  100px;
-	background: url(/public/images/kwroundel.svg);
-	background-size: contain;
-	display: inline-block;
+img.right {
+	float: right;
+	margin: 0.5rem 0 0.5rem 0.5rem;
 }
 
-
-.row {
-	display: table-row;
+img.left {
+	float:  left;
+	margin: 0.5rem 0.5rem 0.5rem 0;
 }
 
-.cell {
-	display: table-cell;
+img.top {
+	margin-top:  0;
 }
 
 /* RETAILERS */
@@ -246,48 +299,59 @@ p.lead {
 	margin-top: 1rem;
 }
 
-.related
-{
-	border-top:  none;
+.grid {
+	margin: 1rem 0;
 }
 
-.item
-{
+.cell {
 	width: 175px;
 	height: 175px;
 	border: 1px solid silver;
 	margin: 0 10px 10px 0;
 	display: inline-block;
+	vertical-align: middle;
+	text-align: middle;
+	overflow: hidden;
+	line-height: 170px;
 }
 
-.itemFront {
+.cell_front {
 	height: 100%;
 }
 
-.itemFont img {
+.cell_front img {
+	vertical-align: middle;
 }
 
 
-.itemBack
-{
+.cell_back {
 	padding: 0.5rem;
 	background-color: white;
 	z-index: 10;
-	top: -178px;
+	top: -175px;
 	position: relative;
-	height: 100%;
-	display:  none;
+	height: 90%;
+	opacity: 0;
+	transition-property: opacity;
+    transition-duration: 2s;
+	font-size: 0.8rem;
+	line-height: 1.2rem;
+	word-spacing: -0.2rem;
 }
 
-.itemBack a
-{
-	font-size: 0.8rem;
+.cell_back.show {
+	opacity: 1;
+	transition-property: opacity;
+    transition-duration: 2s;
+}
+
+
+.cell_back a {
 	color: black;
 	text-decoration: none;
 }
 
-.itemBack a span.title
-{
+.cell_back a span.title {
 	font-weight: 600;
 	display: block;
 	margin-bottom: 0.5rem;

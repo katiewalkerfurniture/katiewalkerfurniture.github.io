@@ -4,13 +4,12 @@ title: About Katie Walker
 headimage: 
 menus: 
   - about
-  - work
 tags:
 ---
 
 
 
-A life long study of the ‘art of furniture’ has resulted in Katie working across the board - from small pieces of domestic furniture, through one-off commercial commissions to art based sculptural pieces more at home in a gallery setting. 
+<img class="right top" src="/public/images/katie_walker.jpg" alt="Katie Walker"/> A life long study of the ‘art of furniture’ has resulted in Katie working across the board - from small pieces of domestic furniture, through one-off commercial commissions to art based sculptural pieces more at home in a gallery setting. 
 
 ## In the beginning
 
