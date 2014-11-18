@@ -11,8 +11,9 @@ menus:
   - toBuy
 date: 2004-02-01
 summary: Windsor table
-thumbnail: /public/images/work/KWFWindsorTableThumb.jpg
-headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
+stock: 2
+thumbnail: http://images.quru.com/image?src=/kwf/KWFWindsorTable2012White.jpg&width=175&height=175&fill=auto&fill=%23ffffff&format=jpg&strip=1
+headimage: http://images.quru.com/image?src=/kwf/KWFWindsorTable2012.jpg&height=480&strip=1 
 ---
 _540mm dia x 585mm high (21 1⁄4”dia x 23”)_
 

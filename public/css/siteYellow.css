@@ -73,7 +73,7 @@ span.normal
 
 
 .social a:hover {
-	background-image: linear-gradient(#0000c2, #000080, #00005d);
+	background-image: linear-gradient(#fe1, #ffd300, #fa3);
 	text-decoration: none;
 }
 
@@ -113,7 +113,7 @@ span.normal
 }
 
 a {
-	color: #000080;
+	color: navy;
 }
 
 img {
@@ -181,13 +181,13 @@ ul.menu {
 	text-decoration: none;
 }
 .menu a:hover {
-	background-image: linear-gradient(#0000c2, #000080, #00005d);
+	background-image: linear-gradient(#fe1, #ffd300, #fa3);
 	text-decoration: none;
 }
 
 .menu a.selected{
-	background-color: #000080;
-	background-image: linear-gradient(#0000c2, #000080, #00005d);
+	background-color: #ffd300;
+	background-image: linear-gradient(#fe1, #ffd300, #fa3);
 }
 
 .ar-wrapper {

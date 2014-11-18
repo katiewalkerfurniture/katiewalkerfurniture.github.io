@@ -1,10 +1,11 @@
 ---
+
 layout: about
+
 title: About Katie Walker
-headimage: 
-menus: 
-  - about
-tags:
+
+menus: about
+
 ---
 
 

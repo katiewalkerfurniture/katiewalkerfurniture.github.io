@@ -2,37 +2,21 @@
 layout: default
 title: Work
 menus: 
-    - work
-    - inCollections
-title-style: 
-headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
+  - work
+  - inCollections
+title-style:
 summary: Katie has some stunning work
 ---
 
 {% include workheader.html %}
-<div class="work">
-  Katie Walker's furniture has been purchased by collectors for a
-  number of years.
+<div class="work" markdown="1">
+Katie Walker's furniture has been purchased by collectors for a  number of years.
   
-  [Contact us](https://contact "Contact us") if you would like to discuss a commission.
+[Contact us](https://contact "Contact us") if you would like to discuss a commission.
 
   <div class="grid">
     {% for post in site.work %}{% if post.title != "Work" %}{% if post.type contains "collection" %}
-    <div class="cell" id="item{{ post.title | remove:' '}}">
-	    <div class="cell_front">
-            <center>
-                <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
-                    <img src="{{ post.thumbnail }}" />
-                </a>
-            </center>
-        </div>
-		<div class="cell_back">
-            <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
-                <span class="title">{{ post.title }}</span>
-                Summary: {{ post.summary }}
-            </a>
-        </div>
-    </div>
+    {% include cell.html %}
     {% endif %}{% endif %}{% endfor %}
   </div>
 

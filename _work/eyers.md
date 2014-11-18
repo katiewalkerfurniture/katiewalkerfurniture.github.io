@@ -3,7 +3,7 @@ layout: work
 title: Dining table and benches
 tags:
   - work
-  - colections
+  - collections
 type: 
   - collection
 menus: 

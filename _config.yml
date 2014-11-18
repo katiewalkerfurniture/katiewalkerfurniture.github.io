@@ -1,48 +1,45 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:	  pygments
+markdown:         kramdown
+kramdown:
+  input: GFM
+pygments:         true
+timezone:         Europe/London
+maruku:
+  use_divs:       true
+  fenced_code_blocks: true
 
 # Permalinks
 permalink:        pretty
 
 # Setup
 title:            Katie Walker
-tagline:          Furniture
+tagline:          Furniture design
 url:              http://katiewalkerfurniture.com
 paginate:         1
 baseurl:          /
-images:	 	  /public/images/
 author:
-  name:           Katie Walker
-  url:            https://twitter.com/katiewalker
-  email:          info@kwf.biz
+  name:           Roland Whitehead
+  url:            https://twitter.com/rolandw
+  email:          i.am@rolandw.me
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
+
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "post"
-    values:
-      headimage: ""
+  repo:           https://github.com/katiewalker.furniture/katiewalker.furniture
 
 collections:
   retailers:
     output: true
-    headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
   work:
     output: true
-    headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
   contact:
     output: true
-    headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
   news:
     output: true
-    headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
   links:
     output: true
-    headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
