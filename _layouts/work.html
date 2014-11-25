@@ -5,23 +5,24 @@ layout: default
 {% include workheader.html %}
 <div class="post">
 <h1 class="post-title">{{ page.title }}</h1>
-  <img class="post-title" src="{{ page.headimage }}&width=800&height=300&top=0.135&bottom=0.7" alt=" "/>
+  <img class="post-title" src="{{ page.headimage }}" alt="{{ page.title }}"/>
   {{ content }}
 </div>
 
-<div class="related">
-  <h2>Other retailers</h2>
-  <ul class="related-posts">
-    {% for post in site.retailers.related_posts limit:3 %}
-      <li>
-        <center><img src="{{ post.thumbnail }}" /></center>
-        <h3>
-          <a href="{{ site.baseurl }}{{ collection }}{{ post.url }}">
-            {{ post.title }}
-          </a>
-        </h3>
-            {{ post.excerpt }}
-      </li>
-    {% endfor %}
-  </ul>
+{% if page.stock %}
+<a href="#" class="BuyButton">Buy Now</a>
+<div id="buyNow">
+You can buy this because we have {{ page.stock }} in stock
 </div>
+{% endif %}
+
+
+{% if page.retailer %}
+<h2>Stockists</h2>
+
+<div class="grid">
+  {% for vendor in page.retailer | downcase %}{% for post in site.retailers %}{% if post.title | downcase == vendor %}
+     {% include cell.html %}
+  {% endif %}{% endfor %}{% endfor %}
+</div>
+{% endif %}

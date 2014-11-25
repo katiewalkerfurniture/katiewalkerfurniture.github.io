@@ -15,11 +15,11 @@ menus:
   - toBuy
 date: 200402
 summary: Weight and see mirror rocks
-thumbnail: /public/images/work/KWFWeightAndSeeThumb.jpg
-headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
+thumbnail:  http://images.quru.com:/image?src=/kwf/KWFWeightAndSee2012White.jpg&width=175&height=175&fill=%23ffffff&left=0.2267&top=0.0333&right=0.853&bottom=0.967&format=jpg&strip=1
+headimage:  http://images.quru.com:/image?src=/kwf/KWFWeightAndSee2012.jpg&width=800height=400&fill=%23ffffff&format=jpg&strip=1 
 ---
-_330mm wide x 590mm deep x 1 430mm high
+*330mm wide x 590mm deep x 1 430mm high*
 
-(13” x 231⁄4” x 561⁄4”)_
+*(13” x 231⁄4” x 561⁄4”)*
 
 A cheval mirror in ash with a polished stainless steel ball.
