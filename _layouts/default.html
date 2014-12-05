@@ -33,9 +33,9 @@
 
        var classFoundList = document.getElementsByClassName('cell');
         for(var i=0;i<classFoundList.length;i++){
-          classFoundList[i].kwfAddEventListener('mouseover', function() { flipCell(this);});
-          classFoundList[i].kwfAddEventListener('mouseout', function() { unflipCell(this);});
-          classFoundList[i].kwfAddEventListener('click', function() { unflipCell(this);});
+          classFoundList[i].addEventListener('mouseover', function() { flipCell(this);});
+          classFoundList[i].addEventListener('mouseout', function() { unflipCell(this);});
+          classFoundList[i].addEventListener('click', function() { unflipCell(this);});
         }
     </script>
 
