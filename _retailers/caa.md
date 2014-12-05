@@ -3,7 +3,7 @@ layout: retailers
 title: CAA
 tags:
   - retailer
-summary: Contemporary Applied Arts, based in central London, was founded in 1948 to promote and champion British craft. London's original multi-disciplinary applied arts space showcases the work of more than 350 creative members and has promoted my work for 15 years.
+summary: 89 Southwark Street</br>London SE1 0HX</br>020 7620 0086
 thumbnail: /public/images/caa.jpg
 headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
 ---

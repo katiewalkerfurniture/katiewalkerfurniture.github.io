@@ -12,24 +12,6 @@
     {% include footer.html %}
 
     <script type="text/javascript">
-      function flipCell(el){
-        var el_list = el.getElementsByClassName('cell_back');
-        if (el_list[0].classList)
-          el_list[0].classList.add('show');
-        else
-           el_list[0].className += ' ' + 'show';
-        ;
-      }
-
-      function unflipCell(el){
-        var el_list = el.getElementsByClassName('cell_back');
-        if (el_list[0].classList)
-          el_list[0].classList.remove('show');
-        else
-          el_list[0].show = el_list[0].show.replace(new RegExp('(^|\\b)' + show.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
-      }
-
-
       function ready(fn) {
         if (document.addEventListener) {
           document.addEventListener('DOMContentLoaded', fn);
@@ -51,12 +33,10 @@
 
        var classFoundList = document.getElementsByClassName('cell');
         for(var i=0;i<classFoundList.length;i++){
-          classFoundList[i].addEventListener('mouseover', function() { flipCell(this);});
-          classFoundList[i].addEventListener('mouseout', function() { unflipCell(this);});
-          classFoundList[i].addEventListener('click', function() { unflipCell(this);});
+          classFoundList[i].kwfAddEventListener('mouseover', function() { flipCell(this);});
+          classFoundList[i].kwfAddEventListener('mouseout', function() { unflipCell(this);});
+          classFoundList[i].kwfAddEventListener('click', function() { unflipCell(this);});
         }
-
-
     </script>
 
     <!--[if lte IE 8]>

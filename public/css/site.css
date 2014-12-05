@@ -64,6 +64,11 @@ body {
 	padding-top: 6px;
 }
 
+.social a#mail img {
+	width: 100%;
+	height:  100%;
+}
+
 span.normal
 {
 	font: 11px "Feura", sans-serif;
@@ -116,6 +121,25 @@ a {
 	color: #000080;
 }
 
+a.button {
+	display:  block;
+	width: 8rem;
+	height: 1.8rem;
+	margin-bottom: 1rem;
+	border: none;
+	border-radius: 0.4rem;
+	text-align: center;
+	padding-top: 0.5em;
+}
+
+a#hide_contact.button {
+	display: inline-block;
+}
+
+a.button:hover, form button[type="submit"]:hover, a#hide_contact.button {
+	background-image: linear-gradient(#ccc, #999, #666);
+}
+
 img {
 	margin: 0;
 	padding: 0;
@@ -125,7 +149,7 @@ img {
 .header a.logo {
 	width: 100px;
 	height:  100px;
-	background: url(/public/images/kwroundel.svg);
+	background: url(/public/images/kwroundel25Nov2014.png);
 	background-size: contain;
 	position: absolute;
 }
@@ -185,9 +209,11 @@ ul.menu {
 	text-decoration: none;
 }
 
-.menu a.selected{
+.menu a.selected, a.button, form button[type="submit"], a#hide_contact.button:hover {
 	background-color: #000080;
 	background-image: linear-gradient(#0000c2, #000080, #00005d);
+	color: white;
+	text-decoration: none;
 }
 
 .ar-wrapper {
@@ -233,8 +259,10 @@ h2 {
 
 img.page-title, img.post-title {
 	max-width: 800px;
-	width:  100%;
-	z-index: -1
+	z-index: -1;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
 }
 
 p.lead {
@@ -312,6 +340,12 @@ img.top {
 	line-height: 170px;
 }
 
+#stockists .cell {
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+}
+
 .cell img {
 	width: 100%;
 	height: 100&;
@@ -342,6 +376,10 @@ img.top {
 	word-spacing: -0.2rem;
 }
 
+#stockists .cell_back {
+	top: -100px;
+}
+
 .cell_back.show {
 	opacity: 1;
 	transition-property: opacity;
@@ -360,9 +398,54 @@ img.top {
 	margin-bottom: 0.5rem;
 }
 
+form {
+	max-width: 500px;
+	font: 200 15px/22px "Courier New", Courier, monaco, mono;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="tel"],
+form input[type="url"],
+form textarea {
+    width:100%;
+    box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+    -webkit-box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+    -moz-box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+    border:1px solid #CCC;
+    background:#FFF;
+    margin:0 0 0.5rem;
+    padding:0.8rem;
+    border-radius:0.5rem;
+}
+
+form label span{
+	font-size: 0.8rem;
+	display: block;
+}
+
+form button[type="submit"] {
+    font: 200 15px/22px "Courier New", Courier, monaco, mono;
+    cursor:pointer;
+    width:50%;
+    border:none;
+    margin-bottom: 1rem;
+    margin-right: 2rem;
+    padding: 0.5rem;
+    border-radius:0.5rem;
+}
 
 
+#contact_form {
+	max-height:  0;
+	transition-property: max-height;
+    transition-duration: 2s;
+    overflow: hidden;
+}
 
-
-
-
+#contact_form.show {
+	height: 100%;
+	max-height: 55rem;
+	transition-property: max-height;
+    transition-duration: 2s;
+}

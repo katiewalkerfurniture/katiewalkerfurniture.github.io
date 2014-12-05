@@ -1,0 +1,12 @@
+  <div>
+    <label>
+      <span>Any questions?</span>
+      <textarea name="Questions" placeholder="Do you have special shipping requirement? Any special material choices?" tabindex="99" ></textarea>
+    </label>
+  </div>
+  <input type="hidden" name="url" value="{{ site.url }}{{ page.url  | remove_first: '/' }}">
+  <div>
+    <button name="submit" type="submit" id="contact-submit">Send</button><a href="#!" id="hide_contact" class="button">Close</a>
+  </div>
+
+</form>

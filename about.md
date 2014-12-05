@@ -36,13 +36,5 @@ A full biography is available on request
 ## Awards
 
 <script>
-
-function sayHello(name){
-  alert('Hello ' + name);
-  return false;
-}
-
 addEventListener(document.getElementById('myA'), 'click', function() { sayHello('matt again'); });
-
-
 </script>
