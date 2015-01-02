@@ -1,12 +1,20 @@
 <div class="header">
   <a class="logo" href="{{ site.baseurl }}index.html"> </a>
-  <div class="menu">
-    <ul>
-      <li><a href="{{ site.baseurl }}about" id="about">About</a></li>
-      <li><a href="{{ site.baseurl }}work" id="work">Work</a></li>
-      <li><a href="{{ site.baseurl }}news" id="news">News</a></li>
-      <li><a href="{{ site.baseurl }}links" id="links">Links</a></li>
-      <li><a href="{{ site.baseurl }}contact" id="contact">Contact</a></li>
+<div id="nav">
+    <a href=".#nav" id="show_nav" title="Show navigation"><img src="/public/images/menu.svg" alt="Nav" /></a>
+    <ul id="navigation">
+      <li class="first nodropdown"><a href="{{ site.baseurl }}about" id="about">About</a></li>
+      <li><a href="{{ site.baseurl }}work" id="work">Work</a>
+        <ul class="menu_sub">
+          <li><a href="{{ site.baseurl }}work/index.html" id="toBuy">To Buy</a></li>
+          <li><a href="{{ site.baseurl }}work/forretailers.html" id="forRetailers">For retailers</a></li>
+          <li><a href="{{ site.baseurl }}work/incollections.html" id="inCollections">In collections</a></li>
+          <li><a href="{{ site.baseurl }}work/tocommission.html" id="toCommission">To commission</a></li>
+        </ul>
+      </li>
+      <li class="nodropdown"><a href="{{ site.baseurl }}news" id="news">News</a></li>
+      <li class="nodropdown"><a href="{{ site.baseurl }}links" id="links">Links</a></li>
+      <li class="last nodropdown"><a href="{{ site.baseurl }}contact" id="contact">Contact</a></li>
     </ul>
   </div>
 </div>

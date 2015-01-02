@@ -13,12 +13,11 @@ summary: Katie has some stunning work
 {% include workheader.html %}
 
 <div class="work" markdown="1">
+# The Katie Walker Furniture collection
 
-Katie Walker has designed some lovely furniture during the last 20 years some of which is shown here.
+The Katie Walker Furniture collection comprises a small number of signature pieces designed by Katie Walker which are available to order. It is constantly evolving and is produced using the finest materials, with meticulous attention to detail. As each piece is individually made, some sizes, materials and finishes can be tailored to your requirements.
 
-[A link](/here)
-
-It can be found by visiting each retailers site including something...
+The collection can be viewed by appointment at our studio in West Sussex and some pieces are also available through selected galleries and retailers in the UK.
 
   <div class="grid">
     {% for post in site.work %}{% if post.title != "Work" %}{% if post.type contains "buy" %}

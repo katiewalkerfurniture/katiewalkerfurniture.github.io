@@ -3,7 +3,7 @@
 <!--<link href='http://fonts.googleapis.com/css?family=Fjord+One' rel='stylesheet' type='text/css'>-->
 
   {% include head.html %}
-  <body>
+  <body ontouchstart="" class="notouch">
 
     {% include header.html %}
 
@@ -37,6 +37,10 @@
           classFoundList[i].addEventListener('mouseout', function() { unflipCell(this);});
           classFoundList[i].addEventListener('click', function() { unflipCell(this);});
         }
+
+
+        kwfAddEventListener(document.getElementById('show_nav'), 'click', function() { return toggleById('navigation'); });
+
     </script>
 
     <!--[if lte IE 8]>

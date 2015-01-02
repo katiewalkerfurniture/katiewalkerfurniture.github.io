@@ -73,6 +73,18 @@ function hideById(el_id){
     return false;
 }
 
+function toggleById(el_id){
+    var el = document.getElementById(el_id);
+    if (el != null ) {
+        el.classList.toggle('show');
+    }
+    else {
+        alert(el_id + ' was not found');
+    }
+    return false;
+}
+
+
 
 function flipCell(el){
     var el_list = el.getElementsByClassName('cell_back');

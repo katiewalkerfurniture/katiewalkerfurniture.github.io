@@ -3,9 +3,11 @@ layout: retailers
 title: CAA
 tags:
   - retailer
-summary: 89 Southwark Street</br>London SE1 0HX</br>020 7620 0086
+menus: 
+  - links
+summary: 89 Southwark Street</br>London<br/>SE1 0HX<br/><br/>020 7620 0086
 thumbnail: /public/images/caa.jpg
-headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
+headimage: http://images.quru.com/image?src=/kwf/caa.jpg&height=350&fill=%23ffffff&strip=1
 ---
 [CAA](http://caa.org.uk) is a designer maker co-operative that has been selling Katie's furniture for a number of years.
 

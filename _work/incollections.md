@@ -10,6 +10,8 @@ summary: Katie has some stunning work
 
 {% include workheader.html %}
 <div class="work" markdown="1">
+# Collector's pieces
+
 Katie Walker's furniture has been purchased by collectors for a  number of years.
   
 [Contact us](https://contact "Contact us") if you would like to discuss a commission.

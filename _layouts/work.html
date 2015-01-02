@@ -33,7 +33,7 @@ layout: default
 {% include contactend.html %}
 </div>
 {% else %}
-<p> The {{ page.title }} is currently out of stock at Katie Walker Furniture. If you would like to reserve one please <a href="#!" id="show_contact">click here</a>{% if page.retailer %} or contact one of our stockists{% endif %}.
+<p> The {{ page.title }} is currently out of stock at Katie Walker Furniture.{% if page.stockdate %} We are expecting stock by {{page.stockdate}}{% endif %} If you would like to reserve one please <a href="#!" id="show_contact">click here</a>{% if page.retailer %} or contact one of our stockists{% endif %}.
 <div id="contact_form" class="reserve">
 {% include contact.html %}
  <div>

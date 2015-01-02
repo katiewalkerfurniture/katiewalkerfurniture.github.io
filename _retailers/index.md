@@ -6,23 +6,12 @@ headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie
 summary: Katie works with some fabulous retailers
 ---
 
-<div class="retailers">
-  Katie Walker has design some lovely furniture for lots of designers.
-
-  It can be found by visiting each retailers site including...
-
-  <div class="related">
-      {% for post in site.retailers limit:8 %}
-      {% if post.title != "Retailers" %}
-        <div class="row">
-		  <a class="cell logo" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
-	        <img src="{{ post.thumbnail }}" />
-		  </a>
-		  <a class="cell short-description" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
-			{{ post.summary }}
-		  </a>
-		</div>
-	    {% endif %}
-	  {% endfor %}
+<div class="for_retailers" markdown="1">
+  Katie Walker has designed and developed a number of pieces for retailers that are only available through those retailers.
+  
+  <div class="grid">
+    {% for post in site.work %}{% if post.title != "Work" %}{% if post.type contains "retailer" %}
+    {% include cell.html %}
+    {% endif %}{% endif %}{% endfor %}
   </div>
 </div>

@@ -17,6 +17,7 @@ maker: Sitting Firm
 retailer: 
   - CAA
 stock: 3
+stockdate: Sometime soon
 date: 2004-01-31
 summary: A short summary of the text
 thumbnail: URL of image eg /public/images/work/KWFRibbonRockingChairThumb.jpg

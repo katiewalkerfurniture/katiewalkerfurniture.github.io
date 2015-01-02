@@ -10,18 +10,10 @@ layout: default
 </div>
 
 <div class="related">
-  <h2>Other retailers</h2>
-  <ul class="related-posts">
-    {% for post in site.retailers.related_posts limit:3 %}
-      <li>
-        <img src="{{ post.thumbnail }}" />
-        <h3>
-          <a href="{{ site.baseurl }}{{ collection }}{{ post.url }}">
-            {{ post.title }}
-          </a>
-        </h3>
-            {{ post.excerpt }}
-      </li>
-    {% endfor %}
-  </ul>
+<h2>Stocked items</h2>
+  <div class="grid">
+    {% for post in site.work %}{% if post.title != "Work" %}{% capture lvendor %}{{ page.title | downcase }}{% endcapture %}{% if post.retailer contains lvendor %}
+    {% include cell.html %}
+    {% endif %}{% endif %}{% endfor %}
+  </div>
 </div>
