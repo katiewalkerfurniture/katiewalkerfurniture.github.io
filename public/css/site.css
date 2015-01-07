@@ -196,40 +196,51 @@ img {
 	text-decoration: none;
 }*/
 
-#navigation a.selected, a.button, form button[type="submit"], a#hide_contact.button:hover {
-	background-color: #000080;
-	background-image: linear-gradient(#0000c2, #000080, #00005d);
-	color: white;
-	text-decoration: none;
-}
 
 /* Main navigation layout */
 
 #nav {
 	display: inline-block;
 	float: right;
-	padding-top: 35px;
+	padding-top: 25px;
 	padding-left: 100px;
 }
 
 #nav > a {
 	display: none;
+	width: 30px;
+	height: 30px;
 }
 
-ul#navigation {
+ul#menu {
     margin: 0;
     padding: 0;
 }
 
-ul#navigation li {
+/*ul#navigation li {
     display: inline;
     margin: 0;
     padding: 0;
     float: left;
     position: relative;
- }
+	list-style-type: none;
+}*/
 
-ul#navigation a {
+#nav ul#menu, #nav ul.menu_sub {
+	list-style-type: none
+}
+
+#nav ul#menu li {
+	display: inline;
+	float: left;
+	}
+	
+#nav ul.menu_sub {
+	/*visibility: hidden;
+	display: none;*/
+}
+
+#nav ul#menu a {
 	height: 1.8rem;
 	width: 3.5rem;
 	padding: 0.4rem 1.5rem 0;
@@ -242,11 +253,35 @@ ul#navigation a {
 	text-align: center;
 }
 
+#nav ul#menu a.selected, a.button, form button[type="submit"], a#hide_contact.button:hover, #nav ul#menu a:hover {
+	background-color: #000080;
+	background-image: linear-gradient(#0000c2, #000080, #00005d);
+	color: white;
+	text-decoration: none;
+}
+
+#show_nav, .show_nav {
+	background-color: black;
+	width: 100px;
+	height: 100px;
+}
+
+#mask, .mask {
+	z-index: 5;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left:  0;
+	display: none;
+}
+
 /* @group Dropdowns */
 
 /* Drop-down menu box styles (initially hidden) */
 ul.menu_sub {
-	display: block;
+	display: list-item;
+	padding-left: 0;
 }
 
 ul.menu_sub a {
@@ -255,7 +290,7 @@ ul.menu_sub a {
 	padding-right: 0.5rem !important;
 }
 
-ul#navigation ul {
+ul#menu ul {
     list-style: none;
     padding: 0;
     /* The next 2 styles are very important, being the ones which default the drop-down menu box to hidden */
@@ -272,8 +307,8 @@ ul#navigation ul {
 
 /* Show drop-down menu box on no_touch hover,
    or on (inferred) yes_touch when touched */
-.notouch ul#navigation li:hover > ul,
-          ul#navigation li.touch_on > ul {
+ul#menu li:hover > ul, .notouch ul#menu li:hover > ul,
+          ul#menu li.touch_on > ul {
     /* The next 2 styles are very important, being the ones which show the drop-down menu */
 	visibility: visible;
     opacity: 1;
@@ -286,13 +321,13 @@ ul#navigation ul {
 
 
 /* Don't wrap text on drop-down sub-menu items */
-ul#navigation ul li {
+ul#menu ul li {
     clear:both;
 	white-space: nowrap;
 }
 
 /* Show hover underline on drop-down sub-menu items */
-ul#navigation li a:hover, ul#navigation ul li a:hover {
+ul#menu li a:hover, ul#menu ul li a:hover {
 	background-color: #000080;
 	background-image: linear-gradient(#0000c2, #000080, #00005d);
 }
@@ -626,30 +661,32 @@ a.u-email {
 /* @group Responsive menus */
 
     #nav {
-		padding-top: 5px;
+		width: 7rem;
+		padding-left:  0;
+		padding-top: 0;
 		padding-right: 3rem;
 		margin-right: 2rem;
 		heigth: 2rem;
 		padding-bottom: 2.5rem;
-	    background: url(../images/menu.png) no-repeat scroll right 10px;
+	    background: url(../images/menu.png) no-repeat scroll right 5px;
     }
 	
-	ul#navigation {
+	ul#menu {
 	    max-height:  43px;
 	    z-index: 10;
 	}
 	
 	ul#navigation ul {
-    z-index: 10;
+    	z-index: 10;
 	}
 	
-	ul#navigation li {
-   		 /*display: none;*/
-   		 visibility: hidden;
-	     opacity: 0;
-   		 display: list-item;
-   		 list-style-type: none;
-	    margin: 0;
+	ul#menu li {
+   		display: none;
+   		visibility: hidden;
+	    opacity: 0;
+   		display: list-item;
+   		list-style-type: none;
+	    margin: 0 ;
 	    padding: 0;
 	    float: none;
 	    position: relative;
@@ -659,7 +696,7 @@ a.u-email {
     	transition: opacity 0.5s linear;
    	}
    	
-     ul#navigation:hover > li {
+     #nav:hover > ul#menu li {
 		display: list-item;
 		visibility: visible;
 		opacity: 1;
@@ -675,6 +712,7 @@ a.u-email {
 
 	
 	.footer {
+		width: 100%;
 		position: fixed;
 		padding-top: 1.5rem;
 		bottom: -2.5rem;
