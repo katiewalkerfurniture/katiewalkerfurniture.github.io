@@ -1,11 +1,11 @@
 <div class="header">
   <a class="logo" href="{{ site.baseurl }}index.html"> </a>
 <div id="nav">
-    <a href="#" id="show_nav" title="Show navigation"><img src="/public/images/menu.svg" alt="Nav" /></a>
+    <a href="#" id="show_nav" title="Show navigation"></a>
     <ul id="menu">
       <li class="first nodropdown"><a href="{{ site.baseurl }}about" id="about">About</a></li>
-      <li><a href="{{ site.baseurl }}work" id="work">Work</a>
-        <ul class="menu_sub">
+      <li id="menu_work"><a id="work">Work</a>
+        <ul class="menu_sub" id="menu_work_sub">
           <li><a href="{{ site.baseurl }}work/index.html" id="toBuy">To Buy</a></li>
           <li><a href="{{ site.baseurl }}work/forretailers.html" id="forRetailers">For retailers</a></li>
           <li><a href="{{ site.baseurl }}work/incollections.html" id="inCollections">In collections</a></li>
@@ -18,4 +18,3 @@
     </ul>
   </div>
 </div>
-<div id="mask"></div>

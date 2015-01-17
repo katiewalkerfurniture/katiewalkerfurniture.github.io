@@ -33,6 +33,7 @@ body {
 
 .post, .work {
 	margin-top: 2rem;
+	width: 94%;
 }
 
 .hidden {
@@ -163,6 +164,8 @@ img {
 	width: 100%;
 	display: block;
 	height: 8rem;
+	left: 0;
+	padding-left: 1rem;
 }
 
 /*ul.menu {
@@ -208,8 +211,7 @@ img {
 
 #nav > a {
 	display: none;
-	width: 30px;
-	height: 30px;
+	height: 40px;
 }
 
 ul#menu {
@@ -261,8 +263,7 @@ ul#menu {
 }
 
 #show_nav, .show_nav {
-	background-color: black;
-	width: 100px;
+	width: 100%;
 	height: 100px;
 }
 
@@ -282,6 +283,7 @@ ul#menu {
 ul.menu_sub {
 	display: list-item;
 	padding-left: 0;
+	z-index: 7;
 }
 
 ul.menu_sub a {
@@ -299,24 +301,23 @@ ul#menu ul {
     position: absolute;
     z-index: 10;
     /* css3 transitions for smooth hover effect */
-    -webkit-transition: opacity 0.2s linear;
-    -moz-transition: opacity 0.2s linear;
-    -o-transition: opacity 0.2s linear;
-    transition: opacity 0.2s linear;
+    -webkit-transition: opacity 0.5s linear;
+    -moz-transition: opacity 0.5s linear;
+    -o-transition: opacity 0.5s linear;
+    transition: opacity 0.5s linear;
 }
 
 /* Show drop-down menu box on no_touch hover,
    or on (inferred) yes_touch when touched */
-ul#menu li:hover > ul, .notouch ul#menu li:hover > ul,
-          ul#menu li.touch_on > ul {
+ul#menu > li:hover > ul {
     /* The next 2 styles are very important, being the ones which show the drop-down menu */
 	visibility: visible;
     opacity: 1;
     /* css3 transitions for smooth hover effect */
-    -webkit-transition: opacity 0.2s linear;
-    -moz-transition: opacity 0.2s linear;
-    -o-transition: opacity 0.2s linear;
-    transition: opacity 0.2s linear;
+    -webkit-transition: opacity 0.5s linear;
+    -moz-transition: opacity 0.5s linear;
+    -o-transition: opacity 0.5s linear;
+    transition: opacity 0.5s linear;
 }
 
 
@@ -333,25 +334,6 @@ ul#menu li a:hover, ul#menu ul li a:hover {
 }
 
 /* @end */
-
-
-
-
-/*.header .menu {
-}
-
-.second_header {
-	width:  100%;
-	text-align: right;
-	position: relative;
-	top: -10px;
-}
-
-.second_header ul.menu {
-
-}*/
-
-
 
 
 /*Responsive Styles*/
@@ -477,7 +459,7 @@ img.top {
 	margin-bottom: 1.3rem;
 	display: inline-block;
 	vertical-align: middle;
-	text-align: middle;
+	text-align: center;
 	overflow: hidden;
 	line-height: 175px;
 }
@@ -490,7 +472,7 @@ img.top {
 
 .cell img {
 	width: 100%;
-	height: 100&;
+	height: 100%;
 }
 
 
@@ -557,8 +539,8 @@ form input[type="url"],
 form textarea {
     width:100%;
     box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
-    -webkit-box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
-    -moz-box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+    /*-webkit-box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+    -moz-box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;*/
     border:1px solid #CCC;
     background:#FFF;
     margin:0 0 0.5rem;
@@ -636,10 +618,10 @@ a.u-email {
 @media screen and (max-width : 760px){
 	/*Make dropdown links appear inline*/
 	body {
-		width: 100%;
+		width: 95%;
 		max-width: none;
-		margin-top: 0rem;
-}
+		margin-top: 0;
+	}
 	
 	.header {
 		position:  fixed;
@@ -651,6 +633,7 @@ a.u-email {
 	
 	.post, .work {
 		padding-top: 4rem;
+		padding-bottom: 3rem;
 	}
 
 	.header a.logo {
@@ -661,50 +644,57 @@ a.u-email {
 /* @group Responsive menus */
 
     #nav {
-		width: 7rem;
+		width: 9.5rem;
 		padding-left:  0;
 		padding-top: 0;
-		padding-right: 3rem;
 		margin-right: 2rem;
-		heigth: 2rem;
+		height: 2rem;
 		padding-bottom: 2.5rem;
 	    background: url(../images/menu.png) no-repeat scroll right 5px;
     }
+    
+    #nav > a {
+		display: inline-block;
+	}
+
 	
 	ul#menu {
 	    max-height:  43px;
 	    z-index: 10;
+		position: relative;
+		top: -48px;
 	}
 	
-	ul#navigation ul {
-    	z-index: 10;
-	}
 	
-	ul#menu li {
-   		display: none;
-   		visibility: hidden;
+	ul#menu {
+   		/*visibility: hidden;*/
 	    opacity: 0;
-   		display: list-item;
-   		list-style-type: none;
 	    margin: 0 ;
 	    padding: 0;
 	    float: none;
 	    position: relative;
-		-webkit-transition: opacity 0.5s linear;
+	 	-webkit-transition: opacity 0.5s linear;
     	-moz-transition: opacity 0.5s linear;
     	-o-transition: opacity 0.5s linear;
     	transition: opacity 0.5s linear;
+
    	}
    	
-     #nav:hover > ul#menu li {
-		display: list-item;
-		visibility: visible;
+   	
+     #nav:hover > ul#menu, #nav.show ul#menu {
+		/*visibility: visible;*/
 		opacity: 1;
 		-webkit-transition: opacity 0.5s linear;
     	-moz-transition: opacity 0.5s linear;
     	-o-transition: opacity 0.5s linear;
     	transition: opacity 0.5s linear;
 	}
+	
+	ul#menu li:hover > ul, .notouch ul#menu li:hover > ul, ul#menu li.touch_on > ul {
+		top: 2.5rem;
+		right: 9.5rem;
+	}
+
     
 	
 
@@ -712,12 +702,17 @@ a.u-email {
 
 	
 	.footer {
-		width: 100%;
+		width: 93%;
 		position: fixed;
-		padding-top: 1.5rem;
+		left: 0;
 		bottom: -2.5rem;
 		background-image: linear-gradient(to top, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 85%, rgba(255, 255, 255, 0.0) 100%);
-
+		white-space: nowrap;
+	padding: 1.5rem 1rem 0;
+}
+	
+	.social, #contactFooter, #downloadBrochure {
+		white-space: normal;
 	}
 	
 }
@@ -730,7 +725,7 @@ a.u-email {
   }
 
   #map {
-	  width: 400;
+	  width: 400px;
 	  float: right;
   }
 

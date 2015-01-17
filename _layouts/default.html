@@ -3,7 +3,7 @@
 <!--<link href='http://fonts.googleapis.com/css?family=Fjord+One' rel='stylesheet' type='text/css'>-->
 
   {% include head.html %}
-  <body ontouchstart="" class="notouch">
+  <body>
 
     {% include header.html %}
 
@@ -24,12 +24,8 @@
       }
 
       ready(function() {
-        {% if page.menus %}
-        {% capture selectMenus %}{% for item in page.menus %}'{{ item }}',{% endfor %}{% endcapture %}
-        selectMenus([ {{ selectMenus }} ]);
-        {% endif %}
+        {% if page.menus %}{% capture selectMenus %}{% for item in page.menus %}'{{ item }}',{% endfor %}{% endcapture %}selectMenus([ {{ selectMenus }} ]);{% endif %}
          /* add other stuff */
-      });
 
        var classFoundList = document.getElementsByClassName('cell');
         for(var i=0;i<classFoundList.length;i++){
@@ -38,8 +34,28 @@
           classFoundList[i].addEventListener('click', function() { unflipCell(this);});
         }
 
+        /*if (('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0) || (true)) {*/
+        if (('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0)) {
+           /* browser with either Touch Events of Pointer Events
+           running on touch-capable device */
+           var b = document.getElementsByTagName('body');
+           if (b.length > 0) {
+               if (b[0].classList) {
+                   b[0].classList.add('touch');
+               } else {
+                   b[0].className += ' ' + 'touch';
+               }
+           }
+           kwfAddEventListener(document.getElementById('show_nav'), 'click', show_nav);
+           kwfAddEventListener(document.getElementById('menu_work'), 'click', function() { showById('menu_work_sub');});
+        } else {
+           kwfAddEventListener(document.getElementById('menu_work'), 'click', function() { goToUrl(window.location = )'{{ site.baseurl }}work');});
+        }
+      });
 
-        kwfAddEventListener(document.getElementById('show_nav'), 'click', function() { return toggleById('navigation'); });
+/* href="{{ site.baseurl }}work" */
+/* window.location = {{ site.baseurl }}work;*/
+
 
     </script>
 

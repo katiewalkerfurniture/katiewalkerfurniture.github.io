@@ -32,6 +32,19 @@ function kwfAddEventListener(el, eventName, handler) {
     return false;
 }
 
+function kwfRemoveEventListener(el, eventName, handler) {
+/* Function to add events post DOM load */
+    if (el != null) {
+        if (el.removeEventListener) {
+            el.removeEventListener(eventName, handler, false);
+        } else {
+            el.detachEvent('on' + eventName, handler);
+        }
+    }
+    return false;
+}
+
+
 function selectMenus(theMenus) {
 /* Function to add class 'selected' to current menu items */
     var noOfMenus = theMenus.length;
@@ -84,6 +97,41 @@ function toggleById(el_id){
     return false;
 }
 
+function show_nav(e){
+    e.stopPropagation();
+    showById('nav');
+    /*var el = document.getElementById('nav');
+    if (el != null ) {
+        el.classList.add('show');
+    }
+    else {
+        alert(el_id + ' was not found');
+    }*/
+    var b = document.body; 
+    if (b != null) {
+        kwfAddEventListener(b, 'click', hide_nav);
+    }
+    return false;
+}
+
+function hide_nav(e){
+    e.stopPropagation();
+    hideById('menu_sub_work');
+    hideById('nav');
+    /*var el = document.getElementById('nav');
+    if (el != null ) {
+        el.classList.remove('show');
+    }
+    else {
+        alert(el_id + ' was not found');
+    }*/
+    var b = document.body;
+    if (b != null) {
+        kwfRemoveEventListener(b, 'click', hide_nav);
+    }
+    return false;
+}
+
 
 
 function flipCell(el){
@@ -104,6 +152,13 @@ function unflipCell(el){
             el_list[0].classList.remove('show');
         else
             el_list[0].show = el_list[0].show.replace(new RegExp('(^|\\b)' + show.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
+    }
+    return false;
+}
+
+function goToUrl(addr){
+    if (addr != null ) {
+        window.location=addr;
     }
     return false;
 }
