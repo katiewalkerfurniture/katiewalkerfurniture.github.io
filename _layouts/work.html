@@ -11,9 +11,8 @@ layout: default
     class="post-title gallery_image"
   />
   {{ content }}
-</div>
 
-<div class="grid" id="otherImages">
+<div class="grid clearfix" id="otherImages">
 {% for cell in page.otherimages %}{% include imagecell.html %}{% endfor %}
 </div>
 
@@ -49,11 +48,12 @@ layout: default
 {% endif %}
 {% if page.retailer %}
 <h2>Stockists</h2>
-<div class="grid" id="stockists">
+<div class="grid clearfix" id="stockists">
   {% for vendor in page.retailer %}{% capture lvendor %}{{ vendor | downcase }}{% endcapture %}{% for post in site.retailers %}{% capture lretailer %}{{ post.title | downcase }}{% endcapture %}{% if lretailer == lvendor %}{% include cell.html %}{% endif %}{% endfor %}{% endfor %}
 </div>
 {% endif %}
 
+</div>
 
 <script>
 kwfAddEventListener(document.getElementById('show_contact'), 'click', function() { return showById('contact_form'); });
