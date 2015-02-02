@@ -29,11 +29,12 @@
 
        var classFoundList = document.getElementsByClassName('cell');
         for(var i=0;i<classFoundList.length;i++){
-          classFoundList[i].addEventListener('mouseover', function() { flipCell(this);});
-          classFoundList[i].addEventListener('mouseout', function() { unflipCell(this);});
-          classFoundList[i].addEventListener('click', function() { unflipCell(this);});
-          classFoundList[i].addEventListener('touchstart', function() { flipCell(this);});
-          classFoundList[i].addEventListener('touchleave', function() { unflipCell(this);});
+          classFoundList[i].addEventListener('mouseover', flipCell );
+          classFoundList[i].addEventListener('mouseout', unflipCell );
+          /* classFoundList[i].addEventListener('touchend', function (e) { unflipCell(e, "Go"); } ); */
+          classFoundList[i].addEventListener('touchend', unflipCell, true );
+          classFoundList[i].addEventListener('touchstart', flipCell, false );
+          classFoundList[i].addEventListener('touchleave', unflipCell, false);
         }
 
         /*if (('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0) || (true)) {*/

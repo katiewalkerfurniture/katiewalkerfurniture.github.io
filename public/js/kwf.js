@@ -134,26 +134,29 @@ function hide_nav(e){
 
 
 
-function flipCell(el){
-    var el_list = el.getElementsByClassName('cell_back');
+function flipCell(e){
+   /* e.preventDefault(); */
+    var el_list = this.getElementsByClassName('cell_back');
     if (el_list.length > 0 ) {
         if (el_list[0].classList)
             el_list[0].classList.add('show');
         else
             el_list[0].className += ' ' + 'show';
     }
-    return false;
+    /* return false; */
 }
 
-function unflipCell(el){
-    var el_list = el.getElementsByClassName('cell_back');
+function unflipCell(e, action){
+    if (action != "Go") 
+        e.preventDefault();
+    var el_list = this.getElementsByClassName('cell_back');
     if (el_list.length > 0 ) {
         if (el_list[0].classList)
             el_list[0].classList.remove('show');
         else
             el_list[0].show = el_list[0].show.replace(new RegExp('(^|\\b)' + show.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
     }
-    return false;
+    /* return false; */
 }
 
 function goToUrl(addr){

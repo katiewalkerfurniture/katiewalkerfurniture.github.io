@@ -16,7 +16,7 @@ summary: Katie's latest news
   <h3>Earlier news</h3>
   <div class="related">
       <div class="grid clearfix">
-          {% for post in site.news |sort: "date" offset:1 limit:8 %}{% if post.title != "News" %}
+          {% for post in site.news | sort: "date" offset:1 limit:8 %}{% if post.title != "News" %}
           {% include cell.html %}
           {% endif %}{% endfor %}
       </div>
