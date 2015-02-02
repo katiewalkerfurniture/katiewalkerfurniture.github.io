@@ -1,6 +1,14 @@
 ---
-layout: post
+layout: news
 title: Introducing Poole
+date: 20141220
+menus: 
+  - news
+summary: Some example content
+thumbnail:   /public/images/news.png
+headimage: http://images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&height=350&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
+otherimages:
+  - http://images.quru.com/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20back.tif&width=175&height=175&left=0.03&top=0.133&right=0.97&bottom=0.75&format=jpg&strip=1
 ---
 
 *The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.

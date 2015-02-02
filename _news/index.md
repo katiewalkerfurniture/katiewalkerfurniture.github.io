@@ -1,28 +1,24 @@
 ---
-layout: page
-title: Work
+layout: default
+title: News
+menus: 
+  - news
 title-style: 
-headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
-summary: Katie has some stunning work
+headimage: 
+summary: Katie's latest news
 ---
 
-<div class="work">
-  Katie Walker has designed some lovely furniture during the last 20 years some of which is shown here.
+<div class="work" markdown="1">
+  {% for post in site.news | sort: "date" limit:1 %}
+  {% include news.html %}
+  {% endfor %}
 
-  It can be found by visiting each retailers site including...
-
+  <h3>Earlier news</h3>
   <div class="related">
-      {% for post in site.work limit:8 %}
-      {% if post.title != "Work" %}
-        <div class="row">
-		  <a class="cell logo" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
-	        <img src="{{ post.thumbnail }}" />
-		  </a>
-		  <a class="cell short-description" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
-			{{ post.summary }}
-		  </a>
-		</div>
-	    {% endif %}
-	  {% endfor %}
+      <div class="grid clearfix">
+          {% for post in site.news |sort: "date" offset:1 limit:8 %}{% if post.title != "News" %}
+          {% include cell.html %}
+          {% endif %}{% endfor %}
+      </div>
   </div>
 </div>

@@ -32,6 +32,8 @@
           classFoundList[i].addEventListener('mouseover', function() { flipCell(this);});
           classFoundList[i].addEventListener('mouseout', function() { unflipCell(this);});
           classFoundList[i].addEventListener('click', function() { unflipCell(this);});
+          classFoundList[i].addEventListener('touchstart', function() { flipCell(this);});
+          classFoundList[i].addEventListener('touchleave', function() { unflipCell(this);});
         }
 
         /*if (('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0) || (true)) {*/
@@ -47,9 +49,11 @@
                }
            }
            kwfAddEventListener(document.getElementById('show_nav'), 'click', show_nav);
+           kwfAddEventListener(document.getElementById('show_nav'), 'touchend', show_nav);
            kwfAddEventListener(document.getElementById('menu_work'), 'click', function() { showById('menu_work_sub');});
+           kwfAddEventListener(document.getElementById('menu_work'), 'touchend', function() { showById('menu_work_sub');});
         } else {
-           kwfAddEventListener(document.getElementById('menu_work'), 'click', function() { goToUrl(window.location = )'{{ site.baseurl }}work');});
+           kwfAddEventListener(document.getElementById('menu_work'), 'click', function() { goToUrl(window.location = '{{ site.baseurl }}work');});
         }
       });
 

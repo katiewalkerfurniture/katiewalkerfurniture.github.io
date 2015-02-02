@@ -1,7 +1,6 @@
 ---
 layout: news
 title: What's Jekyll?
-date: 20130130
 menus: 
   - news
 summary: A single laminated band with stainless frame and leather seat

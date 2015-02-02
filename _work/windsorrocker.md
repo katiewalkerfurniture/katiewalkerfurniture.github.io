@@ -18,7 +18,7 @@ stockdate:
 price: £2,100
 date: 2004-01-01
 summary: The Windsor chair as a single band rocker
-thumbnail:  /public/images/work/KWFWindsorRockerThumb.jpg
+thumbnail:  http://images.quru.com/image?src=kwf/KWFWindsorRocker/KWF_Windsor_Rocker_side_view_cut.jpg&width=175&height=175&fill=%23ffffff
 headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
 otherimages:
   - http://images.quru.com/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20back.tif&width=175&height=175&left=0.03&top=0.133&right=0.97&bottom=0.75&format=jpg&strip=1

@@ -1,0 +1,11 @@
+<h1 class="post-title"  markdown="1">{{ post.title }}</h1>
+  <img
+    src="{{ post.headimage }}"
+    alt="{{ post.title }}"
+    class="post-title gallery_image"
+  />
+  {{ post.content }}
+
+<div class="grid clearfix" id="otherImages">
+{% for cell in post.otherimages %}{% include imagecell.html %}{% endfor %}
+</div>
