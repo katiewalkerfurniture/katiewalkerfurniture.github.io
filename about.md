@@ -18,11 +18,11 @@ Katie set up practice in 1994 - a natural step taken to complete commissions gai
 
 During this time Katie also received backing from the Crafts Council enabling the setting up of an in-house work-shop. Work was either made there or by other small scale furniture workshops. The machinery, now housed in a purpose built new site, forms the basis from which designs are still developed today. Although, all other work is now made by larger, more specialist workshops.
 
-## Working with 
+## Working with others
 
 More recently, Katie has collaborated with a number of retailers, designing pieces for their ranges - this work can be seen in the Projects page. These clients include: Benchmark furniture; [Heals](/links/heals.html) and [John Lewis plc](/links/johnlewis.html).
  
-<a href="#" id="myA">Click me</a>
+<!--<a href="#" id="myA">Click me</a>-->
 
 Many of the designs have been recognised with awards and can be found in public galleries and private collections worldwide. 
 
