@@ -32,7 +32,7 @@ body {
 }
 
 .post, .work, .related, .footer {
-	margin-top: 2rem;
+	margin-top: 1rem;
 	padding: 0 15px;
 }
 
@@ -195,7 +195,7 @@ img {
 .header {
 	width: 100%;
 	display: block;
-	height: 8rem;
+	height: 5rem;
 	left: 0;
 	padding-left: 1rem;
 }
@@ -397,7 +397,6 @@ h1.page-title, h1.post_title {
 
 h1, h2, h3 {
 	font-family: 'EB Garamond', serif;
-	/*font-family: "Open Sans", sans-serif;*/
 	font-style: normal;
 }
 
@@ -687,7 +686,7 @@ a.u-email {
 		background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 70%, rgba(255, 255, 255, 0.0) 100%);
 		top: 0;
 		padding-top: 1rem;
-		height: 5rem;	
+		height: 3rem;	
 	}
 	
 	.post, .work {

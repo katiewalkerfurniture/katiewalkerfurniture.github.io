@@ -1,13 +1,15 @@
 ---
-layout: page
+layout: default
 title: Links
 title-style: white
 headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
 summary: Katie has some stunning work
 ---
 
-<div class="work">
-  Katie Walker has worked with some lovely people.
+<div class="work" markdown="1">
+  Katie was forged a number of strong relationships with a number of retailers, galleries and manufacturers. Not only do these companies sell furniture from the Katie Walker Furniture range but they also sell works that Katie has specifically designed for them.
+  
+  A number of public collections have some of Katie's work which is therefore accessible to the public.
 
 
   <div class="related">
