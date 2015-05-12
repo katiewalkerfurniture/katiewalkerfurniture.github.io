@@ -42,8 +42,8 @@ Katie can also be contacted at:
   <data class="p-tz" value="-0000">GMT</data>
   <p class="p-tel tel">+44 7747 615323</p>
 <p class="u-url url">{{ site.url }}</p>
-<a class="u-email email" href="mailto:info@kwf.biz">info@kwf.biz</a>
-</div>
+<!-- <a class="u-email email" href="mailto:info@kwf.biz">info@kwf.biz</a>
+ --></div>
 
 <div id="map">
 <iframe

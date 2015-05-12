@@ -13,7 +13,7 @@ summary: Katie has some stunning work
 {% include workheader.html %}
 
 <div class="work" markdown="1">
-# The Katie Walker Furniture collection
+<!-- # The Katie Walker Furniture collection -->
 
 The Katie Walker Furniture collection comprises a small number of signature pieces designed by Katie Walker which are available to order. It is constantly evolving and is produced using the finest materials, with meticulous attention to detail. As each piece is individually made, some sizes, materials and finishes can be tailored to your requirements.
 

@@ -10,31 +10,12 @@ menus: about
 
 
 
-<img class="right top" src="/public/images/katie_walker.jpg" alt="Katie Walker"/> A life long study of the ‘art of furniture’ has resulted in Katie working across the board - from small pieces of domestic furniture, through one-off commercial commissions to art based sculptural pieces more at home in a gallery setting. 
+<img class="right top" src="http://images.quru.com/image?src=/kwf/Katie_4.jpg&width=200" alt="Katie Walker"/> I aim to produce original pieces of beautifully crafted contemporary furniture. Having studied at the Royal College of Art, I have a fine art based approach - I strive to create pieces which are as beautiful as they are functional, often with an added element of surprise.
 
-## In the beginning
+Since 1994, my designs have been recognised with many awards and pieces can be found in public galleries and private collections worldwide. My work ranges from the light, witty ‘Weight & see’ coeval mirror through commercial commissions to art based sculptural pieces such as the ‘Winged’ seat.
 
-Katie set up practice in 1994 - a natural step taken to complete commissions gained as the result of her final show at the Royal College of Art the previous year. These formative years were spent working on corporate and private commissions and developing the inaugural pieces in the Katie Walker furniture collection, some of which are still available to order today.
+Collaborations with other workshops has brought with it the opportunity to work with a number of retailers, designing pieces for their ranges. These clients include: Benchmark furniture; Heals and John Lewis plc.
 
-During this time Katie also received backing from the Crafts Council enabling the setting up of an in-house work-shop. Work was either made there or by other small scale furniture workshops. The machinery, now housed in a purpose built new site, forms the basis from which designs are still developed today. Although, all other work is now made by larger, more specialist workshops.
+I have an uncompromising commitment to quality, a rigorous approach to the process of design and I am passionate about keeping the industry alive.
 
-## Working with others
-
-More recently, Katie has collaborated with a number of retailers, designing pieces for their ranges - this work can be seen in the Projects page. These clients include: Benchmark furniture; [Heals](/links/heals.html) and [John Lewis plc](/links/johnlewis.html).
- 
-<!--<a href="#" id="myA">Click me</a>-->
-
-Many of the designs have been recognised with awards and can be found in public galleries and private collections worldwide. 
-
-
-## Design Community activites
-
-I feel passionately about design and in particular the quality of design in the area of small scale batch production and bespoke commissions areas it appears that one can get away with murder. As such I  am an active Member of [CAA](/links/caa.html), a Trustee of [The Edward Marshall Trust](http://edmarshalltrust.org.uk), and a Judge of the [Wood Awards](http://www.woodawards.com).
-
-A full biography is available on request
-
-## Awards
-
-<script>
-addEventListener(document.getElementById('myA'), 'click', function() { sayHello('matt again'); });
-</script>
+All pieces are hand made in the UK using only the finest quality materials.
