@@ -19,30 +19,26 @@ layout: default
 {% if page.stock > 0 %}
 <a href="#!" class="button" id="show_contact">Buy Now</a>
 <div id="contact_form" class="order">
-<p>We currently have {{ page.stock }} in stock at {{ page.price }}.</p>
-<p>If you would like to purchase a {{ page.title }} then please complete the following form and we will contact you to discuss your options and delivery within {{ site.data.respond.days }} working days.
+<!-- <p>We currently have {{ page.stock }} in stock at {{ page.price }}.</p>
+ --><p>If you would like to purchase a {{ page.title }} then please complete the following form and we will contact you to discuss your options and delivery within {{ site.data.respond.days }} working days.
 {% include contact.html %}
-  <div>
-    <label>
-      <span>Quantity needed: (required)</span>
-      <input name="Quantity" value="1" placeholder="United Kingdom" type="integer" tabindex="9" required>
-    </label>
-  </div>
-  <input name="Type" value="Order" type="hidden">
+   <input name="Type" value="Order" type="hidden">
 {% include contactend.html %}
 </div>
-{% else %}
+{% elsif page.stock == 0 %}
 <p> The {{ page.title }} is currently out of stock at Katie Walker Furniture.{% if page.stockdate %} We are expecting stock by {{page.stockdate}}{% endif %} If you would like to reserve one please <a href="#!" id="show_contact">click here</a>{% if page.retailer %} or contact one of our stockists{% endif %}.
 <div id="contact_form" class="reserve">
 {% include contact.html %}
- <div>
-    <label>
-      <span>Quantity to reserve: (required)</span>
-      <input name="Quantity" value="1" placeholder="United Kingdom" type="integer" tabindex="9" required>
-    </label>
-  </div>
-
+ 
   <input name="Type" value="Reserve" type="hidden">
+{% include contactend.html %}
+</div>
+{% else %}
+<p> The {{ page.title }} is made to order. If you would like more information or to place an order then please  <a href="#!" id="show_contact">click here</a>{% if page.retailer %} or contact one of our stockists{% endif %}.
+<div id="contact_form" class="reserve">
+{% include contact.html %}
+ 
+  <input name="Type" value="Enquire" type="hidden">
 {% include contactend.html %}
 </div>
 {% endif %}
