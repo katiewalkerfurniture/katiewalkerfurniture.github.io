@@ -13,7 +13,7 @@ retailer:
 menus: 
   - work 
   - toBuy
-date: 200402
+date: 2004-02-01
 stock: 0
 stockdate: January 2015
 summary: Weight and see mirror rocks

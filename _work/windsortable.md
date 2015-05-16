@@ -9,7 +9,7 @@ type:
 menus: 
   - work 
   - toBuy
-date: 2004-02-01
+date: 2004-03-01
 summary: Windsor table
 stock: 2
 thumbnail: http://images.quru.com/image?src=/kwf/KWFWindsorTable2012White.jpg&width=175&height=175&fill=auto&fill=%23ffffff&format=jpg&strip=1
