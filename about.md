@@ -20,7 +20,7 @@ I have an uncompromising commitment to quality, a rigorous approach to the proce
 
 All pieces are hand made in the UK using only the finest quality materials.
 
-<br/>
+---
 
 *“The Ribbon rocking chair is actually extraordinary and very memorable - __a classic of our time__”*
 Kevin McCloud, Grand Designs
