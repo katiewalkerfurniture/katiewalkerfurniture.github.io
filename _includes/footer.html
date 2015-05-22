@@ -3,12 +3,12 @@
     <div class="social">
         <!-- See http://socicon.com/ for details of the fonts used for this -->
         <!-- Twitter -->
-        <a href="https://twitter.com/share" class="twitter-share-button" data-via="katiewalkerfurn" data-count="none" data-dnt="true">a</a>
+        <a href="https://twitter.com/intent/tweet?via=katiewalkerfurn&text={{ page.summary | replace:' ','+' }}&url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" class="twitter-share-button" data-via="katiewalkerfurn" data-count="none" data-dnt="true">a</a>
         <a target="_blank" class="follow" href="https://twitter.com/katiewalkerfurn">a <span class="normal"> Follow </span></a>
         <!-- G+ -->
         <a target="_blank" href="https://plus.google.com/u/0/114480525122479352491">c</a>
         <!-- Pinterest -->
-        <a href="http://pinterest.com/pin/create/button/?url={{ site.baseurl }}{{ post.url | remove_first: '/' }}&media={{ post.headimage | escape }}&description={{ post.summary }}" target="_blank">d</a>
+        <a href="http://pinterest.com/pin/create/button/?url={{ site.url | uri_escape }}{{ page.url | uri_escape }}&media={{ page.headimage }}&description={{ page.summary | replace:' ','+' }}" target="_blank">d</a>
 <!--
 baseurl:{{ site.baseurl }}
 url:{% if post %}{{ post.url | remove_first: '/' }}{% else %}{{ page.url | remove_first: '/' }}{% endif %}
