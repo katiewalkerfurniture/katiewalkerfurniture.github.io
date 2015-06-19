@@ -8,7 +8,7 @@ headimage:
 summary: Katie's latest news
 ---
 
-<div class="work" markdown="1">
+<div class="news" markdown="1">
   {% for post in site.news | sort: "date" limit:1 %}{% capture currenttitle%}{{ post.title }}{% endcapture %}
   {% include news.html %}
   {% endfor %}
