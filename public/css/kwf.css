@@ -1,8 +1,3 @@
-/* @override 
-	http://localhost:4000/public/css/kwf.css
-	http://0.0.0.0:4000/public/css/kwf.css
-*/
-
 /*
 kwf.css
 Author: Roland Whitehead
@@ -168,9 +163,10 @@ img {
 	width:  100%;
 }
 
-.actual_size img {
+.actual_size img, img.actual_size {
 	width: auto;
 }
+
 
 em strong
 {
