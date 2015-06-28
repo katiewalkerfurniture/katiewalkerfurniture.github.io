@@ -4,15 +4,15 @@ title: Beam table
 tags:
   - work
   - caa
-type: 
+type:
   - buy
   - retailer
 retailer:
 
-menus: 
+menus:
   - work
   - toBuy
-date: 1996-01-01
+date: 1995-01-01
 summary: A dining table in oak with a white lacquer finish
 thumbnail: http://images.quru.com/image?src=kwf/KWFBeamTableWhite.jpg&width=175&height=175&fill=%23ffffff
 headimage: http://images.quru.com/image?src=kwf/KWFBeamTable.jpg&right=0.99&bottom=0.99

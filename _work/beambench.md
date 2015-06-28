@@ -12,7 +12,7 @@ retailer:
 menus:
   - work
   - toBuy
-date: 1996-05-01
+date: 1999-01-01
 summary: An upholstered seat in oak with a white oil finish
 thumbnail: http://images.quru.com/image?src=kwf/KWFBeamBench2012.jpg&width=175&height=175&left=0.1&right=0.85&fill=auto
 headimage: http://images.quru.com/image?src=kwf/KWFBeamBench2012.jpg&left=0&right=0.9&top=0.15&bottom=0.9

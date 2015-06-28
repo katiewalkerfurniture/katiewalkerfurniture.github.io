@@ -5,15 +5,15 @@ tags:
   - work
   - caa
   - kwf
-type: 
+type:
   - buy
   - retailer
 retailer:
   - caa
-menus: 
-  - work 
+menus:
+  - work
   - toBuy
-date: 2004-02-01
+date: 2002-01-01
 stock: 0
 stockdate: January 2015
 summary: Weight and see mirror rocks
