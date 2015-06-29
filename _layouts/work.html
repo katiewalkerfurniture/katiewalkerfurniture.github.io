@@ -5,7 +5,14 @@ layout: default
 {% include workheader.html %}
 <div class="post">
   <img
-    src="{{ page.headimage }}&width=770"
+    sizes="(max-width:360px) 342w,
+           (min-width:361px) 770w
+           100%"
+    srcset="{{ page.headimage }}&width=342 342w,
+            {{ page.headimage }}&width=770 770w, 
+            {{ page.headimage }}&width=1440 2x,
+            {{ page.headimage }}&width=2880 4x
+    src="{{ page.headimage }}&quality=65&width=342"
     alt="{{ page.title }}"
     class="post-title gallery_image"
   />
