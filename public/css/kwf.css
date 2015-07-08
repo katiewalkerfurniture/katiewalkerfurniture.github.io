@@ -1,8 +1,3 @@
-/* @override 
-	http://localhost:4000/public/css/kwf.css
-	http://0.0.0.0:4000/public/css/kwf.css
-*/
-
 /*
 kwf.css
 Author: Roland Whitehead
@@ -44,6 +39,7 @@ body {
 
 .footer {
 	margin-top: 2rem;
+	z-index: 20;
 }
 
 .work .related {
@@ -166,7 +162,7 @@ img {
 	margin: 0;
 	padding: 0;
 	vertical-align: top;
-	width:  100%;
+	/*width:  100%;*/
 }
 
 .actual_size img, img.actual_size {
@@ -223,7 +219,7 @@ hr
 	display: block;
 	height: 7rem;
 	background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 75%, rgba(255, 255, 255, 0.0) 100%);
-	z-index: 20;
+	position: static;
 }
 
 .ar-wrapper {
@@ -276,7 +272,7 @@ img.page-title, img.post-title {
 	z-index: -1;
 	margin-right: auto;
 	margin-left: auto;
-	display: block;
+	/*display: block;*/
 }
 
 .gallery_image, .pointer {
@@ -548,9 +544,9 @@ a#show_nav {
     transition-duration: 1s;
 }
 
-#nav ul, #nav ul ul {
+/*#nav ul, #nav ul ul {
 	list-style-type: none;
-}
+}DELETEME*/
 
 #nav.show ul#menu {
 	margin: 0;
@@ -631,12 +627,12 @@ a#show_nav {
 	}
 	
 	#rights {
-		/*position: fixed;
+		position: fixed;
 		right:  20px;
-		bottom: 10px;*/
-		float: right;
+		bottom: 10px;
+		/*float: right;
 		position:  relative;
-		top: -40px;
+		top: -45px;*/
 	}
 	
 }
@@ -695,15 +691,12 @@ a#show_nav {
 }
 
 #nav {
-	float:  right;
+	float: left;
+	position:  relative;
+	top: -4.5rem;
 	padding-top: 25px;
-	position: absolute;
-	top: 2rem;
-	right: 2rem;
-	background: none;
-	display: inline;
-	height:  9rem;
-	max-height: 9rem;
+	max-height: inherit;
+	width:  100%;
 }
 
 #nav > a {
@@ -715,12 +708,12 @@ a#show_nav {
     margin: 0;
     padding: 0;
     border: none;
+    float:  right;
 }
 
 
 #nav ul#menu, #nav ul.menu_sub {
 	list-style-type: none;
-	z-index: 95;
 }
 
 #nav ul#menu li {
@@ -769,11 +762,11 @@ a#show_nav {
 /* @group Dropdowns */
 
 /* Drop-down menu box styles (initially hidden) */
-ul.menu_sub {
+/*ul.menu_sub {
 	display: list-item;
 	padding-left: 0;
 	z-index: 7;
-}
+} DELETEME */
 
 ul.menu_sub a {
 	width: 8rem !important;
@@ -787,13 +780,14 @@ ul#menu ul {
     /* The next 2 styles are very important, being the ones which default the drop-down menu box to hidden */
     visibility: hidden;
     opacity: 0;
-    position: absolute;
-    z-index: 10;
+    position: fixed;
+    z-index: 910;
     /* css3 transitions for smooth hover effect */
     -webkit-transition: opacity 0.5s linear;
     -moz-transition: opacity 0.5s linear;
     -o-transition: opacity 0.5s linear;
     transition: opacity 0.5s linear;
+	top: 6.5rem;
 }
 
 /* Show drop-down menu box on no_touch hover,
