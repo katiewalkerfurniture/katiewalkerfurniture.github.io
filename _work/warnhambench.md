@@ -9,11 +9,12 @@ retailer:
 menus:
   - work
   - toBuy
+order: 110
 stock: 1
 stockdate:
 price:
 date: 2000-01-01
-summary: A limited edition outdoor seat in oak
+summary: 
 thumbnail:  http://images.quru.com/image?src=kwf/Warnham%20bench%2034sq.jpg&width=175&height=175&fill=auto
 headimage: http://images.quru.com/image?src=kwf/Warnham%20bench%2034sq.jpg
 otherimages:

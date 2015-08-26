@@ -32,7 +32,11 @@ layout: default
 {% include contactend.html %}
 </div>
 {% else %}
+{% if page.type contains "commission" %}
+<p> The {{ page.title }} was a site specific committion. If you would like more information on this commission or to enquire about the commissioning proces then please <a href="#!" id="show_contact">click here</a>.
+{% else %}
 <p> The {{ page.title }} is made to order. If you would like more information or to place an order then please  <a href="#!" id="show_contact">click here</a>{% if page.retailer %} or contact one of our stockists{% endif %}.
+{% endif %}
 <div id="contact_form" class="reserve">
 {% include contact.html %}
 

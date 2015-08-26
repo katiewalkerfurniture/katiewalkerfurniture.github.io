@@ -4,16 +4,16 @@ title: Woven Windsor rocker
 tags:
   - work
 type:
-  - buy
 retailer:  
 menus:
   - work
   - toBuy
+order: 
 stock: 1
 stockdate:
 price:
 date: 2012-01-01
-summary: A one-off version of the Windsor rocking chair with a woven leather seat
+summary: 
 thumbnail:  http://images.quru.com/image?src=/kwf/KWF_Woven_Windsor_Rocker_front_3_quarters_4724.JPG&width=175&height=175&right=0.98438&left=0.0375
 headimage: http://images.quru.com/image?src=/kwf/KWF_Woven_Windsor_Rocker_side.JPG
 otherimages:

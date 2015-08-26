@@ -13,18 +13,35 @@ retailer:
 menus:
   - work
   - toBuy
+order: 40
 stock: 2
 stockdate:
 price: £4,995
 date: 2006-01-01
-summary: A single laminated band with stainless frame and leather seat
+summary: 
 thumbnail:   http://images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_side_on_white.jpg&width=175&height=175&fill=%23ffffff&left=0.07428571428571429&top=0.06285714285714286&right=0.9142857142857143&bottom=0.9257142857142857&format=jpg&strip=1
-headimage: http://images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
+headimage: http://images.quru.com:/image?src=/kwf/KWFRibbonRocker/KWF%20Walnut%20Ribbon%20front%2034.jpeg 
 otherimages:
   - http://images.quru.com/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20back.tif&width=175&height=175&left=0.03&top=0.133&right=0.97&bottom=0.75&format=jpg&strip=1
   - http://images.quru.com/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20front%20on.tif&top=0.16&bottom=0.82&width=175&height=175&format=jpg&strip=1
   -  http://images.quru.com:/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20side.tif&width=175&height=175&left=0.1&right=0.9&fill=auto&format=jpg&strip=1
-  - http://images.quru.com:/image?src=/kwf/KWFRibbonRocker/KWF%20Walnut%20Ribbon%20front%2034.jpeg&width=175&height=175&fill=%23ffffff&left=0.156&top=0.08125&right=0.839&bottom=0.965&format=jpg&strip=1
+  - http://images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
 ---
 _790mm wide x 1130mm deep x 860mm high (31 ” x 441⁄2” x 333⁄4”)_
 A single continuous band of laminated rippled ash with saddle leather seat on a stainless steel frame.
+
+---
+
+*“The Ribbon rocking chair is actually extraordinary and very memorable - __a classic of our time__”*
+Kevin McCloud, Grand Designs
+
+*“It is so difficult to create a truly original chair`: the minimalist, sculptural and beautifully balanced Ribbon rocking chair is a stunning re-invention of the traditional rocking chair and an __inspired__ combination of craft values with sleek contemporary design”.*
+Janet Boston, Manchester Art Gallery
+
+*“knowing what is possible yet pushing the boundaries of production can result in a simplicity that is greater than the sum of its parts - this award winning chair is __wooden poetry__”*
+Allen Boothroyd, Meridian Audio
+
+*“It is a revolution in rocking chairs - one seamless ribbon of timber from which the seat is slung. How will anyone ever do better? Rocking chair __design come of age!__”*
+Jon Snow
+
+---

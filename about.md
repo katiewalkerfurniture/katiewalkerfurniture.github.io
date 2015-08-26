@@ -20,16 +20,3 @@ I have an uncompromising commitment to quality, a rigorous approach to the proce
 
 All pieces are hand made in the UK using only the finest quality materials.
 
----
-
-*“The Ribbon rocking chair is actually extraordinary and very memorable - __a classic of our time__”*
-Kevin McCloud, Grand Designs
-
-*“It is so difficult to create a truly original chair`: the minimalist, sculptural and beautifully balanced Ribbon rocking chair is a stunning re-invention of the traditional rocking chair and an __inspired__ combination of craft values with sleek contemporary design”.*
-Janet Boston, Manchester Art Gallery
-
-*“knowing what is possible yet pushing the boundaries of production can result in a simplicity that is greater than the sum of its parts - this award winning chair is __wooden poetry__”*
-Allen Boothroyd, Meridian Audio
-
-*“It is a revolution in rocking chairs - one seamless ribbon of timber from which the seat is slung. How will anyone ever do better? Rocking chair __design come of age!__”*
-Jon Snow

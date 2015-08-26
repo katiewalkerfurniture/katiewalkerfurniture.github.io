@@ -13,10 +13,11 @@ retailer:
 menus:
   - work
   - toBuy
+order: 10
 date: 2002-01-01
 stock: 0
 stockdate: January 2015
-summary: Weight and see mirror rocks
+summary: 
 thumbnail:  http://images.quru.com:/image?src=/kwf/KWFWeightAndSee2012White.jpg&width=175&height=175&fill=%23ffffff&left=0.2267&top=0.0333&right=0.853&bottom=0.967&strip=1
 headimage: http://images.quru.com:/image?src=/kwf/KWFWeightAndSee2012White.jpg&height=350&left=0.2267&top=0.0333&right=0.853&bottom=0.967&strip=1
 otherimages:

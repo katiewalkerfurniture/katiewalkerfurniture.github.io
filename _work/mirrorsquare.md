@@ -12,8 +12,9 @@ retailer:
 menus:
   - work
   - toBuy
+order: 80
 date: 2002-01-01
-summary: A square wall hung mirror in burr oak with a solid silver inlay and a lacquer finish.
+summary: 
 thumbnail:  http://images.quru.com/image?src=kwf/KWFSquareMirrorWhite.jpg&left=0.12188&right=0.875&bottom=0.86563&top=0.1125&width=175&height=175
 headimage: http://images.quru.com/image?src=kwf/KWFSquareMirrorWhite.jpg&left=0.12188&right=0.875&bottom=0.86563&top=0.1125
 ---

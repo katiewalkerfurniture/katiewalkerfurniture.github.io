@@ -12,6 +12,7 @@ retailer:
 menus:
   - work
   - toBuy
+order: 50
 date: 1995-01-01
 summary: A dining table in oak with a white lacquer finish
 thumbnail: http://images.quru.com/image?src=kwf/KWFBeamTableWhite.jpg&width=175&height=175&fill=%23ffffff

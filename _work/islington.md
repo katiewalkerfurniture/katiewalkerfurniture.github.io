@@ -12,10 +12,10 @@ menus:
   - work
   - toCommission
 date: 1999-01-01
-summary: A private dining table
+summary: 
 thumbnail: http://images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg&right=0.85313&left=0.225
 headimage: http://images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg
-stripimage: http://images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg&bottom=0.681&top=0.061&autocropfit=1
+stripimage: http://images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg&bottom=0.68&top=0.068&autocropfit=1
 otherimages:
   - http://images.quru.com/image?src=kwf/commissions/KWFIslingtonchair.tif
   - http://images.quru.com/image?src=kwf/commissions/KWFIslingtonTableLegs.tif
