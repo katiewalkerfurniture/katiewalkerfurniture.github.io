@@ -1,0 +1,6 @@
+<div class="strip pointer {{ page.style }}" id="item{{ page.title | remove:' '}}">
+    <a href="{{ site.baseurl }}{{ page.url | remove_first: '/' }}">
+        <img src="{{ page.stripimage }}&width=342&height=131" srcset="{{ page.stripimage }}&width=342&height=131 360w, {{ page.stripimage }}&width=770&height=294 800w,  {{ page.stripimage }}&width=1440&height=550 2x" border="0" />
+        <div class="label">{{ page.title }}</div>
+     </a>
+</div>

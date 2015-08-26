@@ -1,3 +1,8 @@
+/* @override 
+	http://localhost:4000/public/css/kwf.css
+	http://0.0.0.0:4000/public/css/kwf.css
+*/
+
 /*
 kwf.css
 Author: Roland Whitehead
@@ -29,8 +34,8 @@ body {
 	color: #515151;
 }
 
-.post, .work, .news, .related, .footer {
-	margin-top: 1rem;
+.post, .work, .news {
+	margin-top: 2.5rem;
 }
 
 .content {
@@ -40,10 +45,12 @@ body {
 .footer {
 	margin-top: 2rem;
 	z-index: 20;
+	margin-top: 1rem;
 }
 
 .work .related {
 	padding: 0;
+	margin-top: 1rem;
 }
 
 .hidden {
@@ -518,6 +525,50 @@ a.u-email {
     clear: both;
 }
 
+/* Styles for strips on index */
+.strip {
+	border: 1px solid #ddd;
+	margin-bottom:  1.5rem;
+}
+
+.strip img {
+	width: 100%;
+	height: 100%;
+}
+
+.strip .label {
+	float: left;
+	position: relative;
+	top: -2rem;
+	left: 1rem;
+	color: black;
+	white-space: nowrap;
+	font-weight: 400;
+}
+
+.strip.red .label {
+	color: maroon;
+}
+
+.strip.blue .label {
+	color: navy;
+}
+
+.strip.green .label {
+	color: green;
+}
+
+
+.strip.right .label {
+	float: right;
+	right: 1rem;
+}
+
+
+.strip a {
+		text-decoration: none;
+}
+
 a#show_nav {
 	float:  right;
 	display: block;
@@ -544,9 +595,9 @@ a#show_nav {
     transition-duration: 1s;
 }
 
-/*#nav ul, #nav ul ul {
+#nav ul, #nav ul ul {
 	list-style-type: none;
-}DELETEME*/
+}
 
 #nav.show ul#menu {
 	margin: 0;
@@ -569,6 +620,7 @@ a#show_nav {
 #nav li {
 	padding: 0.5rem 0;
 }
+
 
 #nav li a:hover {
 	font-weight: 500;
@@ -667,6 +719,7 @@ a#show_nav {
 		position: relative;
 		left: -80px;
 		float: left;
+		z-index: 1000;
 	}
 	
 	.logoImage{
