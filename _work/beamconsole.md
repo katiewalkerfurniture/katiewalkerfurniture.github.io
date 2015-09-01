@@ -21,4 +21,5 @@ style: green
 ---
 _1345mm long x 470mm wide x 850mm high. (53” x 18&frac12;” x 33&frac12;”)_
 
-A side table in oak with a white lacquer finish. Also available in other woods, sizes and finishes.
+A side table in oak with a white lacquer finish. The drawer bottom is cedar.
+Also available in other woods, sizes and finishes.

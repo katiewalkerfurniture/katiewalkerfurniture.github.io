@@ -12,6 +12,7 @@ menus:
   - work
   - toBuy
 order: 100
+stock: 1
 date: 2012-01-01
 summary: 
 thumbnail:  http://images.quru.com/image?src=kwf/KWFRectangularMirrorWhite.jpg&width=175&height=175&fill=%23ffffff
@@ -22,3 +23,4 @@ style: black left
 _580mm x 800mm. (22&frac34;” x 31&frac12;”)_
 
 A rectangular wall hung mirror in quarter sawn oak with a solid silver inlay and a lacquer finish.
+Also available in fumed oak or walnut.

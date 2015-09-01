@@ -10,14 +10,28 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   {{ content }}
 
-<div class="grid clearfix" id="otherImages">
-{% for cell in page.otherimages %}{% include imagecell.html %}{% endfor %}
-</div>
+  {% if page.awards %}
+  <div class="awards">
+    This piece was awarded{% for gong in page.awards %}{% if forloop.first %} {% elsif forloop.last %} and {% else %}, {% endif %}{{ gong }}{% endfor %}.
+  </div>
+  {% endif %}
 
-{% if page.stock > 0 %}
-<a href="#!" class="button" id="show_contact">Buy Now</a>
-<div id="contact_form" class="order">
-<!-- <p>We currently have {{ page.stock }} in stock at {{ page.price }}.</p>
+
+  {% if page.collections != null %}
+  <div class="collections">
+    {{ page.collections }}
+  </div>
+  {% endif %}
+
+
+  <div class="grid clearfix" id="otherImages">
+    {% for cell in page.otherimages %}{% include imagecell.html %}{% endfor %}
+  </div>
+
+  {% if page.stock > 0 %}
+  <a href="#!" class="button" id="show_contact">Buy Now</a>
+  <div id="contact_form" class="order">
+  <!-- <p>We currently have {{ page.stock }} in stock at {{ page.price }}.</p>
  --><p>If you would like to purchase a {{ page.title }} then please complete the following form and we will contact you to discuss your options and delivery within {{ site.data.respond.days }} working days.
 {% include contact.html %}
    <input name="Type" value="Order" type="hidden">
@@ -33,10 +47,11 @@ layout: default
 </div>
 {% else %}
 {% if page.type contains "commission" %}
-<p> The {{ page.title }} was a site specific committion. If you would like more information on this commission or to enquire about the commissioning proces then please <a href="#!" id="show_contact">click here</a>.
-{% else %}
+<p> The {{ page.title }} was a site specific commission. If you would like more information on this commission or to enquire about the commissioning process then please <a href="#!" id="show_contact">click here</a>.
+{% elsif page.type contains "buy" %}
 <p> The {{ page.title }} is made to order. If you would like more information or to place an order then please  <a href="#!" id="show_contact">click here</a>{% if page.retailer %} or contact one of our stockists{% endif %}.
-{% endif %}
+{% elsif page.type contains "retailer" %}
+<p> The {{ page.title }} is available from {{ page.retailer[0] }}. If you would like more information about this product then please  <a href="#!" id="show_contact">click here</a>{% if page.retailer %}{% endif %}.{% endif %}
 <div id="contact_form" class="reserve">
 {% include contact.html %}
 
@@ -45,7 +60,7 @@ layout: default
 </div>
 {% endif %}
 {% if page.retailer %}
-<h2>Other stockists</h2>
+{% if page.type contains "retailer" %}<h2>Available from</h2>{% else %}<h2>Other stockists</h2>{% endif %}
 <div class="grid clearfix" id="stockists">
   {% for vendor in page.retailer %}{% capture lvendor %}{{ vendor | downcase }}{% endcapture %}{% for post in site.retailers %}{% capture lretailer %}{{ post.title | downcase }}{% endcapture %}{% if lretailer == lvendor %}{% include cell.html %}{% endif %}{% endfor %}{% endfor %}
 </div>
