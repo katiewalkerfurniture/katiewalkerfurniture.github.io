@@ -24,7 +24,7 @@ Created: 08Aug2014
 
 body {
 	padding: 5px 15px 15px;
-	font: 300 15px/22px "Open Sans", "Verdana", sans-serif;
+	font: 300 15px/22px "Open Sans", "Verdana", "Droid Sans", sans-serif;
 	max-width: 770px;
 	/*margin-top: 2rem;*/
 	margin-right: auto;

@@ -13,7 +13,7 @@ menus:
   - forRetailers
 date: 2014-01-01
 order: 50
-summary: 
+social: small rocking chair made by @SittingFirm for @johnlewisretail
 thumbnail: http://images.quru.com/image?src=kwf/ElizaRockingChair.jpg&right=0.95&bottom=0.94688&left=0.0625&top=0.05938&width=175&height=175
 headimage: http://images.quru.com/image?src=kwf/ElizaRockingChair.jpg&strip=1
 otherimages:
