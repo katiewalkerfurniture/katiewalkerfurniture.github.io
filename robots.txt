@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: LICENSE.md
+Disallow: README.md
+Disallow: CNAME
