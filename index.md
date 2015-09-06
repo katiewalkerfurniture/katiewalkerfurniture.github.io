@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Coming soon
+title: Welcome
 headimage: 
 menus: 
 tags:
