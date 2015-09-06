@@ -12,7 +12,7 @@ menus:
   - toCommission
 date: 1999-01-01
 awards:
-  - a Workshipful Company of Furniture Makers Bespoke Guild Mark
+  - a Worshipful Company of Furniture Makers Bespoke Guild Mark
 summary:
 thumbnail: http://images.quru.com/image?src=kwf/commissions/KWFEyersDeskBack.tif&right=0.90938&left=0.0875
 headimage: http://images.quru.com/image?src=kwf/commissions/KWFEyersDeskBack.tif
