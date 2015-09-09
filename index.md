@@ -1,8 +1,14 @@
 ---
 layout: about
+<<<<<<< HEAD
 title: 
 headimage:
 menus:
+=======
+title: Welcome
+headimage: 
+menus: 
+>>>>>>> origin/master
 tags:
 ---
 
