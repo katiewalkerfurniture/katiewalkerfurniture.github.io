@@ -5,7 +5,8 @@ tags:
   - work
 type:
   - buy
-retailer:  
+retailer:
+  - caa
 menus:
   - work
   - toBuy
@@ -14,7 +15,7 @@ stock: 1
 stockdate:
 price:
 date: 2000-01-01
-summary: 
+summary:
 thumbnail:  http://images.quru.com/image?src=kwf/Warnham%20bench%2034sq.jpg&width=175&height=175&fill=auto
 headimage: http://images.quru.com/image?src=kwf/Warnham%20bench%2034sq.jpg
 otherimages:

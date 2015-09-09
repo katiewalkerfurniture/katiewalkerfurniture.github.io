@@ -7,7 +7,6 @@ tags:
 type:
   - buy
 retailer:
-  - caa
 menus:
   - work
   - toBuy
@@ -22,9 +21,9 @@ stock: 2
 stockdate:
 price: £4,995
 date: 2006-01-01
-summary: 
+summary:
 thumbnail:   http://images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_side_on_white.jpg&width=175&height=175&fill=%23ffffff&left=0.07428571428571429&top=0.06285714285714286&right=0.9142857142857143&bottom=0.9257142857142857&format=jpg&strip=1
-headimage: http://images.quru.com/image?src=kwf/KWFRibbonRocker/KWF%20Walnut%20Ribbon%20front%2034.jpeg&right=0.87813&left=0.10625 
+headimage: http://images.quru.com/image?src=kwf/KWFRibbonRocker/KWF%20Walnut%20Ribbon%20front%2034.jpeg&right=0.87813&left=0.10625
 otherimages:
   - http://images.quru.com/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20back.tif&width=175&height=175&left=0.03&top=0.133&right=0.97&bottom=0.75&format=jpg&strip=1
   - http://images.quru.com/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20front%20on.tif&top=0.16&bottom=0.82&width=175&height=175&format=jpg&strip=1

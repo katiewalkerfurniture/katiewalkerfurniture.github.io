@@ -7,7 +7,9 @@ tags:
 type:
   - buy
 retailer:
-
+exhibitions:
+collections:
+  - hovemuseum
 menus:
   - work
   - toBuy
