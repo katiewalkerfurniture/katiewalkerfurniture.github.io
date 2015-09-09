@@ -10,6 +10,6 @@ thumbnail: /public/images/heals.png
 headimage: http://images.quru.com/image?src=/kwf/heals.jpg&height=350&fill=%23ffffff&strip=1
 ---
 
-[Heals](http://heals.com) is well known as a household department store with it's flagship on London's Tottenham Court Road.
+[Heals](http://www.heals.com/windsor-rocker.html) is well known as a household department store with it's flagship on London's Tottenham Court Road.
 
-Heals currently sell the Windsor Rocker and all sorts of other stuff.
+Heals currently sell the Windsor Rocker in ash, walnut and, exclusively to them, a combination of ash and walnut.
