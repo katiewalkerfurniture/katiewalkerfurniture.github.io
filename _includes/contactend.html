@@ -4,7 +4,7 @@
       <textarea name="Questions" placeholder="If you would like a price please provide as much informatiom as possible including delivery/shipping address and any specific requests." tabindex="99" rows="4"></textarea>
     </label>
   </div>
-  <input type="hidden" name="url" value="{{ site.url }}{{ page.url  | remove_first: '/' }}">
+  <input type="hidden" name="url" value="{{ site.url }}{{ page.url }}">
   <div id="form_buttons">
     <button name="submit" type="submit" id="contact-submit">Send</button><a href="#!" id="hide_contact" class="button">Close</a>
   </div>
