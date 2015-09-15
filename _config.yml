@@ -44,5 +44,7 @@ collections:
     output: true
   links:
     output: true
+  exhibitions:
+    output: true
   unused:
     output: false
