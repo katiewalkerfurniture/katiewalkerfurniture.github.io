@@ -13,12 +13,12 @@ menus:
   - work
   - toBuy
 awards:
-  - a Worshipful Company of Furniture Makers, Bespoke Guild Mark
+  - Worshipful Company of Furniture Makers, Bespoke Guild Mark no. 347
 order: 10
 date: 2002-01-01
 stock: 3
 stockdate: January 2015
-summary: 
+summary:
 thumbnail:  http://images.quru.com:/image?src=/kwf/KWFWeightAndSee2012White.jpg&width=175&height=175&fill=%23ffffff&left=0.2267&top=0.0333&right=0.853&bottom=0.967&strip=1
 headimage: http://images.quru.com:/image?src=/kwf/KWFWeightAndSee2012White.jpg&height=350&left=0.2267&top=0.0333&right=0.853&bottom=0.967&strip=1
 otherimages:

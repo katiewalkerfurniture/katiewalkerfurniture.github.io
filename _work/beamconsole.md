@@ -8,8 +8,8 @@ type:
   - buy
 retailer:
 exhibitions:
-collections:
-  - hovemuseum
+collections: A Beam console was purchased by <a href="http://brightonmuseums.org.uk/hove" alt="Hove Museum and Art Gallery">Hove Museum and Art Gallery</a> for the South East Art & Craft collection.
+order: 40
 menus:
   - work
   - toBuy

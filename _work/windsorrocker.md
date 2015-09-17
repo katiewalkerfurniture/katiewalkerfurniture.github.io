@@ -18,9 +18,9 @@ stockdate:
 price:
 date: 2011-01-01
 awards:
-  - Worshipful Company of Furniture Makers, Design Guild Mark number 101
+  - Worshipful Company of Furniture Makers, Design Guild Mark no. 101
   - the 2011 Wood Awards - furniture award
-summary: 
+summary:
 thumbnail:  http://images.quru.com/image?src=kwf/KWFWindsorRocker/KWF_Windsor_Rocker_side_view_cut.jpg&width=175&height=175&fill=%23ffffff
 headimage: http://images.quru.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor%20Rocker%20quarter%20view.jpg
 otherimages:
@@ -38,5 +38,3 @@ Other finishes are available on request.
 A one off version is available in white oil finished ash with a woven riempie (leather) seat.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zOpeFEcrW_U" frameborder="0" allowfullscreen style="padding-top:2rem; padding-bottom:2rem;"></iframe>
-
-

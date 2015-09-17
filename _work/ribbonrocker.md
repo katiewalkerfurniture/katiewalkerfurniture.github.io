@@ -11,7 +11,7 @@ menus:
   - work
   - toBuy
 awards:
-  - Worshipful Company of Furniture Makers, Bespoke Guild Mark number 373
+  - Worshipful Company of Furniture Makers, Bespoke Guild Mark no. 373
   - 2006 Wood Awards - furniture and innovation
   - 2006 Wesley-Barrell Craft Award
   - 2007 Grand Designs - best furniture and product of the year

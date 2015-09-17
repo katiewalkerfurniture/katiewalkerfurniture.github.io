@@ -13,7 +13,7 @@ menus:
   - toBuy
 order: 60
 awards:
-  - a Worshipful Company of Furniture Makers, Bespoke Guild Mark 
+  - Worshipful Company of Furniture Makers, Bespoke Guild Mark no. 250
 date: 1999-01-01
 social: oak and fabric bench seating
 thumbnail: http://images.quru.com/image?src=kwf/KWFBeamBenchWhite.jpg&right=0.8875&left=0.06875&top=0.02&bottom=0.98&width=175&height=175&fill=auto
