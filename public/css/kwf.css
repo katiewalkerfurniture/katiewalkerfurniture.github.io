@@ -1,4 +1,4 @@
-/* @override 
+/* @override
 	http://localhost:4000/public/css/kwf.css
 	http://0.0.0.0:4000/public/css/kwf.css
 */
@@ -105,7 +105,7 @@ span.normal
 
 #social, #contactFooter, #downloadBrochure {
 	vertical-align: top;
-	
+
 }
 
 #contactFooter, #downloadBrochure {
@@ -127,7 +127,7 @@ span.normal
 {
 	display: inline-block;
 	text-align: right;
-	
+
 }
 
 #downloadBrochure a {
@@ -183,8 +183,8 @@ em strong
 hr
 {
 	margin: 2.5rem 0 2rem;
-	border: 0; 
-	height: 1px; 
+	border: 0;
+	height: 1px;
 	background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0)); }
 
 .logoImage{
@@ -234,7 +234,7 @@ hr
 }
 
 .ar-wrapper:after {
-    padding-top: 56.25%; 
+    padding-top: 56.25%;
     display: block;
     content: '';
 }
@@ -273,7 +273,7 @@ h2, h3 {
 	margin-bottom: 1rem;
 	margin-top: 2rem;
 	font-weight: 300;
-  	font-size: 112%;	
+  	font-size: 112%;
 }
 
 .news h2, .news h3 {
@@ -426,12 +426,15 @@ float: left;	vertical-align: middle;
     transition-duration: 2s;
 }
 
+.cell_back a, .cell_front a {
+    height: 150px;
+    width: 150px;
+}
 
 .cell_back a {
 	color: black;
 	text-decoration: none;
 	display: inline-block;
-	height: 100%;
 	overflow: hidden;
 }
 
@@ -526,7 +529,7 @@ data.p-tz, data.p-latitude, data.p-longuitude {
 }
 
 a.u-email {
-	color: inherit;	
+	color: inherit;
 	text-decoration: none;
 }
 
@@ -646,13 +649,13 @@ a#show_nav {
 		max-width: none;
 		margin-top: 0;
 	}
-	
+
 	.header {
 		position:  fixed;
 		top: 0;
 		padding-top: 1rem;
 	}
-	
+
 	.post, .work {
 		padding-top: 6rem;
 		padding-bottom: 5rem;
@@ -665,16 +668,16 @@ a#show_nav {
 	.header .logo {
 		padding-bottom: 1rem;
 	}
-	
+
 	.header .logo .brand {
 		padding-top: 1rem;
 	}
-	
+
 	.logoImage {
 		display:  none;
 	}
 
-	
+
 	.footer {
 		width: 93%;
 		position: fixed;
@@ -685,11 +688,11 @@ a#show_nav {
 		padding: 1.5rem 1rem 0;
 		height: 6rem;
 	}
-	
+
 	.social, #contactFooter, #downloadBrochure {
 		white-space: normal;
 	}
-	
+
 	#rights {
 		position: fixed;
 		right:  20px;
@@ -698,7 +701,7 @@ a#show_nav {
 		position:  relative;
 		top: -45px;*/
 	}
-	
+
 }
 
 @media only screen and (min-width : 700px){
@@ -715,11 +718,11 @@ a#show_nav {
 }
 
 @media only screen and (max-width : 700px){
-	
+
   #map, .h-card {
 	float: none;
   }
-  
+
   #map {
 	padding: 1rem 0;
 }
@@ -733,7 +736,7 @@ a#show_nav {
 		float: left;
 		z-index: 1000;
 	}
-	
+
 	.logoImage{
 		display: inline;
 		width: 80px;
@@ -748,7 +751,7 @@ a#show_nav {
 
 
 @media only screen and (min-width: 760px){
-	
+
 /* Main navigation layout */
 
 a#show_nav {
@@ -786,8 +789,8 @@ a#show_nav {
 	float: left;
 	padding: 0;
 	}
-	
-	
+
+
 #nav ul.menu_sub {
 	background: white;
 	box-shadow: 0px 3px 8px 8px #fff;
