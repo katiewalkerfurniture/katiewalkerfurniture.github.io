@@ -10,7 +10,7 @@ menus: about
 
 
 
-<img class="right top actual_size" src="http://images.quru.com/image?src=/kwf/Katie_4.jpg&width=200" alt="Katie Walker"/> I aim to produce original pieces of beautifully crafted contemporary furniture. Having studied at the Royal College of Art, I have a fine art based approach - I strive to create pieces which are as beautiful as they are functional, often with an added element of surprise.
+<img class="right top actual_size" src="//images.quru.com/image?src=/kwf/Katie_4.jpg&width=200" alt="Katie Walker"/> I aim to produce original pieces of beautifully crafted contemporary furniture. Having studied at the Royal College of Art, I have a fine art based approach - I strive to create pieces which are as beautiful as they are functional, often with an added element of surprise.
 
 Since 1994, my designs have been recognised with many awards and pieces can be found in public galleries and private collections worldwide. My work ranges from the light, witty ‘Weight & see’ cheval mirror through commercial commissions to art based sculptural pieces such as the ‘Winged’ seat.
 

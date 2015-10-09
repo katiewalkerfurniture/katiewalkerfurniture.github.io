@@ -15,8 +15,8 @@ order: 90
 stock: 2
 date: 2012-01-01
 summary: 
-thumbnail:  http://images.quru.com/image?src=kwf/KWFRoundMirrorWhite.jpg&bottom=0.95313&left=0.03205&top=0.04063&right=0.96795&width=175&height=175&fill=%23ffffff
-headimage: http://images.quru.com/image?src=kwf/KWFRoundMirrorWhite.jpg&bottom=0.95313&left=0.03205&top=0.04063&right=0.96795
+thumbnail:  //images.quru.com/image?src=kwf/KWFRoundMirrorWhite.jpg&bottom=0.95313&left=0.03205&top=0.04063&right=0.96795&width=175&height=175&fill=%23ffffff
+headimage: //images.quru.com/image?src=kwf/KWFRoundMirrorWhite.jpg&bottom=0.95313&left=0.03205&top=0.04063&right=0.96795
 ---
 _800mm diameter. (31&frac12;”)_
 

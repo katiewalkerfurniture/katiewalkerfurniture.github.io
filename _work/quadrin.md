@@ -13,13 +13,13 @@ menus:
   - forRetailers
 date: 2014-01-01
 summary: 
-thumbnail: http://images.quru.com/image?src=kwf/Quadrin/Quadrin%20Table%20and%20Chairs.jpg&width=150&height=150&right=0.77813&bottom=0.9125&left=0.04688&top=0.18125
-headimage: http://images.quru.com/image?src=kwf/Quadrin/Quadrin%20Table%20and%20Chairs.jpg&top=0.05625&bottom=0.91563
+thumbnail: //images.quru.com/image?src=kwf/Quadrin/Quadrin%20Table%20and%20Chairs.jpg&width=150&height=150&right=0.77813&bottom=0.9125&left=0.04688&top=0.18125
+headimage: //images.quru.com/image?src=kwf/Quadrin/Quadrin%20Table%20and%20Chairs.jpg&top=0.05625&bottom=0.91563
 otherimages:
-  - http://images.quru.com/image?src=kwf/Quadrin/Quadrin+Ballanca+cards.pdf
-  - http://images.quru.com/image?src=kwf/Quadrin/Quadrin+Chair+back+.jpg
-  - http://images.quru.com/image?src=kwf/Quadrin/Quadrin+Chair.jpg
-  - http://images.quru.com/image?src=kwf/Quadrin/Quadrin+Table.jpg
+  - //images.quru.com/image?src=kwf/Quadrin/Quadrin+Ballanca+cards.pdf
+  - //images.quru.com/image?src=kwf/Quadrin/Quadrin+Chair+back+.jpg
+  - //images.quru.com/image?src=kwf/Quadrin/Quadrin+Chair.jpg
+  - //images.quru.com/image?src=kwf/Quadrin/Quadrin+Table.jpg
 
 ---
 
