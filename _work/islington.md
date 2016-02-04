@@ -5,9 +5,9 @@ tags:
   - work
   - commission
 type:
-  -
+  - commission
 retailer:
-
+order: 300
 menus:
   - work
   - toCommission
@@ -20,15 +20,6 @@ stripimage: http://images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.j
 otherimages:
   - http://images.quru.com/image?src=kwf/commissions/KWFIslingtonchair.tif
   - http://images.quru.com/image?src=kwf/commissions/KWFIslingtonTableLegs.tif
-
-=======
-summary:
-thumbnail: //images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg&right=0.85313&left=0.225
-headimage: //images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg
-stripimage: //images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg&bottom=0.68&top=0.068&autocropfit=1
-otherimages:
-  - //images.quru.com/image?src=kwf/commissions/KWFIslingtonchair.tif
-  - //images.quru.com/image?src=kwf/commissions/KWFIslingtonTableLegs.tif
 
 style: green
 ---
