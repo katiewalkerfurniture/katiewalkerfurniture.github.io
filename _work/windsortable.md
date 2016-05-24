@@ -15,8 +15,8 @@ order: 30
 date: 2012-01-01
 summary: 
 stock: 2
-thumbnail: //images.quru.com/image?src=/kwf/KWFWindsorTable2012White.jpg&width=175&height=175&fill=auto&fill=%23ffffff&format=jpg&strip=1
-headimage: //images.quru.com/image?src=/kwf/KWFWindsorTable2012.jpg&height=480&strip=1
+thumbnail: http://images.quru.com/image?src=/kwf/KWFWindsorTable2012White.jpg&width=175&height=175&fill=auto&fill=%23ffffff&format=jpg&strip=1
+headimage: http://images.quru.com/image?src=/kwf/KWFWindsorTable2012.jpg&height=480&strip=1
 ---
 _540mm dia x 585mm high (21&frac14;”dia x 23”)_
 

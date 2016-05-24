@@ -26,13 +26,4 @@ The collection can be viewed by appointment at our studio in West Sussex and som
     {% include cell.html %}
     {% endif %}{% endif %}{% endfor %}
   </div>
-
------
-
-  <div class="grid clearfix">
-    {% assign contents = site.work | sort:'order' %}{% for post in contents %}{% if post.title != "Pieces to buy" %}{% if post.type contains "speculative" %}
-    {% include cell.html %}
-    {% endif %}{% endif %}{% endfor %}
-  </div>
-
 </div>

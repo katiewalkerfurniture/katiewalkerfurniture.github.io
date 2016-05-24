@@ -13,10 +13,10 @@ menus:
   - work
   - toCommission
 date:
-social: coffee table in walnut with glass top
+social: Coffee table in walnut with glass top
 awards:
-thumbnail: //images.quru.com/image?src=kwf/KWF%20Coffee%20Table.jpg&width=170&height=170&fill=auto
-headimage: //images.quru.com/image?src=kwf/KWF%20Coffee%20Table.jpg
+thumbnail: http://images.quru.com/image?src=kwf/KWF%20Coffee%20Table.jpg&width=170&height=170&fill=auto
+headimage: http://images.quru.com/image?src=kwf/KWF%20Coffee%20Table.jpg
 otherimages:
 
 ---

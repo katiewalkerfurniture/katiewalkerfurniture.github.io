@@ -13,11 +13,11 @@ menus:
   - forRetailers
 date: 2014-01-01
 social: oak and walnut extending table for @MadebyBenchmark
-thumbnail: //images.quru.com/image?src=kwf/Bellanca/Bellanca%20Table%20by%20Katie%20Walker%20(Extended).jpg&width=175&height=175&right=0.54375&top=0.17925
-headimage: //images.quru.com/image?src=kwf/Bellanca/Bellanca+Table+by+Katie+Walker+%28Extended%29.jpg
+thumbnail: http://images.quru.com/image?src=kwf/Bellanca/Bellanca%20Table%20by%20Katie%20Walker%20(Extended).jpg&width=175&height=175&right=0.54375&top=0.17925
+headimage: http://images.quru.com/image?src=kwf/Bellanca/Bellanca+Table+by+Katie+Walker+%28Extended%29.jpg
 otherimages:
-  - //images.quru.com/image?src=kwf/Bellanca/Bellanca-Table-by-Katie-Walker.jpg&left=0.17813&right=0.84375
-  - //images.quru.com/image?src=kwf/Bellanca/Bellanca-Table-by-Katie-Walker-end-shot.jpg&right=0.75625&left=0.25313
+  - http://images.quru.com/image?src=kwf/Bellanca/Bellanca-Table-by-Katie-Walker.jpg&left=0.17813&right=0.84375
+  - http://images.quru.com/image?src=kwf/Bellanca/Bellanca-Table-by-Katie-Walker-end-shot.jpg&right=0.75625&left=0.25313
 
 ---
 

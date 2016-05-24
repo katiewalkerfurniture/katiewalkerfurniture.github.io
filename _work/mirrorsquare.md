@@ -15,8 +15,8 @@ order: 80
 date: 2002-01-01
 stock: 3
 summary: 
-thumbnail:  //images.quru.com/image?src=kwf/KWFSquareMirrorWhite.jpg&left=0.12188&right=0.875&bottom=0.86563&top=0.1125&width=175&height=175
-headimage: //images.quru.com/image?src=kwf/KWFSquareMirrorWhite.jpg&left=0.12188&right=0.875&bottom=0.86563&top=0.1125
+thumbnail:  http://images.quru.com/image?src=kwf/KWFSquareMirrorWhite.jpg&left=0.12188&right=0.875&bottom=0.86563&top=0.1125&width=175&height=175
+headimage: http://images.quru.com/image?src=kwf/KWFSquareMirrorWhite.jpg&left=0.12188&right=0.875&bottom=0.86563&top=0.1125
 ---
 _580mm x 580mm. (22&frac34;” x 22&frac34;”)_
 

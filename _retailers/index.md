@@ -2,7 +2,7 @@
 layout: page
 title: Retailers
 title-style: red
-headimage: //images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
+headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
 summary: Katie works with some fabulous retailers
 ---
 

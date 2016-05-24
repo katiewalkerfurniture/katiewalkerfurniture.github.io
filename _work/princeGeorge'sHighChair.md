@@ -16,10 +16,10 @@ date:
 social: HRH Prince George's high chair
 awards:
   - Worshipful Company of Furniture Makers, Bespoke Guild Mark no. 451
-thumbnail: //images.quru.com/image?src=kwf/PrinceGeorgesChair/KWFPrinceGeorgesChairFront34.jpg&width=170&height=170&right=0.875&left=0.15313&top=0.14134&bottom=0.9576
-headimage: //images.quru.com/image?src=kwf/PrinceGeorgesChair/KWFPrinceGeorgesChairFront34.jpg&right=0.875&left=0.15313&top=0.14134&bottom=0.9576
+thumbnail: http://images.quru.com/image?src=kwf/PrinceGeorgesChair/KWFPrinceGeorgesChairFront34.jpg&width=170&height=170&right=0.875&left=0.15313&top=0.14134&bottom=0.9576
+headimage: http://images.quru.com/image?src=kwf/PrinceGeorgesChair/KWFPrinceGeorgesChairFront34.jpg&right=0.875&left=0.15313&top=0.14134&bottom=0.9576
 otherimages:
-  - //images.quru.com/image?src=kwf/PrinceGeorgesChair/KWFPrinceGeorgesChairRear34.jpg&bottom=0.90625&top=0.1125&left=0.06529&right=0.93814
+  - http://images.quru.com/image?src=kwf/PrinceGeorgesChair/KWFPrinceGeorgesChairRear34.jpg&bottom=0.90625&top=0.1125&left=0.06529&right=0.93814
 
 ---
 Made in rippled ash, originating from the Longleat Estate, and finished with a white tinted hard wax oil.
