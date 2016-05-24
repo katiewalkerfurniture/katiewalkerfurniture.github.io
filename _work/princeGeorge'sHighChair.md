@@ -12,7 +12,7 @@ order: 220
 menus:
   - work
   - toCommission
-date:
+date: 2014-01-01
 social: HRH Prince George's high chair
 awards:
   - Worshipful Company of Furniture Makers, Bespoke Guild Mark no. 451
