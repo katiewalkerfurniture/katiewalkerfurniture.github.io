@@ -6,7 +6,7 @@ tags:
 type:
   - buy
 retailer:
-  - New Art Centre
+  - Architectural Plants
 menus:
   - work
   - toBuy
