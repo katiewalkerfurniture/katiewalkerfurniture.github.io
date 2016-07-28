@@ -6,7 +6,7 @@ tags:
 type:
   - buy
 retailer:
-  - caa
+  - architecturalplants
 menus:
   - work
   - toBuy

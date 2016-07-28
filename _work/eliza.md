@@ -7,7 +7,6 @@ tags:
 type:
   - retailer
 retailer:
-  - john lewis
 menus:
   - work
   - forRetailers
