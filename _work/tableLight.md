@@ -4,7 +4,7 @@ title: Table light
 tags:
   - work
 type:
-  - !speculative
+  - speculative
 retailer:
 exhibitions:
 collections:
@@ -16,8 +16,7 @@ menus:
 date:
 social: Table light
 awards:
-
-thumbnail: //images.quru.com/image?src=/kwf/KWFMarilyn2012.jpg&width=170&height=170&right=0.88125&left=0.11875
+thumbnail: //images.quru.com/image?src=/kwf/Table+light.jpg&width=170&height=170&fill=auto&top=0.15&bottom=0.85
 headimage: //images.quru.com/image?src=kwf/Table+light.jpg
 otherimages:
   - //images.quru.com/image?src=kwf/KWF+Table+light+1.jpg
