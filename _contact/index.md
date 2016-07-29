@@ -14,7 +14,7 @@ summary: Katie has some stunning work
 To contact Katie Walker please fill in the following form and hopefully you will receive a reply shortly.
 
 <div id="contact_form">
-{% include contact.html %}
+{% include contact2.html %}
   <input name="Type" value="Contact" type="hidden">
 {% include contactend.html %}
 </div>
