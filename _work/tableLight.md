@@ -13,7 +13,7 @@ stock: 1
 menus:
   - work
   - toBuy
-date:
+date: 2000-01-01
 social: Table/light
 awards:
 
