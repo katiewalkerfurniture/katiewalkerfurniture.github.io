@@ -20,8 +20,8 @@ The Katie Walker Furniture collection comprises a small number of signature piec
 The collection can be viewed by appointment at our studio in West Sussex and some pieces are also available through selected galleries and retailers in the UK.
 
   <div class="grid clearfix">
-    {% for post in site.work | sort: 'date' %}{% if post.title != "Work" %}{% if post.type contains "buy" or post.type contains "speculative" or post.type contains "retailer" %}{% if post.publish != false %}
+    {% for post in site.work | sort: 'date' %}{% if post.title != "Work" %}{% if post.type contains "buy" or post.type contains "speculative" or post.type contains "retailer" %}
     {% include cell.html %}
-    {% endif %}{% endif %}{% endif %}{% endfor %}
+    {% endif %}{% endif %}{% endfor %}
   </div>
 </div>
