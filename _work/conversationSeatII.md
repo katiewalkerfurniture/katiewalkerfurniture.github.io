@@ -13,7 +13,7 @@ stock: 1
 menus:
   - work
   - toBuy
-date:
+date: 2011-01-01
 social: Conversation seat II
 awards:
   - This piece is the evolution of a design resulting from a 'Creative award' given by South East Arts.
