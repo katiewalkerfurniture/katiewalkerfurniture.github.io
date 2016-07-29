@@ -4,7 +4,7 @@ title: Architectural Plants
 summary: Stane Street<br/>Pulborough<br/>West Sussex<br/>RH20 1DJ<br/><br/>01798 879213
 tags:
   - retailer
-thumbnail: //images.quru.com/image?src=kwf/retailers/architecturalplants/ArchitecturalPlantslogoBlack.svg&width=175&height=175&fill=white
+thumbnail: //images.quru.com/image?src=kwf/retailers/architecturalplants/ArchitecturalPlantslogoBlack2.svg&width=175&height=175&fill=white
 headimage: //images.quru.com/image?src=kwf/retailers/architecturalplants/APFrontGarden.jpg
 
 ---
