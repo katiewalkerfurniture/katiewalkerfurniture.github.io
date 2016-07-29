@@ -5,7 +5,7 @@ menus:
   - work
   - toBuy
 title-style:
-summary: Katie has some stunning work
+summary: Katie has some really stunning work
 ---
 
 
