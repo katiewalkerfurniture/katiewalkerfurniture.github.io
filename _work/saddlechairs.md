@@ -13,7 +13,7 @@ order: 240
 menus:
   - work
   - toCommission
-date: 1992-01-01
+date: 1992-06-01
 social: Crafts Study Centre reception desk and display
 awards:
 
