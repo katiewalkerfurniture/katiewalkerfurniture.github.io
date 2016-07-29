@@ -20,7 +20,7 @@ thumbnail: //images.quru.com/image?src=kwf/KWFTraditionalChair.jpg&bottom=0.8062
 headimage: //images.quru.com/image?src=kwf/KWFTraditionalChair.jpg
 otherimages:
 ---
-_720mm wide x 1020mm deep x 810mm high (28&frac14;” x 40&frac14;” x 32”)_
+_555mm wide x 520mm deep x 770mm high (21&frac34;” x 20&frac12;” x 30&frac14;”)_
 
 A traditional chair available in ash with a white oil finish, walnut with a clear oil finish or oak with either a white or a clear oil finish.
 

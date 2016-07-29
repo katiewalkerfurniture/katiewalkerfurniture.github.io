@@ -6,7 +6,7 @@ tags:
 type:
   - buy
 retailer:
-  - Architectural Plants
+  - architectural plants
 menus:
   - work
   - toBuy

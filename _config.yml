@@ -16,13 +16,13 @@ permalink:        pretty
 title:            Katie Walker
 tagline:          Furniture design
 url:              http://www.katiewalkerfurniture.com
-paginate:         1
+# paginate:         1
 baseurl:          /
 author:
   name:           Roland Whitehead
   url:            https://twitter.com/rolandw
   email:          i.am@rolandw.me
-pages_list:       
+pages_list:
   About: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'

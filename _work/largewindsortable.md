@@ -18,7 +18,7 @@ stock: 1
 thumbnail: //images.quru.com/image?src=kwf/KWFLargeWindsorTable.jpg&width=170&right=0.99375&left=0.02188
 headimage: //images.quru.com/image?src=kwf/KWFLargeWindsorTable.jpg
 ---
-_540mm dia x 585mm high (21&frac14;”dia x 23”)_
+_1200mm dia x 730mm high (47&frac14;” dia x 28&frac34;”)_
 
 In ash with a white oil finish, walnut with a clear oil finish or oak with either a white or clear oil finish.
 
