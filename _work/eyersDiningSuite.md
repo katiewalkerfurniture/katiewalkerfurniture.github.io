@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Eyers dining set, 1998
+publish: false
 tags:
   - work
 type:

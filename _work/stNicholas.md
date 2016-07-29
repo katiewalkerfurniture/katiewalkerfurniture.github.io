@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Furniture for St Nicholas Church
+publish: false
 tags:
   - work
 type:
@@ -13,7 +14,7 @@ order: 260
 menus:
   - work
   - commission
-date:
+date: 2002-01-01
 social: Furniture for St. Nicholas Church
 awards:
 thumbnail: http://images.quru.com/image?src=/kwf/KWFMarilyn2012.jpg&width=170&height=170&right=0.88125&left=0.11875

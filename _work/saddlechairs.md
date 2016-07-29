@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Crafts Study Centre
+publish: false
 tags:
   - work
 type:
@@ -12,7 +13,7 @@ order: 240
 menus:
   - work
   - toCommission
-date:
+date: 1992-01-01
 social: Crafts Study Centre reception desk and display
 awards:
 
