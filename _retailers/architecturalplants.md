@@ -1,10 +1,10 @@
 ---
 layout: retailers
 title: Architectural Plants
-summary: Stane Street, North Heath<br/>Pulborough<br/>West Sussex<br/>RH20 1DJ<br/><br/>01798 879213
+summary: Stane Street<br/>Pulborough<br/>West Sussex<br/>RH20 1DJ<br/><br/>01798 879213
 tags:
   - retailer
-thumbnail: //images.quru.com/image?src=kwf/retailers/architecturalplants/APScultpureGarden.jpg&left=0.43125&top=0.20093&right=0.875&bottom=0.86449&width=175
+thumbnail: //images.quru.com/image?src=kwf/retailers/architecturalplants/APFrontGarden.jpg&right=0.76875&left=0.1&width=175
 headimage: //images.quru.com/image?src=kwf/retailers/architecturalplants/APFrontGarden.jpg
 
 ---

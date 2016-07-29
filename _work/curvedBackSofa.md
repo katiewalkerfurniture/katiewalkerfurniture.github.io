@@ -17,10 +17,10 @@ date:
 social: Curved back sofa
 awards:
   -
-thumbnail: http://images.quru.com/image?src=/kwf/KWF_Cuved_back_Sofa_2.jpg&width=170&right=0.88125&left=0.09063
-headimage: http://images.quru.com/image?src=/kwf/KWF_Cuved_back_Sofa_1.jpg&right=0.81875&width=170&left=0.1
+thumbnail: //images.quru.com/image?src=/kwf/KWF_Cuved_back_Sofa_2.jpg&width=170&right=0.88125&left=0.09063
+headimage: //images.quru.com/image?src=/kwf/KWF_Cuved_back_Sofa_1.jpg
 otherimages:
-  - http://images.quru.com/image?src=/kwf/KWF_Cuved_back_Sofa_3.jpg
+  - //images.quru.com/image?src=/kwf/KWF_Cuved_back_Sofa_3.jpg
 
 ---
 _1975mm wide x 850mm deep x 1180mm high. (77&frac34;” x 33&frac12;”x 42&frac12)
