@@ -6,6 +6,7 @@ tags:
 type:
   - buy
 retailer:
+  - sitting firm
 menus:
   - work
   - toBuy

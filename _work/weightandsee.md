@@ -9,6 +9,7 @@ type:
   - buy
 retailer:
   - caa
+  - sitting firm
 menus:
   - work
   - toBuy

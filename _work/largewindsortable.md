@@ -10,6 +10,7 @@ menus:
   - work
   - toBuy
 retailer:
+  - sitting firm
 awards:
 order: 230
 date: 2015-01-01

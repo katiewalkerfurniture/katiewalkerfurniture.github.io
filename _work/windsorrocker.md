@@ -9,6 +9,7 @@ type:
 retailer:
   - heals
   - caa
+  - sitting firm
 menus:
   - work
   - toBuy
@@ -36,7 +37,11 @@ _720mm wide x 1020mm deep x 810mm high (28&frac14;” x 40&frac14;” x 32”)_
 A wooden rocking chair available in ash with a white oil finish, walnut with a clear oil finish or oak with either a white or a clear oil finish.
 Bespoke finishing options are available on request.
 
-The chair extends the Windsor furniture making tradition. It is made by steam bending a continuous band which forms the rocker and the chair's frame. The turned sticks radiate from a carved seat out to the band making a strong, comfortable chair that remains very light. It is as at home in the nursery, as in the sitting room or home office.
+The chair extends the Windsor furniture making tradition. It is made by steam bending a continuous band which forms the rocker and the chair's frame. The turned sticks radiate from a carved seat out to the band making a strong, comfortable chair that remains very light.
+
+The Windsor rocker is currently made by [Sitting Firm Chairmakers Ltd][426b0dfa]
+
+  [426b0dfa]: http://www.sittingfirm.co.uk "Made by"
 
 A one off version is available in white oil finished ash with a woven riempie (leather) seat.
 

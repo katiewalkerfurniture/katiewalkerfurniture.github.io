@@ -16,10 +16,9 @@ menus:
 date:
 social: Walsall Leather Museum
 awards:
-thumbnail: http://images.quru.com/image?src=/kwf/KWFMarilyn2012.jpg&width=170&height=170&right=0.88125&left=0.11875
-headimage: http://images.quru.com/image?src=/kwf/KWFMarilyn2012.jpg
+thumbnail: //images.quru.com/image?src=kwf/KWF_Walsall_chair.tif&width=170&height=170&fill=auto
+headimage: //images.quru.com/image?src=kwf/KWF_Walsall_chair.tif
 otherimages:
-  - http://images.quru.com/image?src=/kwf/KWFMarilyn.jpg
 
 
 Seating for Walsall leather Museum, 1998

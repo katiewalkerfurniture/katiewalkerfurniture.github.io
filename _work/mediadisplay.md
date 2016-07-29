@@ -12,14 +12,13 @@ order: 310
 menus:
   - work
   - toCommission
-date:
+date: 1998-01-01
 social: Corporate display in aluminium
 awards:
 
-thumbnail: http://images.quru.com/image?src=kwf/Farnham%20display%20case.tif&width=170&height=170&bottom=0.86875&top=0.25625
-headimage: http://images.quru.com/image?src=kwf/Farnham%20display%20case.tif
+thumbnail: //images.quru.com/image?src=kwf/DisplayBoard.tif&width=170&height=170&fill=auto
+headimage: //images.quru.com/image?src=kwf/DisplayBoard.tif
 otherimages:
-  - http://images.quru.com/image?src=kwf/Farnham%20desk.jpg&top=0.325
 
 ---
 Display board for a London based Media company. In brushed and polished rolled aluminium and perspex.
