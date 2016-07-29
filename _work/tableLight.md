@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Table light
+title: Table/light
 tags:
   - work
 type:
@@ -13,13 +13,8 @@ stock: 1
 menus:
   - work
   - toBuy
-<<<<<<< HEAD
 date: 2000-01-01
 social: Table/light
-=======
-date:
-social: Table light
->>>>>>> origin/master
 awards:
 thumbnail: //images.quru.com/image?src=/kwf/Table+light.jpg&width=170&height=170&fill=auto&top=0.15&bottom=0.85
 headimage: //images.quru.com/image?src=kwf/Table+light.jpg
