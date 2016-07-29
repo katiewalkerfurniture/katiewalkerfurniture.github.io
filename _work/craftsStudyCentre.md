@@ -12,7 +12,7 @@ order: 240
 menus:
   - work
   - toCommission
-date:
+date: 2000-01-01
 social: Crafts Study Centre reception desk and display
 awards:
 
