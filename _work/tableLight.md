@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Table/light
+title: Table light
 tags:
   - work
 type:
@@ -14,7 +14,7 @@ menus:
   - work
   - toBuy
 date:
-social: Table/light
+social: Table light
 awards:
 
 thumbnail: //images.quru.com/image?src=/kwf/KWFMarilyn2012.jpg&width=170&height=170&right=0.88125&left=0.11875
