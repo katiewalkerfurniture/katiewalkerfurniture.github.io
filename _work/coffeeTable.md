@@ -12,7 +12,7 @@ order: 230
 menus:
   - work
   - toCommission
-date:
+date: 1998-01-01
 social: coffee table in walnut with glass top
 awards:
 thumbnail: //images.quru.com/image?src=kwf/KWF%20Coffee%20Table.jpg&width=170&height=170&fill=auto
