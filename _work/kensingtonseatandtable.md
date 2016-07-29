@@ -13,7 +13,7 @@ order: 320
 menus:
   - work
   - toCommission
-date:
+date: 1994-01-01
 social: Terrace furniture for a London based media company
 awards:
 
