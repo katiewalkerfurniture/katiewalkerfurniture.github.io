@@ -7,23 +7,6 @@ timezone:         Europe/London
 maruku:
   use_divs:       true
   fenced_code_blocks: true
-
-collections:
-  retailers:
-    output: true
-  work:
-    output: true
-  contact:
-    output: true
-  news:
-    output: true
-  links:
-    output: true
-  exhibitions:
-    output: true
-  unused:
-    output: false
-
 lsi: false
 safe: true
 incremental: false
@@ -54,3 +37,19 @@ pages_list:
 version:          1.0.0
 github:
   repo:           https://github.com/katiewalker.furniture/katiewalker.furniture
+
+collections:
+  retailers:
+    output: true
+  work:
+    output: true
+  contact:
+    output: true
+  news:
+    output: true
+  links:
+    output: true
+  exhibitions:
+    output: true
+  unused:
+    output: false
