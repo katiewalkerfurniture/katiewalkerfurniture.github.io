@@ -12,7 +12,7 @@ order: 350
 menus:
   - work
   - toCommission
-date:
+date: 1992-07-01
 social: Public seating commissioned by National Heritage
 awards:
 
