@@ -2,12 +2,19 @@
 markdown:         kramdown
 kramdown:
   input: GFM
-highlighter:      rouge
-# pygments:         true
+  math_engine: mathjax
 timezone:         Europe/London
 maruku:
   use_divs:       true
   fenced_code_blocks: true
+
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
 
 # Permalinks
 permalink:        pretty
