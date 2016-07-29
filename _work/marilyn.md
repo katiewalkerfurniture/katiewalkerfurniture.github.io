@@ -13,7 +13,7 @@ stock: 2
 menus:
   - work
   - toBuy
-date:
+date: 1998-01-01
 social: Marilyn side table
 awards:
   - Worshipful Company of Furniture Makers, Bespoke Guild Mark no. 366
