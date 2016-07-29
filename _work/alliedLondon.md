@@ -12,7 +12,7 @@ order: 250
 menus:
   - work
   - toCommission
-date:
+date: 1998-01-01
 social: oak and steel public seating for Allied London Properties
 awards:
 thumbnail: //images.quru.com/image?src=kwf/St%20Albans%20Bench%20Conc.tif&width=170&height=170&right=0.59062&left=0.10625&bottom=0.87317&top=0.11707
