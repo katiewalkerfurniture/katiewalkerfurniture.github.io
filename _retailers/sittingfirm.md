@@ -4,8 +4,8 @@ title: Sitting Firm
 summary: The Old Saw Mill<br/>Harvest Hill Lane<br/>Coventry<br/>CV5 9DD<br/><br/>02476 407930
 tags:
   - retailer
-thumbnail:
-headimage:
+thumbnail: //images.quru.com/image?src=kwf/retailers/sittingfirm/sittingfirmlogo.png&width=175&height=175
+headimage: //images.quru.com/image?src=kwf/retailers/sittingfirm/SittingFirmaerialA.jpg
 
 ---
 
