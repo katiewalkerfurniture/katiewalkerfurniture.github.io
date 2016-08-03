@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-title-style: 
+title-style:
 menus:
   - contact
 headimage: http://images.quru.com/image?src=kwf/workshop/Millmead_Workshop_Katie_Walker_Furniture_S_FL_orig.jpg
@@ -14,7 +14,7 @@ summary: Katie has some stunning work
 To contact Katie Walker please fill in the following form and hopefully you will receive a reply shortly.
 
 <div id="contact_form">
-{% include contact2.html %}
+{% include contact.html %}
   <input name="Type" value="Contact" type="hidden">
 {% include contactend.html %}
 </div>
@@ -26,7 +26,7 @@ Katie can also be contacted at:
 <div class="h-card vcard">
 <p class="p-name fn hidden">Katie Walker</p>
   <p class="name">
-  <span class="p-given-name given-name">Katie</span> 
+  <span class="p-given-name given-name">Katie</span>
   <span class="p-family-name family-name">Walker</span>
   </p>
   <p class="p-adr h-adr adr">
