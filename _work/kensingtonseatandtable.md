@@ -20,7 +20,7 @@ awards:
 thumbnail: //images.quru.com/image?src=kwf/KWF%20Kensington%20bench.tif&left=0.00913&fill=auto&width=170&height=170
 headimage: //images.quru.com/image?src=kwf/KWF+Kensington+bench.tif
 otherimages:
-  - http://images.quru.com/image?src=kwf/Farnham%20desk.jpg&top=0.325
+  - //images.quru.com/image?src=kwf/Farnham%20desk.jpg&top=0.325
 
 ---
 Kensington seat and table in oak and stainless steel.
