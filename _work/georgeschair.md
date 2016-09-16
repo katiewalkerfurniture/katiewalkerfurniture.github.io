@@ -8,6 +8,7 @@ type:
   - retailer
 retailer:
   - heals
+  - sitting firm
 menus:
   - work
   - tobuy
