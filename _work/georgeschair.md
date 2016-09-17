@@ -29,7 +29,7 @@ otherimages:
 
 _464mm wide x 500mm deep x 900mm high (18&frac14;” x  19&frac34;” x 35&frac12;”)_  
 
-In 2012 Katie Walker designed a high chair for his royal highness Prince George of Cambridge. The piece was the winning entry in an invited competition commissioned by The Worshipful Company of Furniture Makers, the City of London livery company, and was presented to their royal highnesses the Duke and Duchess of Cambridge in 2013.
+In 2012 Katie Walker designed a high chair for his royal highness Prince George of Cambridge. The piece was the winning entry in an invited competition commissioned by The Worshipful Company of Furniture Makers, the City of London livery company, and was presented to their Royal Highnesses the Duke and Duchess of Cambridge in 2013.
 
 In 2015, in response to demand, Katie re-visited the design to produce a version fit for all our own little prince and princesses. Marketed as “George's high chair”, the new chair takes on the name of the child it is made for once the order has been placed. The option of having the child's name engraved in the seat is available.
 
@@ -37,6 +37,8 @@ George's high chair is suitable for a baby from when he can independently hold h
 
 It has been designed so that the baby or child can either sit up to a standard height table safely and comfortably or, with the addition of the tray attachment, be used independently of a table surface.
 
-The chair was designed and made by Sitting Firm Chairmakers Ltd in the UK using British materials wherever possible. The wood used in the chair was harvested in the UK under a Forestry commission felling license. All materials and processes have been chosen with sensitivity to their environmental impact.
+The chair was designed and made by [Sitting Firm Chairmakers Ltd][132b6906] in the UK using British materials wherever possible. The wood used in the chair was harvested in the UK under a Forestry commission felling license. All materials and processes have been chosen with sensitivity to their environmental impact.
 
-Made in ash, both steam bent and laminated, and finished with either a clear laquer or two coats of white Osmo wax oil. The chair has been designed and tested to the British Standard’s safety requirements as set out in document BS EN 14988-1:2006+A1:2012.
+  [132b6906]: /retailers/sittingfirm.html "Sitting Firm"
+
+Made in ash, both steam bent and laminated, and finished with either a clear lacquer or two coats of white Osmo wax oil. The chair has been designed and tested to the British Standard’s safety requirements as set out in document BS EN 14988-1:2006+A1:2012.
