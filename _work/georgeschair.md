@@ -23,7 +23,7 @@ otherimages:
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/GeorgesChair30months.jpg
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20aged%205.jpg&top=0.05938
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20aged%209.jpg&top=0.05625&bottom=0.94375
-  - kwf/KWFGeorgesHighChair/Georges%20high%20chair%20Manual.pdf.d/page-00011.png&bottom=0.775&top=0.13125&left=0.10823
+  - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20Manual.pdf.d/page-00011.png&bottom=0.775&top=0.13125&left=0.10823
 
 ---
 
@@ -36,6 +36,15 @@ In 2015, in response to demand, Katie re-visited the design to produce a version
 George's high chair is suitable for a baby from when he can independently hold himself in a sitting position (typically from 6 months) but has been designed with longevity in mind; it is a high chair but can be used without the retaining baby bar as the child grows – from tot to teen.
 
 It has been designed so that the baby or child can either sit up to a standard height table safely and comfortably or, with the addition of the tray attachment, be used independently of a table surface.
+There are four parts that are available separately. The parts include:
+
+* The chair frame including backrest and adjustable seat can be used with the seat in it's lowest of the four seating positions as a stand alone chair. The front cross rail acts as a secondary footrest option for older children (above around 6 years).
+
+* The footrest is needed with the main chair frame and seat until the child is approximately 6.
+
+* The retaining baby bar should be used with the seat in its two highest positions - between the ages of 6 and 36 months. It has been designed to meet the British Standards safety requirements without the additional use of a harness. However, fixing points for a harness have also been incorporated in the design of the retaining baby bar for extra reassurance if required.
+
+* The tray attachment can be used in conjunction with the baby retaining bar as an optional extra.
 
 The chair was designed and made by [Sitting Firm Chairmakers Ltd][132b6906] in the UK using British materials wherever possible. The wood used in the chair was harvested in the UK under a Forestry commission felling license. All materials and processes have been chosen with sensitivity to their environmental impact.
 
