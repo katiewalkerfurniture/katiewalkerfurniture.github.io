@@ -13,6 +13,7 @@ menus:
   - work
   - tobuy
 date: 2016-09-01
+order: 130
 social: adjustable high chair
 thumbnail: //images.quru.com/image?src=/kwf/KWFGeorgesHighChair/Georges%20high%20chair%20cover.jpg&top=0.13125&bottom=0.92813&width=175&height=175&fill=auto
 headimage: //images.quru.com/image?src=/kwf/KWFGeorgesHighChair/Georges%20high%20chair%20cover.jpg&top=0.13125&bottom=0.92813&fill=auto

@@ -12,6 +12,7 @@ menus:
   - work
   - tobuy
 date: 2016-04-01
+order: 140
 social: dining chair
 thumbnail: //images.quru.com/image?src=kwf/GREAT/GREAT%20chair%20triple.jpg&width=175&height=175&fill=auto
 headimage: //images.quru.com/image?src=kwf/GREAT/GREAT%20chair%20triple.jpg&fill=auto
