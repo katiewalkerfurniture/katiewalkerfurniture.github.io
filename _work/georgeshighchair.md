@@ -18,7 +18,7 @@ social: adjustable high chair
 thumbnail: //images.quru.com/image?src=/kwf/KWFGeorgesHighChair/Georges%20high%20chair%20cover.jpg&top=0.13125&bottom=0.92813&width=175&height=175&fill=auto
 headimage: //images.quru.com/image?src=/kwf/KWFGeorgesHighChair/Georges%20high%20chair%20cover.jpg&top=0.13125&bottom=0.92813&fill=auto
 otherimages:
-  - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20table.jpg&width=400&height=400&bottom=0.95313&top=0.07813
+  - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20table.jpg&bottom=0.95313&top=0.07813
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20from%206%20months.jpg&top=0.12812
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20from%2036%20months.jpg&top=0.05625&bottom=0.94688
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/GeorgesChair30months.jpg
