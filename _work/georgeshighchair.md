@@ -24,6 +24,7 @@ otherimages:
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/GeorgesChair30months.jpg
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20aged%205.jpg&top=0.05938
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20aged%209.jpg&top=0.05625&bottom=0.94375
+  - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/GeorgesChair3Models.jpg&top=0.05&bottom=0.95
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20Manual.pdf.d/page-00011.png&bottom=0.775&top=0.13125&left=0.10823
 
 ---
