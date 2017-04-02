@@ -20,6 +20,9 @@ summary:
 thumbnail: //images.quru.com/image?src=kwf/KWFTraditionalChair.jpg&bottom=0.80625&top=0.14063&width=170
 headimage: //images.quru.com/image?src=kwf/KWFTraditionalChair.jpg
 otherimages:
+  - //images.quru.com/original?src=kwf/KWFEliza/Eliza+dining+chair+1.jpg&icc=srgb
+  - //images.quru.com/original?src=kwf/KWFEliza/Eliza+dining+chair+2.jpg&icc=srgb
+  - //images.quru.com/original?src=kwf/KWFEliza/Eliza+dining+chair+3.jpg&icc=srgb
 ---
 _555mm wide x 520mm deep x 770mm high (21&frac34;” x 20&frac12;” x 30&frac14;”)_
 
