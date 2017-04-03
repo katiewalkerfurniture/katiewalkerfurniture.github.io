@@ -18,9 +18,11 @@ social: Conversation seat II
 awards:
   - This piece is the evolution of a design resulting from a 'Creative award' given by South East Arts.
 thumbnail: //images.quru.com/image?src=/kwf/KWFConversationSeatII.jpg&width=170&height=170&fill=auto&top=0.075&bottom=0.95938
-headimage: //images.quru.com/image?src=/kwf/KWFConversationSeatII.jpg
+headimage: //images.quru.com/image?src=kwf/KWFConversationSeatII/Conversation%20seat%20II%20d.jpg&icc=srgb&strip=0
 otherimages:
+  - //images.quru.com/image?src=kwf/KWFConversationSeatII/Conversation%20seat%20II%20c.jpg&icc=srgb&strip=0
   - //images.quru.com/image?src=/kwf/KWFConversationSeatIISat.jpg
+  - //images.quru.com/image?src=/kwf/KWFConversationSeatII.jpg
 
 ---
 _1350mm wide/long x 430mm deep x 1350mm high, (53&frac18;” x 17;” x 53&frac18;”)_

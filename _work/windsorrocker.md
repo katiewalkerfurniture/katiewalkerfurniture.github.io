@@ -9,7 +9,6 @@ type:
 retailer:
   - heals
   - caa
-  - sitting firm
 menus:
   - work
   - toBuy
@@ -29,6 +28,9 @@ otherimages:
   - //images.quru.com/image?src=kwf/KWFWindsorRocker/KWF_Windsor_Rocker_side_view_cut.jpg&fill=%23ffffff
   - //images.quru.com/image?src=kwf/KWFWindsorRocker/KWFWindsorRockerWalnutCut.jpg
   - //images.quru.com/image?src=/kwf/KWF_Woven_Windsor_Rocker_front_3_quarters_4724.JPG&right=0.98438&left=0.0375
+  - //images.quru.com/image?src=kwf/KWFWindsorRocker/Woven%20windsor%20chair.jpg&bottom=0.9625&top=0.05313&icc=srgb&strip=0
+  - //images.quru.com/image?src=kwf/KWFWindsorRocker/Black%20%26%20woven%20windsors.jpg&bottom=0.94688&top=0.11563&icc=srgb&strip=0
+  - //images.quru.com/image?src=kwf/KWFWindsorRocker/Black%20Windsor%20rocker.jpg&bottom=0.95&top=0.07187&icc=srgb&strip=0
   - //images.quru.com/image?src=kwf/WCFMGuildMark.jpg
 
 ---

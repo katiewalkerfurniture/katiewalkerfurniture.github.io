@@ -19,11 +19,8 @@ stock: 1
 thumbnail: //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%201.jpg&right=0.86875&left=0.12812&icc=srgb&top=0.12546&strip=0&width=170
 headimage: //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%201.jpg&right=0.91563&left=0.06875&icc=srgb&strip=0
 otherimages:
-  - //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%202.jpg&right=0.90625&left=0.09063&icc=srgb&strip=0
-  - //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%203.jpg&right=0.9625&left=0.0375&icc=srgb&strip=0
   - //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%204.jpg&right=0.88438&left=0.09688&icc=srgb&strip=0
   -  //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%205.jpg&left=0.08125&right=0.95&icc=srgb&strip=0
-  - //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%206.jpg&right=0.9375&left=0.07187&icc=srgb&strip=0
   - //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%207.jpg&right=0.95625&left=0.04688&icc=srgb&strip=0
   -  //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%20and%20chair%201.jpg&left=0.025&right=0.97188&icc=srgb&strip=0
 
