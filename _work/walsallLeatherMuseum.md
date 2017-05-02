@@ -4,7 +4,6 @@ title: Walsall Leather Museum
 tags:
   - work
 type:
-  - selected commission
   - commission
 retailer:
 exhibitions:
@@ -12,14 +11,14 @@ collections:
 order: 290
 menus:
   - work
-  - commission
-date:
+  - toCommission
+date: 1998-07-01
 social: Walsall Leather Museum
 awards:
 thumbnail: //images.quru.com/image?src=kwf/KWF_Walsall_chair.tif&width=170&height=170&fill=auto
 headimage: //images.quru.com/image?src=kwf/KWF_Walsall_chair.tif
 otherimages:
-
+---
 
 Seating for Walsall leather Museum, 1998
 
