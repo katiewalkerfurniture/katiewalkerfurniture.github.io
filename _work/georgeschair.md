@@ -18,6 +18,8 @@ thumbnail: //images.quru.com/image?src=kwf/GREAT/GREAT%20chair%20triple.jpg&widt
 headimage: //images.quru.com/image?src=kwf/GREAT/GREAT%20chair%20triple.jpg&fill=auto
 otherimages:
   - //images.quru.com/image?src=kwf/GREAT/GREAT%20chair%20single.jpg
+  - //images.quru.com/details/?src=kwf/GREAT/Pure+chair+double+overlap.jpg
+  - /images.quru.com/details/?src=kwf/GREAT/Pure+chair+double+back+to+back.jpg
 
 
 ---
@@ -26,6 +28,6 @@ _520mm wide x 504mm deep x 820mm high (20&frac12;” x  19&frac34;” x 32&frac1
 
 Originally designed in ash with a solid wood seat, George's chair was designed to accompany George's high chair at the dining table. It is also available in other timbers, including walnut, and with an upholstered seat (as illustrated).
 
-The chair is made by [Sitting Firm Chairmakers Ltd][132b6906] in the UK using British materials wherever possible. The wood used in the chair was harvested in the UK under a Forestry commission felling license. All materials and processes have been chosen with sensitivity to their environmental impact.
+The chair is made by [Sitting Firm Chairmakers Ltd][132b6906] in the UK using British materials wherever possible. All materials and processes have been chosen with sensitivity to their environmental impact.
 
   [132b6906]: /retailers/sittingfirm.html "Sitting Firm"

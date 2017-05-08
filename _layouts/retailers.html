@@ -9,7 +9,7 @@ layout: default
 </div>
 
 <div class="related">
-<h2>Exhibited items</h2>
+<h2>Pieces available</h2>
   <div class="grid clearfix">
     {% for post in site.work %}{% if post.title != "Work" %}{% assign lvendor = page.title | downcase %}{% if post.retailer contains lvendor %}
     {% include cell.html %}

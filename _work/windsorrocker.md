@@ -31,6 +31,7 @@ otherimages:
   - //images.quru.com/image?src=kwf/KWFWindsorRocker/Woven%20windsor%20chair.jpg&bottom=0.9625&top=0.05313&icc=srgb&strip=0
   - //images.quru.com/image?src=kwf/KWFWindsorRocker/Black%20%26%20woven%20windsors.jpg&bottom=0.94688&top=0.11563&icc=srgb&strip=0
   - //images.quru.com/image?src=kwf/KWFWindsorRocker/Black%20Windsor%20rocker.jpg&bottom=0.95&top=0.07187&icc=srgb&strip=0
+  - //images.quru.com/image?src=kwf/KWFWindsorRocker/Windsor%20rocker%20and%20stool%20in%20Heals.JPG&angle=90&top=0.30312&left=0.07083
   - //images.quru.com/image?src=kwf/WCFMGuildMark.jpg
 
 ---

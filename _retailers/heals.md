@@ -12,4 +12,4 @@ headimage: //images.quru.com/image?src=/kwf/heals.jpg&height=350&fill=%23ffffff&
 
 [Heals](//www.heals.com/windsor-rocker.html) is well known as a household department store with it's flagship on London's Tottenham Court Road.
 
-Heals currently sell the Windsor Rocker in ash, walnut and, exclusively to them, a combination of ash and walnut.
+Heals currently sell the Windsor Rocker and footstool in ash and walnut. They are also showing and can take orders for George's high chair. 

@@ -28,4 +28,4 @@ _1385mm long x 550mm wide x 460mm high. (54&frac12;” x 21&frac12;” x 18”)_
 A table and four bench seats capable of sitting sixteen or four comfortably. In rippled ash and fabric.
 
 ## Awards ##
-- Worshipful Company of Furniture Makers, Bespoke Guildmark
+- Worshipful Company of Furniture Makers, Bespoke Guildmark 271

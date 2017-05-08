@@ -25,8 +25,12 @@ otherimages:
   -  //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%20and%20chair%201.jpg&left=0.025&right=0.97188&icc=srgb&strip=0
 
 ---
-_1200mm dia x 730mm high (47&frac14;” dia x 28&frac34;”)_
+_1200mm dia x 730mm high (47&frac14;” dia x 28&frac34;”) seats 6_  
+_1500mm dia x 730mm high (59” dia x 28&frac34;”) seats 8_
+
 
 In ash with a white oil finish, walnut with a clear oil finish or oak with either a white or clear oil finish.
 
 Other finishes are available on request.
+
+The Eliza dining table takes traditional Windsor craftsmanship and serves it with a twist giving the piece a lighter fresh contemporary feel.
