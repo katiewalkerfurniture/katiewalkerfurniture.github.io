@@ -8,7 +8,7 @@ summary: Katie has some stunning work
 
 <div class="work" markdown="1">
   Katie was forged a number of strong relationships with a number of retailers, galleries and manufacturers. Not only do these companies sell furniture from the Katie Walker Furniture range but they also sell works that Katie has specifically designed for them.
-  
+
   A number of public collections have some of Katie's work which is therefore accessible to the public.
 
 
@@ -31,24 +31,24 @@ summary: Katie has some stunning work
 
 {% for post in site.links.tags[retailer] limit:8 %}
       <div class="row">
-		  <a class="cell logo" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+		  <a class="cell logo" href="/{{ post.url | remove_first: '/' }}">
 	        <img src="{{ post.thumbnail }}" />
 		  </a>
-		  <a class="cell short-description" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+		  <a class="cell short-description" href="/{{ post.url | remove_first: '/' }}">
 			{{ post.summary }}
 		  </a>
 	  </div>
 	  {% endfor %}
   </div>
-  
+
   <div class="related">
   <h3>Makers</h3>
      {% for post in site.links.tags[retailer] limit:8 %}
 	 <div class="row">
-		 <a class="cell logo" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+		 <a class="cell logo" href="/{{ post.url | remove_first: '/' }}">
 			 <img src="{{ post.thumbnail }}" />
 		 </a>
-		 <a class="cell short-description" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+		 <a class="cell short-description" href="/{{ post.url | remove_first: '/' }}">
 			{{ post.summary }}
 		 </a>
 	 </div>
