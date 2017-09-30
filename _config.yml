@@ -2,7 +2,7 @@ title:            Katie Walker
 tagline:          Furniture design
 url:              http://www.katiewalkerfurniture.com
 # paginate:        1
-baseurl:          /
+baseurl:          '/'
 author:
   name:           Roland Whitehead
   url:            https://twitter.com/rolandw
