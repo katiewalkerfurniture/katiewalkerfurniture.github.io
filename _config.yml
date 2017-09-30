@@ -12,7 +12,7 @@ pages_list:
   Archive: '/archive'
   Feed: '/atom.xml'
 
-version:          1.0.0
+version:          1.0.1
 github:
   repo:           https://github.com/katiewalker.furniture/katiewalker.furniture
 
