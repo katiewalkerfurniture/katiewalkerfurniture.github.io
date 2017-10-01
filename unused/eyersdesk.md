@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: nil
 title: Eyers' desk
 tags:
   - work
