@@ -4,6 +4,16 @@ layout: default
 
 {% include workheader.html %}
 
+  {% if page.storeitem %}<span itemscope itemtype="http://schema.org/Product" class="microdata">
+    <meta itemprop="image" content="{{ page.storeimage }}">
+    <meta itemprop="name" content="{{ page.title }}">
+    <meta itemprop="description" content="{{ page.storedescription }}">
+    <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+      <meta itemprop="price" content="{{ page.storeprice }}">
+      <meta itemprop="priceCurrency" content="GBP">
+    </span>
+  </span>{% endif %}
+
   <div class="post">
     <img class="post-title gallery_image" alt="{{ page.title }}" src="{{ page.headimage }}&width=342" srcset="{{ page.headimage }}&width=342 360w, {{ page.headimage }}&width=770 800w,  {{ page.headimage }}&width=1440 2x">
 

@@ -19,7 +19,10 @@ collections: A Ribbon rocker was purchased by <a href="//manchesterartgallery.or
 order: 40
 stock: 2
 stockdate:
-price: £4,995
+storeitem: true
+storeimage: https://images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
+storedescription: The most modern rocking chair with a single band of ash wood, a high quality saddle leather seat and stainless steel frame
+storeprice: 6000
 date: 2006-01-01
 summary:
 thumbnail:   //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_side_on_white.jpg&width=175&height=175&fill=%23ffffff&left=0.07428571428571429&top=0.06285714285714286&right=0.9142857142857143&bottom=0.9257142857142857&format=jpg&strip=1

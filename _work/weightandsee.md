@@ -20,9 +20,13 @@ date: 2002-01-01
 stock: 3
 stockdate: January 2015
 social: Weight and see mirror
+storeitem: true
+storeimage: //images.quru.com/image?src=/kwf/KWFWeightAndSee2012White.jpg&height=350&left=0.2267&top=0.0333&right=0.853&bottom=0.967&strip=1
+storedescription: A free standing full length wooden cheval mirror with a polished stainless steel ball that is used to adjust the angle
+storeprice: 695
 summary:
-thumbnail:  //images.quru.com:/image?src=/kwf/KWFWeightAndSee2012White.jpg&width=175&height=175&fill=%23ffffff&left=0.2267&top=0.0333&right=0.853&bottom=0.967&strip=1
-headimage: //images.quru.com:/image?src=/kwf/KWFWeightAndSee2012White.jpg&height=350&left=0.2267&top=0.0333&right=0.853&bottom=0.967&strip=1
+thumbnail:  //images.quru.com/image?src=/kwf/KWFWeightAndSee2012White.jpg&width=175&height=175&fill=%23ffffff&left=0.2267&top=0.0333&right=0.853&bottom=0.967&strip=1
+headimage: //images.quru.com/image?src=/kwf/KWFWeightAndSee2012White.jpg&height=350&left=0.2267&top=0.0333&right=0.853&bottom=0.967&strip=1
 otherimages:
   - //images.quru.com/image?src=kwf/KWFWeightAndSeeWalnut2013White.jpg&height=175&width=175&fill=auto&strip=1
   - //images.quru.com/image?src=kwf/WeightAndSeeMirror/KWFWeightAndSeeMirrorThreeAshBlueRed.jpg
