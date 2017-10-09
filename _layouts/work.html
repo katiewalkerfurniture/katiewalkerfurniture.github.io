@@ -5,13 +5,24 @@ layout: default
 {% include workheader.html %}
 
   {% if page.storeitem %}<span itemscope itemtype="http://schema.org/Product" class="microdata">
-    <meta itemprop="image" content="{{ page.storeimage }}">
+    <meta itemprop="id" content="{{ page.storeid }}">
     <meta itemprop="name" content="{{ page.title }}">
     <meta itemprop="description" content="{{ page.storedescription }}">
+    <meta itemprop="google product category" content="{{ page.storegoogleproductcategory }}">
+    <meta itemprop="product type" content="{{ page.storeproducttype }}">
+    <meta itemprop="image" content="{{ page.storeimage }}">
+    <meta itemprop="condition" content="{{ page.storecondition }}">
+    {% if page.stock > 0 %}<meta itemprop="availability" content="in stock">{% else %}<meta itemprop="availability" content="pre-order">{% endif %}
     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
       <meta itemprop="price" content="{{ page.storeprice }}">
       <meta itemprop="priceCurrency" content="GBP">
     </span>
+    <meta itemprop="brand" content="Katie Walker Furniture">
+    <meta itemprop="mpn" content="{{ page.mpn }}">
+    <meta itemprop="colour" content="{{ page.colour |default(natural) }}">
+    <meta itemprop="material" content="{{ page.material|default(wood) }}">
+    <meta itemprop="shipping" content="UK::Standard:{{ page.shippingcost|default(35) }}.00 GBP">
+    <meta itemprop="shipping weight" content="{{ page.shippingweight }} KG">
   </span>{% endif %}
 
   <div class="post">

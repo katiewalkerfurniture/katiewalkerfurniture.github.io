@@ -16,13 +16,22 @@ awards:
   - 2006 Wesley-Barrell Craft Award
   - 2007 Grand Designs - best furniture and product of the year
 collections: A Ribbon rocker was purchased by <a href="//manchesterartgallery.org/" alt="Manchester Museum of Modern Art">Manchester Museum of Modern Art</a> for their permanent collection.
-order: 40
+order: 2
 stock: 2
 stockdate:
 storeitem: true
+storeid: RR06
+storedescription: The most modern rocking chair with a single band of wood, a high quality saddle leather seat and stainless steel frame
+storegoogleproductcategory: Furniture > Chairs > Rocking Chairs
+storeproducttype: Interiors > Chairs > Rocking Chairs > Ribbon
 storeimage: https://images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
-storedescription: The most modern rocking chair with a single band of ash wood, a high quality saddle leather seat and stainless steel frame
+storecondition: new
 storeprice: 6000
+mpn: RR06000KWF
+shippingcost: 35
+shippingweight: 17
+colour: Ash/Tan
+material: Ash/Stainless Steel/Leather
 date: 2006-01-01
 summary:
 thumbnail:   //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_side_on_white.jpg&width=175&height=175&fill=%23ffffff&left=0.07428571428571429&top=0.06285714285714286&right=0.9142857142857143&bottom=0.9257142857142857&format=jpg&strip=1

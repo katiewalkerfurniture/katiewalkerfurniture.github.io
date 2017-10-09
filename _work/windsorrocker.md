@@ -22,9 +22,18 @@ awards:
   - the 2011 Wood Awards - furniture award
 summary:
 storeitem: true
-storeimage: https://images.quru.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor%20Rocker%20quarter%20view.jpg
+storeid: WR11
 storedescription: A modern wooden rocking chair using traditional Windsor chairmaking techniques.
+storegoogleproductcategory: Furniture > Chairs > Rocking Chairs
+storeproducttype: Interiors > Chairs > Rocking Chairs > Windsor
+storeimage: https://images.quru.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor%20Rocker%20quarter%20view.jpg
+storecondition: new
 storeprice: 2235
+mpn: WR11000SF17
+shippingcost: 35
+shippingweight: 10
+colour: Ash
+material: Ash
 thumbnail:  //images.quru.com/image?src=kwf/KWFWindsorRocker/KWF_Windsor_Rocker_side_view_cut.jpg&width=175&height=175&fill=%23ffffff
 headimage: //images.quru.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor%20Rocker%20quarter%20view.jpg
 otherimages:
