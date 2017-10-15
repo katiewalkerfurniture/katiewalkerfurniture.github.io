@@ -95,6 +95,11 @@ body {
 	height:  100%;
 }
 
+.Houzztag {
+    padding-top: 0.5em;
+    text-align: right;
+}
+
 span.normal
 {
 	font: 10px "Feura", sans-serif;

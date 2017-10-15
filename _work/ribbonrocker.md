@@ -41,6 +41,7 @@ otherimages:
   - //images.quru.com/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20front%20on.tif&top=0.16&bottom=0.82&format=jpg&strip=1
   -  //images.quru.com:/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20side.tif&left=0.1&right=0.9&fill=auto&format=jpg&strip=1
   - //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
+houzztag: <a class="houzz-share-button" data-url="https://www.katiewalkerfurniture.com/work/ribbonrocker.html" data-hzid="48034" data-locale="en-GB" data-img="http://images.quru.com/image?src=kwf/KWFRibbonRocker/KWF%20Walnut%20Ribbon%20front%2034.jpeg&right=0.87813&left=0.10625&width=342" data-title="Katie Walker's Ribbon Rocking Chair" data-desc="A single continuous band of laminated rippled ash with saddle leather seat on a stainless steel frame. \n\nThe ultimate rocking chair..." data-category="Rocking Chairs" data-showcount="0" href="https://www.houzz.co.uk">Houzz</a><script>(function(d,s,id){if(!d.getElementById(id)){var js=d.createElement(s);js.id=id;js.async=true;js.src="//www.houzz.co.uk/js/widgets.js?"+(new Date().getTime());var ss=d.getElementsByTagName(s)[0];ss.parentNode.insertBefore(js,ss);}})(document,"script","houzzwidget-js");</script>
 ---
 _790mm wide x 1130mm deep x 860mm high (31” x 44&frac12;” x 33&frac34;”)_
 
