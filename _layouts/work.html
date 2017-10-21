@@ -14,8 +14,8 @@ layout: default
     <meta itemprop="condition" content="{{ page.storecondition }}">
     {% if page.stock > 0 %}<meta itemprop="availability" content="in stock">{% else %}<meta itemprop="availability" content="pre-order">{% endif %}
     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-      <meta itemprop="price" content="{{ page.storeprice }}">
-      <meta itemprop="priceCurrency" content="GBP">
+      {% for m in page.storeprice %}<meta itemprop="price" content="{{ m.cost }}">
+      {% endfor %}<meta itemprop="priceCurrency" content="GBP">
     </span>
     <meta itemprop="brand" content="Katie Walker Furniture">
     <meta itemprop="mpn" content="{{ page.mpn }}">
@@ -31,31 +31,29 @@ layout: default
 
 
   <h1 class="post-title">{{ page.title }}</h1>
-  {{ content }}
+    {% if page.storeprice|length > 0 %}<div class="price">{% for m in page.storeprice %}<br/>{% if m.type %}{{ m.type }} - {% endif %}£{{ m.cost }}{% endfor %} including VAT.</div>{% endif %}
 
-  {% if page.awards %}
-  <div class="awards">
+    {{ content }}
+
+  {% if page.awards %}<div class="awards">
     This piece was awarded{% for gong in page.awards %}{% if forloop.first %} {% elsif forloop.last %} and {% else %}, {% endif %}{{ gong }}{% endfor %}.
-  </div>
-  {% endif %}
+  </div>{% endif %}
 
 
-  {% if page.collections != null %}
-  <div class="collections">
+  {% if page.collections != null %}<div class="collections">
     {{ page.collections }}
-  </div>
-  {% endif %}
-
+  </div>{% endif %}
 
   <div class="grid clearfix" id="otherImages">
     {% for cell in page.otherimages %}{% include imagecell.html %}{% endfor %}
   </div>
 
   {% if page.stock > 0 %}
-  <a href="#!" class="button" id="show_contact">Buy Now</a>
+  <a href="#!" class="button" id="show_contact">Place an order</a>
   <div id="contact_form" class="order">
   <!-- <p>We currently have {{ page.stock }} in stock at {{ page.price }}.</p>
- --><p>If you would like to purchase a {{ page.title }} then please complete the following form and we will contact you to discuss your options and delivery within {{ site.data.respond.days }} working days.
+--><p>If you would like to purchase a {{ page.title }} then either telephone +44 7747 615323 during UK working hours or complete the following form and we will contact you to discuss your options and delivery within {{ site.data.respond.days }} working days.
+
 {% include contact.html %}
    <input name="Type" value="Order" type="hidden">
 {% include contactend.html %}

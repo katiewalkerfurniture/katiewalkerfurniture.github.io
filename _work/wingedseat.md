@@ -6,7 +6,6 @@ tags:
 type:
   - buy
 retailer:
-  - architectural plants
 menus:
   - work
   - toBuy
@@ -25,7 +24,7 @@ otherimages:
 stripimage:
 style: blue
 ---
-_2000mm wide x 100mm high. (79” x 39&frac12;”)_
+_2000mm wide x 100mm high. (79&rdquo; x 39&frac12;&rdquo;)_
 
 In brushed and polished stainless steel.
 

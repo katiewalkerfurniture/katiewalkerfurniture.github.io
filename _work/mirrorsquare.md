@@ -7,7 +7,6 @@ tags:
 type:
   - buy
 retailer:
-  - caa
 menus:
   - work
   - toBuy

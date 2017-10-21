@@ -300,6 +300,13 @@ img.page-title, img.post-title {
 	/*display: block;*/
 }
 
+.price {
+    font-size: 100%;
+    margin-bottom: 1rem;
+    margin-top: -1rem;
+}
+
+
 .gallery_image, .pointer {
 	cursor: pointer;
 }
