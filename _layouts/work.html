@@ -27,7 +27,19 @@ layout: default
 
   <div class="post">
     <img class="post-title gallery_image" alt="{{ page.title }}" src="{{ page.headimage }}&width=342" srcset="{{ page.headimage }}&width=342 360w, {{ page.headimage }}&width=770 800w,  {{ page.headimage }}&width=1440 2x">
-    {% if page.houzztag %}<div class="Houzztag"">{{ page.houzztag | default() }}</div>{% endif %}
+<!--    {% if page.houzztag %}<div class="Houzztag"">{{ page.houzztag | default() }}</div>{% endif %} -->
+    <div class="houzz">
+        <a class="houzz-share-button" 
+            data-url="{{ page.url }}"
+            data-hzid="48034" data-locale="en-GB" 
+            data-img="https:{{ page.headimage }}&width=342" 
+            data-title="Katie Walker's {{ page.title }}"
+            data-desc="{{ page.summary }}" 
+            data-category="{{ page.houzzcategory }}" 
+            data-showcount="0" 
+            href="https://www.houzz.co.uk">Houzz</a>
+        <script>(function(d,s,id){if(!d.getElementById(id)){var js=d.createElement(s);js.id=id;js.async=true;js.src="//www.houzz.co.uk/js/widgets.js?"+(new Date().getTime());var ss=d.getElementsByTagName(s)[0];ss.parentNode.insertBefore(js,ss);}})(document,"script","houzzwidget-js");</script>
+    </div>
 
 
   <h1 class="post-title">{{ page.title }}</h1>

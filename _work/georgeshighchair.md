@@ -8,7 +8,6 @@ type:
   - buy
 retailer:
   - heals
-  - sitting firm
 menus:
   - work
   - tobuy
@@ -16,7 +15,7 @@ date: 2016-09-01
 order: 130
 social: adjustable high chair
 thumbnail: //images.quru.com/image?src=/kwf/KWFGeorgesHighChair/Georges%20high%20chair%20cover.jpg&top=0.13125&bottom=0.92813&width=175&height=175&fill=auto
-headimage: //images.quru.com/image?src=/kwf/KWFGeorgesHighChair/Georges%20high%20chair%20cover.jpg&top=0.13125&bottom=0.92813&fill=auto
+headimage: //images.quru.com/image?src=/kwf/KWFGeorgesHighChair/Georges%20high%20chair%20cover.jpg&top=0.13125&bottom=0.92813&right=0.9&fill=auto
 otherimages:
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20table.jpg&bottom=0.95313&top=0.07813
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20from%206%20months.jpg&top=0.12812
@@ -26,10 +25,19 @@ otherimages:
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20aged%209.jpg&top=0.05625&bottom=0.94375
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/GeorgesChair3Models.jpg&top=0.05&bottom=0.95
   - //images.quru.com/image?src=kwf/KWFGeorgesHighChair/Georges%20high%20chair%20Manual.pdf.d/page-00011.png&bottom=0.775&top=0.13125&left=0.10823
+summary: A high quality solid ash high chair that grows with the child
+storeprice: 
+  - type: Complete
+    cost: 1980
+  - type: Without table
+    cost: 1795
+  - type: Without table or retainer
+    cost: 1650
+houzzcategory: Children's Chairs
 
 ---
 
-_464mm wide x 500mm deep x 900mm high (18&frac14;” x  19&frac34;” x 35&frac12;”)_  
+_464mm wide x 500mm deep x 900mm high (18&frac14;&rdquo; x  19&frac34;&rdquo; x 35&frac12;&rdquo;)_  
 
 In 2012 Katie Walker designed a high chair for his royal highness Prince George of Cambridge. The piece was the winning entry in an invited competition commissioned by The Worshipful Company of Furniture Makers, the City of London livery company, and was presented to their Royal Highnesses the Duke and Duchess of Cambridge in 2013.
 

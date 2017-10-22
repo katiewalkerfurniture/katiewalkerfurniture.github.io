@@ -41,7 +41,7 @@ shippingcost: 35
 shippingweight: 10
 colour: Ash
 material: Ash
-summary:
+summary: The Weight & see mirror is a refreshingly playful take on the traditional freestanding full length wooden cheval mirror. Simply move the highly polished stainless steel ball to change the mirrors angle. It is beautifully crafted in the UK from wood from sustainable sources and finished with a natural hard wax oil. Size 330mm wide x 590mm deep x 1430mm high (13” x 23¼” x 56¼”)
 thumbnail:  //images.quru.com/image?src=/kwf/KWFWeightAndSee2012White.jpg&width=175&height=175&fill=%23ffffff&left=0.2267&top=0.0333&right=0.853&bottom=0.967&strip=1
 headimage: //images.quru.com/image?src=/kwf/KWFWeightAndSee2012White.jpg&height=1000&left=0.2267&top=0.0333&right=0.853&bottom=0.967&fill=auto&strip=1
 otherimages:
@@ -50,17 +50,7 @@ otherimages:
   - //images.quru.com/image?src=kwf/WeightAndSeeMirror/KWFWeightAndSeeMirrorBackAndFrontTwiceBueAndRed.jpg&fill=auto&strip=1
   - //images.quru.com/image?src=kwf/WeightAndSeeMirror/KWFWeightAndSeeMirrorBlueStripe.jpg&fill=auto&strip=1
   - //images.quru.com/image?src=kwf/WeightAndSeeMirror/KWFWeightAndSeeRed.jpg&fill=auto&strip=1
-houzztag: >
-    <a class="houzz-share-button" 
-    data-url="https://www.katiewalkerfurniture.com/work/weightandsee.html" 
-    data-hzid="48034" data-locale="en-GB" 
-    data-img="http://images.quru.com/image?src=/kwf/KWFWeightAndSee2012White.jpg&height=350&left=0.2267&top=0.0333&right=0.853&bottom=0.967&strip=1&width=342" 
-    data-title="Katie Walker's Weight and See mirror" 
-    data-desc="The Weight & see mirror is a refreshingly playful take on the traditional freestanding full length wooden cheval mirror. Simply move the highly polished stainless steel ball to change the mirrors angle. It is beautifully crafted in the UK from wood from sustainable sources and finished with a natural hard wax oil. Size 330mm wide x 590mm deep x 1430mm high (13” x 23¼” x 56¼”)" 
-    data-category="Freestanding Mirrors" 
-    data-showcount="0" 
-    href="https://www.houzz.co.uk">Houzz</a>
-    <script>(function(d,s,id){if(!d.getElementById(id)){var js=d.createElement(s);js.id=id;js.async=true;js.src="//www.houzz.co.uk/js/widgets.js?"+(new Date().getTime());var ss=d.getElementsByTagName(s)[0];ss.parentNode.insertBefore(js,ss);}})(document,"script","houzzwidget-js");</script>
+houzzcategory: Freestanding Mirrors
 ---
 *330mm wide x 590mm deep x 1430mm high*
 *(13&rdquo; x 23&frac14;&rdquo; x 56&frac14;&rdquo;)*

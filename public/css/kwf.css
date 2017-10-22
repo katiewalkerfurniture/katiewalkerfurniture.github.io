@@ -95,9 +95,10 @@ body {
 	height:  100%;
 }
 
-.Houzztag {
+.houzz {
     padding-top: 0.5em;
     text-align: right;
+    float: right;
 }
 
 span.normal
@@ -271,7 +272,7 @@ h1 {
 }
 
 .work h1 {
-	font-size: 1rem;
+	font-size: 125%;
 	font-weight: 300;
 }
 
