@@ -18,10 +18,11 @@ headimage: //images.quru.com/image?src=kwf/Bellanca/Bellanca+Table+by+Katie+Walk
 otherimages:
   - //images.quru.com/image?src=kwf/Bellanca/Bellanca-Table-by-Katie-Walker.jpg&left=0.17813&right=0.84375
   - //images.quru.com/image?src=kwf/Bellanca/Bellanca-Table-by-Katie-Walker-end-shot.jpg&right=0.75625&left=0.25313
-
+houzzcategory: Dining Tables
+summary: An expanding dining table for 6 or 10 in walnut and oak.
 ---
 
-_900mm wide x 1800mm long (extending to 2400mm) x 740mm high (35&frac12;” x  77&frac34;” (94&frac12;”) x 29”)_  
+_900mm wide x 1800mm long (extending to 2400mm) x 740mm high (35&frac12;&rdquo; x  77&frac34;&rdquo; (94&frac12;&rdquo;) x 29&rdquo;)_  
 
 The Bellanca table was designed for [Benchmark Furniture](/retailers/benchmark). It has a central extension (stored under the table top) and so can seet 6 or 10. It features drawers at both ends.
 
