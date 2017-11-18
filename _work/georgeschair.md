@@ -17,10 +17,10 @@ thumbnail: //images.quru.com/image?src=kwf/GREAT/GREAT%20chair%20triple.jpg&widt
 headimage: //images.quru.com/image?src=kwf/GREAT/GREAT%20chair%20triple.jpg&fill=auto
 otherimages:
   - //images.quru.com/image?src=kwf/GREAT/GREAT%20chair%20single.jpg
-  - //images.quru.com/details/?src=kwf/GREAT/Pure+chair+double+overlap.jpg
-  - /images.quru.com/details/?src=kwf/GREAT/Pure+chair+double+back+to+back.jpg
+  - //images.quru.com/image?src=/kwf/GREAT/Pure%20chair%20double%20overlap.jpg
+  - //images.quru.com/image?src=/kwf/GREAT/Pure%20chair%20double%20back%20to%20back.jpg
 summary: An upholstered dining chair in ash, walnut and other materials, designed to accompany George's high chair.
-storeprice: 
+storeprice:
   - type: Walnut
     cost: 935
   - type: Ash
