@@ -4,35 +4,68 @@ layout: default
 
 {% include workheader.html %}
 
+  {% if page.storeitem %}<span itemscope itemtype="http://schema.org/Product" class="microdata">
+    <meta itemprop="id" content="{{ page.storeid }}">
+    <meta itemprop="name" content="{{ page.title }}">
+    <meta itemprop="description" content="{{ page.storedescription }}">
+    <meta itemprop="google product category" content="{{ page.storegoogleproductcategory }}">
+    <meta itemprop="product type" content="{{ page.storeproducttype }}">
+    <meta itemprop="image" content="{{ page.storeimage }}">
+    <meta itemprop="condition" content="{{ page.storecondition }}">
+    {% if page.stock > 0 %}<meta itemprop="availability" content="in stock">{% else %}<meta itemprop="availability" content="pre-order">{% endif %}
+    <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+      {% for m in page.storeprice %}<meta itemprop="price" content="{{ m.cost }}">
+      {% endfor %}<meta itemprop="priceCurrency" content="GBP">
+    </span>
+    <meta itemprop="brand" content="Katie Walker Furniture">
+    <meta itemprop="mpn" content="{{ page.mpn }}">
+    <meta itemprop="colour" content="{{ page.colour |default(natural) }}">
+    <meta itemprop="material" content="{{ page.material|default(wood) }}">
+    <meta itemprop="shipping" content="UK::Standard:{{ page.shippingcost|default(35) }}.00 GBP">
+    <meta itemprop="shipping weight" content="{{ page.shippingweight }} KG">
+  </span>{% endif %}
+
   <div class="post">
     <img class="post-title gallery_image" alt="{{ page.title }}" src="{{ page.headimage }}&width=342" srcset="{{ page.headimage }}&width=342 360w, {{ page.headimage }}&width=770 800w,  {{ page.headimage }}&width=1440 2x">
+<!--    {% if page.houzztag %}<div class="Houzztag"">{{ page.houzztag | default() }}</div>{% endif %} -->
+    <div class="houzz">
+        <a class="houzz-share-button" 
+            data-url="{{ page.url }}"
+            data-hzid="48034" data-locale="en-GB" 
+            data-img="https:{{ page.headimage }}&width=342" 
+            data-title="Katie Walker's {{ page.title }}"
+            data-desc="{{ page.summary }}" 
+            data-category="{{ page.houzzcategory }}" 
+            data-showcount="0" 
+            href="https://www.houzz.co.uk">Houzz</a>
+        <script>(function(d,s,id){if(!d.getElementById(id)){var js=d.createElement(s);js.id=id;js.async=true;js.src="//www.houzz.co.uk/js/widgets.js?"+(new Date().getTime());var ss=d.getElementsByTagName(s)[0];ss.parentNode.insertBefore(js,ss);}})(document,"script","houzzwidget-js");</script>
+    </div>
+
 
   <h1 class="post-title">{{ page.title }}</h1>
-  {{ content }}
+    {% if page.storeprice|length > 0 %}<div class="price">{% for m in page.storeprice %}<br/>{% if m.type %}{{ m.type }} - {% endif %}£{{ m.cost }}{% endfor %} including VAT.</div>{% endif %}
 
-  {% if page.awards %}
-  <div class="awards">
+    {{ content }}
+
+  {% if page.awards %}<div class="awards">
     This piece was awarded{% for gong in page.awards %}{% if forloop.first %} {% elsif forloop.last %} and {% else %}, {% endif %}{{ gong }}{% endfor %}.
-  </div>
-  {% endif %}
+  </div>{% endif %}
 
 
-  {% if page.collections != null %}
-  <div class="collections">
+  {% if page.collections != null %}<div class="collections">
     {{ page.collections }}
-  </div>
-  {% endif %}
-
+  </div>{% endif %}
 
   <div class="grid clearfix" id="otherImages">
     {% for cell in page.otherimages %}{% include imagecell.html %}{% endfor %}
   </div>
 
   {% if page.stock > 0 %}
-  <a href="#!" class="button" id="show_contact">Buy Now</a>
+  <a href="#!" class="button" id="show_contact">Place an order</a>
   <div id="contact_form" class="order">
   <!-- <p>We currently have {{ page.stock }} in stock at {{ page.price }}.</p>
- --><p>If you would like to purchase a {{ page.title }} then please complete the following form and we will contact you to discuss your options and delivery within {{ site.data.respond.days }} working days.
+--><p>If you would like to purchase a {{ page.title }} then either telephone +44 7747 615323 during UK working hours or complete the following form and we will contact you to discuss your options and delivery within {{ site.data.respond.days }} working days.
+
 {% include contact.html %}
    <input name="Type" value="Order" type="hidden">
 {% include contactend.html %}
@@ -51,7 +84,7 @@ layout: default
 {% elsif page.type contains "buy" %}
 <p> The {{ page.title }} is made to order. If you would like more information or to place an order then please  <a href="#!" id="show_contact">click here</a>{% if page.retailer %} or contact one of our stockists{% endif %}.
 {% elsif page.type contains "retailer" %}
-<p> The {{ page.title }} is available from {{ page.retailer[0] }}. If you would like more information about this product then please  <a href="#!" id="show_contact">click here</a>{% if page.retailer %}{% endif %}.{% endif %}
+<p> The {{ page.title }} is available from {{ page.retailer[0]|capitalize }}. If you would like more information about this product then please  <a href="#!" id="show_contact">click here</a>{% if page.retailer %}{% endif %}.{% endif %}
 <div id="contact_form" class="reserve">
 {% include contact.html %}
 

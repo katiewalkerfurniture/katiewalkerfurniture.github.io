@@ -16,8 +16,8 @@ otherimages:
   - //images.quru.com/image?src=kwf/GREAT/GREAT_Desn_A0P_Katie_Walker.pdf.d/page-00004.png
   - //images.quru.com/image?src=kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png
   - //images.quru.com/image?src=kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00002.png
-
-
+houzzcategory: Rocking Chairs
+summary: The Windsor rocking chair and the Ribbon Rocking Chair,featured in the UK Government backed GREAT campaign
 ---
 
 

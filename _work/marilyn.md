@@ -21,9 +21,10 @@ thumbnail: //images.quru.com/image?src=/kwf/KWFMarilyn2012.jpg&width=170&height=
 headimage: //images.quru.com/image?src=/kwf/KWFMarilyn2012.jpg
 otherimages:
   - //images.quru.com/image?src=/kwf/KWFMarilyn.jpg
-
+summary: A side table designed so that the legs flow seamlessly from the top and the structural ‘undercarriage’ provides ‘cubby hole’ style storage. Three produced, one each in ash, oak and walnut.
+houzzcategory: Console Tables
 ---
-_1125 mm x 375 mm x 850 mm high, (44&frac14;” x 14&frac34;” x 33&frac12;”)_
+_1125 mm x 375 mm x 850 mm high, (44&frac14;&rdquo; x 14&frac34;&rdquo; x 33&frac12;&rdquo;)_
 
 
 A side table designed so that the legs flow seamlessly from the top and the structural ‘undercarriage’ provides ‘cubby hole’ style storage. Three produced, one each in ash, oak and walnut.

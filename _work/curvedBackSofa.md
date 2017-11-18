@@ -20,10 +20,11 @@ thumbnail: //images.quru.com/image?src=/kwf/KWF_Cuved_back_Sofa_2.jpg&width=170&
 headimage: //images.quru.com/image?src=/kwf/KWF_Cuved_back_Sofa_1.jpg
 otherimages:
   - //images.quru.com/image?src=/kwf/KWF_Cuved_back_Sofa_3.jpg
-
+summary: An upholstered sofa with a curved laminated back on a stainless steel frame
+houzzcategory: Living Room Furniture
 ---
-_1975mm wide x 850mm deep x 1180mm high. (77&frac34;” x 33&frac12;”x 42&frac12;")
-Footprint of stainless steel framework: 1600mm wide x 795mm. (63;” x 31&frac14;”)_
+_1975mm wide x 850mm deep x 1180mm high. (77&frac34;&rdquo; x 33&frac12;&rdquo;x 42&frac12;&rdquo;)_  
+_Footprint of stainless steel framework: 1600mm wide x 795mm. (63;&rdquo; x 31&frac14;&rdquo;)_
 
 
 This piece is one of two made. It has a curved backrest panel veneered in American walnut that is supported on a stainless steel frame with a brushed finish. The seat is traditionally made with sprung upholstery and covered with a ‘chocolate’ coloured fabric also with a brushed finish.

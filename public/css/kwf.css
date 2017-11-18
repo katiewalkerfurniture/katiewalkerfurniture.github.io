@@ -95,6 +95,12 @@ body {
 	height:  100%;
 }
 
+.houzz {
+    padding-top: 0.5em;
+    text-align: right;
+    float: right;
+}
+
 span.normal
 {
 	font: 10px "Feura", sans-serif;
@@ -266,7 +272,7 @@ h1 {
 }
 
 .work h1 {
-	font-size: 1rem;
+	font-size: 125%;
 	font-weight: 300;
 }
 
@@ -294,6 +300,13 @@ img.page-title, img.post-title {
 	margin-left: auto;
 	/*display: block;*/
 }
+
+.price {
+    font-size: 100%;
+    margin-bottom: 1rem;
+    margin-top: -1rem;
+}
+
 
 .gallery_image, .pointer {
 	cursor: pointer;

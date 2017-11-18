@@ -7,7 +7,6 @@ tags:
 type:
   - buy
 retailer:
-  - sitting firm
 menus:
   - work
   - tobuy
@@ -20,11 +19,16 @@ otherimages:
   - //images.quru.com/image?src=kwf/GREAT/GREAT%20chair%20single.jpg
   - //images.quru.com/details/?src=kwf/GREAT/Pure+chair+double+overlap.jpg
   - /images.quru.com/details/?src=kwf/GREAT/Pure+chair+double+back+to+back.jpg
-
-
+summary: An upholstered dining chair in ash, walnut and other materials, designed to accompany George's high chair.
+storeprice: 
+  - type: Walnut
+    cost: 935
+  - type: Ash
+    cost: 780
+houzzcategory: Dining Chairs
 ---
 
-_520mm wide x 504mm deep x 820mm high (20&frac12;” x  19&frac34;” x 32&frac14;”)_  
+_520mm wide x 504mm deep x 820mm high (20&frac12;&rdquo; x  19&frac34;&rdquo; x 32&frac14;&rdquo;)_  
 
 Originally designed in ash with a solid wood seat, George's chair was designed to accompany George's high chair at the dining table. It is also available in other timbers, including walnut, and with an upholstered seat (as illustrated).
 

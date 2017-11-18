@@ -11,17 +11,31 @@ menus:
   - work
   - toBuy
 awards:
-  - Worshipful Company of Furniture Makers, Bespoke Guild Mark no. 373
+  - The Furniture Makers&rsquo; Company, Bespoke Guild Mark no. 373
   - 2006 Wood Awards - furniture and innovation
   - 2006 Wesley-Barrell Craft Award
   - 2007 Grand Designs - best furniture and product of the year
-collections: A Ribbon rocker was purchased by <a href="//manchesterartgallery.org/" alt="Manchester Museum of Modern Art">Manchester Museum of Modern Art</a> for their permanent collection.
-order: 40
+collections: A Ribbon Rocking Chair was purchased by <a href="//manchesterartgallery.org/" alt="Manchester Museum of Modern Art">Manchester Museum of Modern Art</a> for their permanent collection.
+order: 2
 stock: 2
 stockdate:
-price: £4,995
+storeitem: true
+storeid: RR06
+storedescription: The most modern rocking chair with a single band of wood, a high quality saddle leather seat and stainless steel frame
+storegoogleproductcategory: Furniture > Chairs > Rocking Chairs
+storeproducttype: Interiors > Chairs > Rocking Chairs > Ribbon
+storeimage: https://images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
+storecondition: new
+storeprice: 
+  - type: 
+    cost: 6,740
+mpn: RR06000KWF
+shippingcost: 35
+shippingweight: 17
+colour: Ash/Tan
+material: Ash/Stainless Steel/Leather
 date: 2006-01-01
-summary:
+summary: A single continuous band of laminated rippled ash with saddle leather seat on a stainless steel frame. \n\nThe ultimate rocking chair...
 thumbnail:   //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_side_on_white.jpg&width=175&height=175&fill=%23ffffff&left=0.07428571428571429&top=0.06285714285714286&right=0.9142857142857143&bottom=0.9257142857142857&format=jpg&strip=1
 headimage: //images.quru.com/image?src=kwf/KWFRibbonRocker/KWF%20Walnut%20Ribbon%20front%2034.jpeg&right=0.87813&left=0.10625
 otherimages:
@@ -29,8 +43,9 @@ otherimages:
   - //images.quru.com/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20front%20on.tif&top=0.16&bottom=0.82&format=jpg&strip=1
   -  //images.quru.com:/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20side.tif&left=0.1&right=0.9&fill=auto&format=jpg&strip=1
   - //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
+houzzcategory: Rocking Chairs
 ---
-_790mm wide x 1130mm deep x 860mm high (31” x 44&frac12;” x 33&frac34;”)_
+_790mm wide x 1130mm deep x 860mm high (31&rdquo; x 44&frac12;&rdquo; x 33&frac34;&rdquo;)_
 
 A single continuous band of laminated rippled ash with saddle leather seat on a stainless steel frame.
 
@@ -38,16 +53,16 @@ Available in either lacquered rippled ash or walnut with a natural leather seat.
 
 ---
 
-*“The Ribbon rocking chair is actually extraordinary and very memorable - __a classic of our time__”*
+*&ldquo;The Ribbon Rocking Chair is actually extraordinary and very memorable - __a classic of our time__&rdquo;*
 Kevin McCloud, Grand Designs
 
-*“It is so difficult to create a truly original chair`: the minimalist, sculptural and beautifully balanced Ribbon rocking chair is a stunning re-invention of the traditional rocking chair and an __inspired__ combination of craft values with sleek contemporary design”.*
+*&ldquo;It is so difficult to create a truly original chair: the minimalist, sculptural and beautifully balanced Ribbon Rocking Chair is a stunning re-invention of the traditional rocking chair and an __inspired__ combination of craft values with sleek contemporary design&rdquo;.* 
 Janet Boston, Manchester Art Gallery
 
-*“knowing what is possible yet pushing the boundaries of production can result in a simplicity that is greater than the sum of its parts - this award winning chair is __wooden poetry__”*
+*&ldquo;knowing what is possible yet pushing the boundaries of production can result in a simplicity that is greater than the sum of its parts - this award winning chair is __wooden poetry__&rdquo;* 
 Allen Boothroyd, Meridian Audio
 
-*“It is a revolution in rocking chairs - one seamless ribbon of timber from which the seat is slung. How will anyone ever do better? Rocking chair __design come of age!__”*
+*&ldquo;It is a revolution in rocking chairs - one seamless ribbon of timber from which the seat is slung. How will anyone ever do better? Rocking chair __design come of age!__&rdquo;* 
 Jon Snow
 
 ---
