@@ -21,7 +21,7 @@ date: 2011-01-01
 awards:
   - The Furniture Makers&rsquo; Company, Design Guild Mark no. 101
   - the 2011 Wood Awards - furniture award
-summary: The chair extends the Windsor furniture making tradition. It is made by steam bending a continuous band which forms the rocker and the chair’s frame. The turned sticks radiate from a carved seat out to the band making a strong, comfortable chair that remains very light.
+summary: A contemporary wooden rocking chair with its roots firmly planted in the traditions of Windsor chair making.
 storeitem: true
 storeid: WR11
 storedescription: A modern wooden rocking chair using traditional Windsor chairmaking techniques.
