@@ -18,7 +18,7 @@ awards:
 collections: A Ribbon Rocking Chair was purchased by <a href="//manchesterartgallery.org/" alt="Manchester Museum of Modern Art">Manchester Museum of Modern Art</a> for their permanent collection with assistance from the Art Fund.
 madetoorder: true
 order: 2
-stock: 2
+stock: 0
 stockdate:
 storeitem: true
 storeid: RR06
