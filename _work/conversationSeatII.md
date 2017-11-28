@@ -24,7 +24,7 @@ otherimages:
   - //images.quru.com/image?src=/kwf/KWFConversationSeatIISat.jpg
   - //images.quru.com/image?src=/kwf/KWFConversationSeatII.jpg
   - //images.quru.com/image?src=/kwf/Conversation+seat.jpg
-summary: A one-off, ruppled ash seat for two people in &lsquo;conversation&rsquo;.
+summary: A one-off, rippled ash seat for two people in &lsquo;conversation&rsquo;.
 houzzcategory: Indoor Benches
 
 ---

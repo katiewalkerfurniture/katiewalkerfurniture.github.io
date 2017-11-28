@@ -15,9 +15,10 @@ awards:
   - 2006 Wood Awards - furniture and innovation
   - 2006 Wesley-Barrell Craft Award
   - 2007 Grand Designs - best furniture and product of the year
-collections: A Ribbon Rocking Chair was purchased by <a href="//manchesterartgallery.org/" alt="Manchester Museum of Modern Art">Manchester Museum of Modern Art</a> for their permanent collection.
+collections: A Ribbon Rocking Chair was purchased by <a href="//manchesterartgallery.org/" alt="Manchester Museum of Modern Art">Manchester Museum of Modern Art</a> for their permanent collection with assistance from the Art Fund.
+madetoorder: true
 order: 2
-stock: 2
+stock: 0
 stockdate:
 storeitem: true
 storeid: RR06
@@ -26,8 +27,8 @@ storegoogleproductcategory: Furniture > Chairs > Rocking Chairs
 storeproducttype: Interiors > Chairs > Rocking Chairs > Ribbon
 storeimage: https://images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
 storecondition: new
-storeprice: 
-  - type: 
+storeprice:
+  - type:
     cost: 6,740
 mpn: RR06000KWF
 shippingcost: 35
@@ -35,7 +36,7 @@ shippingweight: 17
 colour: Ash/Tan
 material: Ash/Stainless Steel/Leather
 date: 2006-01-01
-summary: A single continuous band of laminated rippled ash with saddle leather seat on a stainless steel frame. \n\nThe ultimate rocking chair...
+summary: A contemporary rocking chair with wood ‘Ribbon’ frame, saddle leather seat & stainless steel connecters.
 thumbnail:   //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_side_on_white.jpg&width=175&height=175&fill=%23ffffff&left=0.07428571428571429&top=0.06285714285714286&right=0.9142857142857143&bottom=0.9257142857142857&format=jpg&strip=1
 headimage: //images.quru.com/image?src=kwf/KWFRibbonRocker/KWF%20Walnut%20Ribbon%20front%2034.jpeg&right=0.87813&left=0.10625
 otherimages:
@@ -47,22 +48,22 @@ houzzcategory: Rocking Chairs
 ---
 _790mm wide x 1130mm deep x 860mm high (31&rdquo; x 44&frac12;&rdquo; x 33&frac34;&rdquo;)_
 
-A single continuous band of laminated rippled ash with saddle leather seat on a stainless steel frame.
+The Ribbon rocking chair is a contemporary rocking chair with a wood ‘Ribbon’ forming the backrest, arms and runners, a saddle leather seat and a stainless steel connecting support framework.
 
-Available in either lacquered rippled ash or walnut with a natural leather seat.
+Shown in walnut but also available in rippled ash, both with a natural leather seat.
 
 ---
 
 *&ldquo;The Ribbon Rocking Chair is actually extraordinary and very memorable - __a classic of our time__&rdquo;*
 Kevin McCloud, Grand Designs
 
-*&ldquo;It is so difficult to create a truly original chair: the minimalist, sculptural and beautifully balanced Ribbon Rocking Chair is a stunning re-invention of the traditional rocking chair and an __inspired__ combination of craft values with sleek contemporary design&rdquo;.* 
+*&ldquo;It is so difficult to create a truly original chair: the minimalist, sculptural and beautifully balanced Ribbon Rocking Chair is a stunning re-invention of the traditional rocking chair and an __inspired__ combination of craft values with sleek contemporary design&rdquo;.*
 Janet Boston, Manchester Art Gallery
 
-*&ldquo;knowing what is possible yet pushing the boundaries of production can result in a simplicity that is greater than the sum of its parts - this award winning chair is __wooden poetry__&rdquo;* 
+*&ldquo;knowing what is possible yet pushing the boundaries of production can result in a simplicity that is greater than the sum of its parts - this award winning chair is __wooden poetry__&rdquo;*
 Allen Boothroyd, Meridian Audio
 
-*&ldquo;It is a revolution in rocking chairs - one seamless ribbon of timber from which the seat is slung. How will anyone ever do better? Rocking chair __design come of age!__&rdquo;* 
+*&ldquo;It is a revolution in rocking chairs - one seamless ribbon of timber from which the seat is slung. How will anyone ever do better? Rocking chair __design come of age!__&rdquo;*
 Jon Snow
 
 ---

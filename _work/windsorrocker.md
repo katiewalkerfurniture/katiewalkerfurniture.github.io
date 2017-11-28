@@ -21,7 +21,7 @@ date: 2011-01-01
 awards:
   - The Furniture Makers&rsquo; Company, Design Guild Mark no. 101
   - the 2011 Wood Awards - furniture award
-summary: The chair extends the Windsor furniture making tradition. It is made by steam bending a continuous band which forms the rocker and the chair’s frame. The turned sticks radiate from a carved seat out to the band making a strong, comfortable chair that remains very light.
+summary: A contemporary wooden rocking chair with its roots firmly planted in the traditions of Windsor chair making.
 storeitem: true
 storeid: WR11
 storedescription: A modern wooden rocking chair using traditional Windsor chairmaking techniques.
@@ -29,7 +29,7 @@ storegoogleproductcategory: Furniture > Chairs > Rocking Chairs
 storeproducttype: Interiors > Chairs > Rocking Chairs > Windsor
 storeimage: https://images.quru.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor%20Rocker%20quarter%20view.jpg
 storecondition: new
-storeprice: 
+storeprice:
   - type: Ash
     cost: 2,235
   - type: Oak
@@ -53,14 +53,13 @@ otherimages:
   - //images.quru.com/image?src=kwf/KWFWindsorRocker/Black%20Windsor%20rocker.jpg&bottom=0.95&top=0.07187&icc=srgb&strip=0
   - //images.quru.com/image?src=kwf/KWFWindsorRocker/Windsor%20rocker%20and%20stool%20in%20Heals.JPG&angle=90&top=0.30312&left=0.07083
   - //images.quru.com/image?src=kwf/WCFMGuildMark.jpg
-houzzcategory: Rocking Chairs 
+houzzcategory: Rocking Chairs
 
 ---
 _720mm wide x 1020mm deep x 810mm high (28&frac14;” x 40&frac14;” x 32”)_
 
-A wooden rocking chair available in ash with a white oil finish, walnut with a clear oil finish or oak with either a white or a clear oil finish.
-Bespoke finishing options are available on request.
+The Windsor rocker is a contemporary wooden rocking chair with its roots firmly planted in the traditions of Windsor chair making. The band which forms the rocker and the chair’s frame stretches the limitations of the process of steam bending whilst giving the chair its unique form. As collectible as it is comfortable, it is beautifully hand crafted in the UK from locally sourced sustainable wood and finished with a natural oil.
 
-The chair extends the Windsor furniture making tradition. It is made by steam bending a continuous band which forms the rocker and the chair's frame. The turned sticks radiate from a carved seat out to the band making a strong, comfortable chair that remains very light.
+Bespoke finishing options are available on request.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zOpeFEcrW_U" frameborder="0" allowfullscreen style="padding-top:2rem; padding-bottom:2rem;"></iframe>
