@@ -47,8 +47,7 @@ layout: default
 
     {{ content }}
 
-  {% if page.awards %}<div class="awards">
-    This piece was awarded{% for gong in page.awards %}{% if forloop.first %} {% elsif forloop.last %} and {% else %}, {% endif %}{{ gong }}{% endfor %}.
+  {% if page.awards %}<div class="awards">    This piece was awarded{% for gong in page.awards %}{% if forloop.first %} {% elsif forloop.last %} and {% else %}, {% endif %}{{ gong }}{% endfor %}.
   </div>{% endif %}
 
 
