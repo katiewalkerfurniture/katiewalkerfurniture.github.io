@@ -15,7 +15,7 @@ Created: 08Aug2014
     font-family: 'socicon';
     src: url('/public/font/socicon-webfont.eot');
     src: url('/public/font/socicon-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/public/font/socicon-webfont.woff') format('woff'),
+         /*url('/public/font/socicon-webfont.woff') format('woff'),*/
          url('/public/font/socicon-webfont.ttf') format('truetype'),
          url('/public/font/socicon-webfont.svg#sociconregular') format('svg');
     font-weight: normal;
