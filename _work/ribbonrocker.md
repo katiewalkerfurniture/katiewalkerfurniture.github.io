@@ -28,8 +28,8 @@ storeproducttype: Interiors > Chairs > Rocking Chairs > Ribbon
 storeimage: https://images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
 storecondition: new
 storeprice:
-  - type:
-    cost: 
+#  - type:
+#    cost: POA
 mpn: RR06000KWF
 shippingcost: 35
 shippingweight: 17
