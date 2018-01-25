@@ -29,7 +29,7 @@ storeimage: https://images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_fron
 storecondition: new
 storeprice:
   - type:
-    cost: 6,740
+    cost: 
 mpn: RR06000KWF
 shippingcost: 35
 shippingweight: 17
