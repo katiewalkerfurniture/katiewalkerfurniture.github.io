@@ -44,15 +44,11 @@
 
   <!-- JS -->
   <script src="/public/js/kwf.js" type="text/javascript"></script>
-  <!--[if lte IE 8]>
-    <script src="//images.quru.com/static/js/excanvas_yc.js" type="text/javascript"></script>
-  <![endif]-->
-  <script type="text/javascript" src="//images.quru.com/static/js/mootools_yc.js"></script>
-  <script src="//images.quru.com/static/js/canvas_view_yc.js" type="text/javascript"></script>
-  <script src="//images.quru.com/static/js/gallery_view_yc.js" type="text/javascript"></script>
+  <script src="https://images.quru.com/static/js/canvas_view.min.js" type="text/javascript"></script>
+  <script src="https://images.quru.com/static/js/gallery_view.min.js" type="text/javascript"></script>
 
   <script type="text/javascript">
-    window.addEvent('domready', function() {
+    QU.whenReady(function() {
 
       // Zoomer/gallery options and events
       var viewer_opts = { showcontrols: 'yes' };
