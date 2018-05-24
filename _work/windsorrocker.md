@@ -7,7 +7,6 @@ tags:
 type:
   - buy
 retailer:
-  - heals
   - caa
   - burford garden company
 menus:

@@ -82,6 +82,8 @@ layout: default
 <p> The {{ page.title }} was a site specific commission. If you would like more information on this commission or to enquire about the commissioning process then please <a href="#!" id="show_contact">click here</a>.
 {% elsif page.type contains "buy" %}
 <p> The {{ page.title }} is made to order. If you would like more information or to place an order then please  <a href="#!" id="show_contact">click here</a>{% if page.retailer %} or contact one of our stockists{% endif %}.
+{% elsif page.type contains "speculative" %}
+<p> To enquire about this piece please  <a href="#!" id="show_contact">click here</a>{% if page.retailer | size == 1 %} or contact {{ page.retailer[0] }}{% elsif page.retailer | size > 1 %} or contact one of our stockists{% endif %}.
 {% elsif page.type contains "retailer" %}
 <p> The {{ page.title }} is available from {{ page.retailer[0]|capitalize }}. If you would like more information about this product then please  <a href="#!" id="show_contact">click here</a>{% if page.retailer %}{% endif %}.{% endif %}
 <div id="contact_form" class="reserve">

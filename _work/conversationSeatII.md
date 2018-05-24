@@ -4,9 +4,9 @@ title: Conversation seat II
 tags:
   - work
 type:
-  - commission
   - speculative
-retailer: vsop
+retailer:
+  - VSOP
 exhibitions: First shown at 'Collect' at the Saatchi Gallery, London, 2010.
 collections:
 order: 200
@@ -32,6 +32,6 @@ _1350mm wide/long x 430mm deep x 1350mm high, (53&rdquo; x 17&rdquo; x 53&rdquo;
 
 A one-off in rippled ash with a white wax oil finish.
 
-A seat designed for two people in &lsquo;conversation&rsquo;. It is a play on the dialogue between two separate chairs when bought together - symbolised by the two high-backed ends set at opposing angles that are linked by one continuous seating plane. Perfectly sited in a bay window location, both looking out and in.
+A seat designed for two people in &lsquo;conversation&rsquo;. It is a play on the dialogue between two separate chairs when bought together - symbolised by the two high-backed ends set at opposing angles, both looking out and in, that are linked by one continuous seating plane.
 
 This piece is the evolution of a design resulting from a &lsquo;Creative award&rsquo; given by South East Arts. It is now currently on show with and available from [VSOP](https://www.vsopprojects.com/ "VSOP, New York") in Greenport, New York.

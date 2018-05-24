@@ -12,7 +12,7 @@ order: 190
 menus:
   - work
   - toBuy
-stock: 1
+stock:
 date: 1998-01-01
 social: Curved back sofa
 awards:
