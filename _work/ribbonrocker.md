@@ -36,7 +36,7 @@ shippingweight: 17
 colour: Ash/Tan
 material: Ash/Stainless Steel/Leather
 date: 2006-01-01
-summary: A contemporary rocking chair with wood ‘Ribbon’ frame, saddle leather seat & stainless steel connecters.
+summary: A contemporary rocking chair with wood ‘Ribbon’ frame, saddle leather seat & stainless steel connectors.
 thumbnail:   //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_side_on_white.jpg&width=175&height=175&fill=%23ffffff&left=0.07428571428571429&top=0.06285714285714286&right=0.9142857142857143&bottom=0.9257142857142857&format=jpg&strip=1
 headimage: //images.quru.com/image?src=kwf/KWFRibbonRocker/KWF%20Walnut%20Ribbon%20front%2034.jpeg&right=0.87813&left=0.10625
 otherimages:
@@ -51,6 +51,8 @@ _790mm wide x 1130mm deep x 860mm high (31&rdquo; x 44&frac12;&rdquo; x 33&frac3
 The Ribbon rocking chair is a contemporary rocking chair with a wood ‘Ribbon’ forming the backrest, arms and runners, a saddle leather seat and a stainless steel connecting support framework.
 
 Shown in walnut but also available in rippled ash, both with a natural leather seat.
+
+<img class="post-title gallery_image" alt="Ribbon Rocking Chair" src="//images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=342" srcset="//images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=342 360w, //images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=770 800w,  //images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=1440 2x">
 
 ---
 

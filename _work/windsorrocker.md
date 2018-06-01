@@ -62,3 +62,5 @@ The Windsor rocker is a contemporary wooden rocking chair with its roots firmly 
 Bespoke finishing options are available on request.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zOpeFEcrW_U" frameborder="0" allowfullscreen style="padding-top:2rem; padding-bottom:2rem;"></iframe>
+
+<img class="post-title gallery_image" alt="Ribbon Rocking Chair" src="//images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00002.png&width=342" srcset="//images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00002.png&width=342 360w, //images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00002.png&width=770 800w,  //images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00002.png&width=1440 2x">
