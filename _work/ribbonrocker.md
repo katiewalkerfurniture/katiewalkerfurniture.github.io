@@ -38,11 +38,11 @@ material: Ash/Stainless Steel/Leather
 date: 2006-01-01
 summary: A contemporary rocking chair with wood ‘Ribbon’ frame, saddle leather seat & stainless steel connectors.
 thumbnail:   //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_side_on_white.jpg&width=175&height=175&fill=%23ffffff&left=0.07428571428571429&top=0.06285714285714286&right=0.9142857142857143&bottom=0.9257142857142857&format=jpg&strip=1
-headimage: //images.quru.com/image?src=kwf/KWFRibbonRocker/KWF%20Walnut%20Ribbon%20front%2034.jpeg&right=0.87813&left=0.10625
+headimage: //images.quru.com/image?src=kwf/KWFRibbonRockingChair/KWF%20Walnut%20Ribbon%20front%2034.jpeg&right=0.87813&left=0.10625
 otherimages:
-  - //images.quru.com/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20back.tif&left=0.03&top=0.133&right=0.97&bottom=0.75&format=jpg&strip=1
-  - //images.quru.com/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20front%20on.tif&top=0.16&bottom=0.82&format=jpg&strip=1
-  -  //images.quru.com:/image?src=/kwf/KWFRibbonRocker/KWF%20Ribbon%20rocking%20chair%20side.tif&left=0.1&right=0.9&fill=auto&format=jpg&strip=1
+  - //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20back.tif&left=0.03&top=0.133&right=0.97&bottom=0.75&format=jpg&strip=1
+  - //images.quru.com/image?src=/kwf/KKWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20front%20on.tif&top=0.16&bottom=0.82&format=jpg&strip=1
+  -  //images.quru.com:/image?src=/kwf/KKWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20side.tif&left=0.1&right=0.9&fill=auto&format=jpg&strip=1
   - //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
 houzzcategory: Rocking Chairs
 ---
