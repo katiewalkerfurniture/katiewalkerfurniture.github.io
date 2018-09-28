@@ -6,6 +6,7 @@ tags:
 type:
   - buy
 retailer:
+  - newartcenter
 menus:
   - work
   - toBuy

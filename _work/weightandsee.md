@@ -8,7 +8,7 @@ tags:
 type:
   - buy
 retailer:
-  - caa
+  - new art centre
 menus:
   - work
   - toBuy
