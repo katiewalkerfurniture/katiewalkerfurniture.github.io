@@ -7,6 +7,7 @@ tags:
 type:
   - buy
 retailer:
+  - new art centre
 menus:
   - work
   - toBuy
@@ -18,7 +19,7 @@ thumbnail: //images.quru.com/image?src=kwf/KWFGeometricMirrors/KWFSquareMirrorWh
 headimage: //images.quru.com/image?src=kwf/KWFGeometricMirrors/KWFSquareMirrorWhite.jpg&left=0.12188&right=0.875&bottom=0.86563&top=0.1125
 storeprice: 
   - type: Oak or fumed oak
-    cost: 370
+    cost: 624
 houzzcategory: Wall Mirrors
 
 ---

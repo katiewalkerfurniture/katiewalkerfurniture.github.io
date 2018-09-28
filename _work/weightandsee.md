@@ -32,10 +32,6 @@ storeproducttype: Interiors > Mirrors > Cheval Mirrors > Weight and see
 storeimage: //images.quru.com/image?src=/kwf/KWFWeightAndSee2012White.jpg&height=350&left=0.2267&top=0.0333&right=0.853&bottom=0.967&strip=1
 storecondition: new
 storeprice:
-  - type: Ash
-    cost: 795
-  - type: Walnut
-    cost: 895
 mpn: W&S02000SF17
 shippingcost: 35
 shippingweight: 10

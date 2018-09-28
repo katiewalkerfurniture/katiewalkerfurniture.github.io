@@ -17,7 +17,7 @@ awards:
   - 2006 Wesley-Barrell Craft Award
   - 2007 Grand Designs - best furniture and product of the year
 collections: A Ribbon Rocking Chair was purchased by <a href="//manchesterartgallery.org/" alt="Manchester Museum of Modern Art">Manchester Museum of Modern Art</a> for their permanent collection with assistance from the Art Fund.
-madetoorder: true
+madetoorder: false
 order: 2
 stock: 0
 stockdate:
@@ -29,8 +29,9 @@ storeproducttype: Interiors > Chairs > Rocking Chairs > Ribbon
 storeimage: https://images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
 storecondition: new
 storeprice:
-#  - type:
-#    cost: POA
+storeprice: 
+  - type: Ash or walnut
+    cost: 9600
 mpn: RR06000KWF
 shippingcost: 35
 shippingweight: 17

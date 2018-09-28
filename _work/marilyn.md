@@ -6,6 +6,7 @@ tags:
 type:
   - speculative
 retailer:
+  - new art centre
 exhibitions:
 collections:
 order: 180

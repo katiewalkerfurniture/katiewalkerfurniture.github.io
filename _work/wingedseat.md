@@ -6,7 +6,7 @@ tags:
 type:
   - buy
 retailer:
-  - newartcenter
+  - new art centre
 menus:
   - work
   - toBuy
