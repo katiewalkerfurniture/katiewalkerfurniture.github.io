@@ -5,11 +5,11 @@ menus:
   - news
 title-style: 
 headimage: 
-summary: Katie's latest news
+summary: Katies latest news
 ---
 
 <div class="news" markdown="1">
-  {% assign lastarticle = site.news | size | minus:2 %}
+  {% assign lastarticle = site.news | size %}{% assign lastarticle = lastarticle | minus:2 %}
   {% for post in site.news | offset:lastarticle limit:1 %}
   {% capture currenttitle%}{{ post.title }}{% endcapture %}
   {% include news.html %}

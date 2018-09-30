@@ -19,15 +19,15 @@ layout: default
     </span>
     <meta itemprop="brand" content="Katie Walker Furniture">
     <meta itemprop="mpn" content="{{ page.mpn }}">
-    <meta itemprop="colour" content="{{ page.colour |default(natural) }}">
-    <meta itemprop="material" content="{{ page.material|default(wood) }}">
-    <meta itemprop="shipping" content="UK::Standard:{{ page.shippingcost|default(35) }}.00 GBP">
+    <meta itemprop="colour" content="{{ page.colour | default: natural }}">
+    <meta itemprop="material" content="{{ page.material | default: wood }}">
+    <meta itemprop="shipping" content="UK::Standard:{{ page.shippingcost | default: 35 }}.00 GBP">
     <meta itemprop="shipping weight" content="{{ page.shippingweight }} KG">
   </span>{% endif %}
 
   <div class="post">
     <img class="post-title gallery_image" alt="{{ page.title }}" src="{{ page.headimage }}&width=342" srcset="{{ page.headimage }}&width=342 360w, {{ page.headimage }}&width=770 800w,  {{ page.headimage }}&width=1440 2x">
-<!--    {% if page.houzztag %}<div class="Houzztag"">{{ page.houzztag | default() }}</div>{% endif %} -->
+<!--    {% if page.houzztag %}<div class="Houzztag"">{{ page.houzztag }}</div>{% endif %} -->
 <!--    <div class="houzz">
         <a class="houzz-share-button"
             data-url="{{ page.url }}"
@@ -43,7 +43,7 @@ layout: default
 
 
   <h1 class="post-title">{{ page.title }}</h1>
-    {% if page.storeprice|length > 0 %}<div class="price">{% for m in page.storeprice %}<br/>{% if m.type %}{{ m.type }} - {% endif %}£{% if m.cost > 999 %}{{ m.cost | divided_by: 1000 }},{{ m.cost| modulo: 1000 }}{% else %}{{ m.cost }}{% endif %}{% endfor %} including VAT.{% if page.madetoorder %} Made to order.{% endif %}</div>{% endif %}
+    {% if page.storeprice %}<div class="price">{% for m in page.storeprice %}<br/>{% if m.type %}{{ m.type }} - {% endif %}£{% if m.cost > 999 %}{{ m.cost | divided_by: 1000 }},{{ m.cost| modulo: 1000 }}{% else %}{{ m.cost }}{% endif %}{% endfor %} including VAT.{% if page.madetoorder %} Made to order.{% endif %}</div>{% endif %}
 
     {{ content }}
 
@@ -83,7 +83,7 @@ layout: default
 {% elsif page.type contains "buy" %}
 <p> The {{ page.title }} is made to order. If you would like more information or to place an order then please  <a href="#!" id="show_contact">click here</a>{% if page.retailer %} or contact one of our stockists{% endif %}.
 {% elsif page.type contains "speculative" %}
-<p> To enquire about this piece please  <a href="#!" id="show_contact">click here</a>{% if page.retailer | size == 1 %} or contact {{ page.retailer[0] }}{% elsif page.retailer | size > 1 %} or contact one of our stockists{% endif %}.
+<p> To enquire about this piece please  <a href="#!" id="show_contact">click here</a>{% if page.retailer.length == 1 %} or contact {{ page.retailer[0] }}{% elsif page.retailer.length > 1 %} or contact one of our stockists{% endif %}.
 {% elsif page.type contains "retailer" %}
 <p> The {{ page.title }} is available from {{ page.retailer[0]|capitalize }}. If you would like more information about this product then please  <a href="#!" id="show_contact">click here</a>{% if page.retailer %}{% endif %}.{% endif %}
 <div id="contact_form" class="reserve">
