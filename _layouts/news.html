@@ -11,7 +11,7 @@ layout: default
   <h3>Earlier news</h3>
   <div class="related">
       <div class="grid clearfix">
-          {% for post in site.news | sort: "date" limit:8 %}{% if post.title != "News" %}{% if post.title !=  currenttitle %}
+          {% assign newslist = site.news | sort: "date" %}{% assign newslist = newslist | reverse %}{% for post in newslist %}{% if post.title != "News" %}{% if post.title !=  currenttitle %}
           {% include cell.html %}
           {% endif %}{% endif %}{% endfor %}
       </div>
