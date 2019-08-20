@@ -7,7 +7,6 @@ tags:
 type:
   - buy
 retailer:
-  - heals
 menus:
   - work
   - tobuy

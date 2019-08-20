@@ -7,6 +7,7 @@ tags:
 type:
   - buy
 retailer:
+  - new art centre
 menus:
   - work
   - toBuy
@@ -16,7 +17,7 @@ awards:
   - 2006 Wesley-Barrell Craft Award
   - 2007 Grand Designs - best furniture and product of the year
 collections: A Ribbon Rocking Chair was purchased by <a href="//manchesterartgallery.org/" alt="Manchester Museum of Modern Art">Manchester Museum of Modern Art</a> for their permanent collection with assistance from the Art Fund.
-madetoorder: true
+madetoorder: false
 order: 2
 stock: 0
 stockdate:
@@ -28,8 +29,9 @@ storeproducttype: Interiors > Chairs > Rocking Chairs > Ribbon
 storeimage: https://images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
 storecondition: new
 storeprice:
-#  - type:
-#    cost: POA
+storeprice:
+  - type: Ash or walnut
+    cost: 9600
 mpn: RR06000KWF
 shippingcost: 35
 shippingweight: 17
@@ -38,12 +40,12 @@ material: Ash/Stainless Steel/Leather
 date: 2006-01-01
 summary: A contemporary rocking chair with wood ‘Ribbon’ frame, saddle leather seat & stainless steel connectors.
 thumbnail:   //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_side_on_white.jpg&width=175&height=175&fill=%23ffffff&left=0.07428571428571429&top=0.06285714285714286&right=0.9142857142857143&bottom=0.9257142857142857&format=jpg&strip=1
-headimage: //images.quru.com/image?src=kwf/KWFRibbonRockingChair/KWF%20Walnut%20Ribbon%20front%2034.jpeg&right=0.87813&left=0.10625
+headimage: //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF+Walnut+Ribbon+front+34.jpeg&right=0.87813&left=0.10625
 otherimages:
-  - //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20back.tif&left=0.03&top=0.133&right=0.97&bottom=0.75&format=jpg&strip=1
-  - //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20front%20on.tif&top=0.16&bottom=0.82&format=jpg&strip=1
-  -  //images.quru.com:/image?src=/kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20side.tif&left=0.1&right=0.9&fill=auto&format=jpg&strip=1
-  - //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&fill=%23ffffff&left=0.22375&top=0.1&right=0.794&bottom=0.957&format=jpg&strip=1
+  - //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20back.tif&bottom=0.77188&top=0.10313&fill=auto&format=jpg&strip=1
+  - //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20front%20on.tif&bottom=0.825&top=0.15625&fill=auto&format=jpg&strip=1
+  -  //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20side.tif&right=0.90625&left=0.1&fill=auto&format=jpg&strip=1
+  - //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&right=0.84688&left=0.17813&format=jpg&strip=1
 houzzcategory: Rocking Chairs
 ---
 _790mm wide x 1130mm deep x 860mm high (31&rdquo; x 44&frac12;&rdquo; x 33&frac34;&rdquo;)_

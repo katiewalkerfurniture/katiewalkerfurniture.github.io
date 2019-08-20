@@ -19,9 +19,9 @@ thumbnail:  //images.quru.com/image?src=kwf/KWFGeometricMirrors/KWFRoundMirrorWh
 headimage: //images.quru.com/image?src=kwf/KWFGeometricMirrors/KWFRoundMirrorWhite.jpg&bottom=0.95313&left=0.03205&top=0.04063&right=0.96795
 storeprice: 
   - type: Oak or fumed oak
-    cost: 735
+    cost: 1320
   - type: Walnut
-    cost: 790
+    cost: 1320
 houzzcategory: Wall Mirrors
 ---
 _800mm diameter. (31&frac12;&rdquo;)_

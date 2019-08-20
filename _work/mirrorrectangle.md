@@ -18,9 +18,9 @@ summary: A rectangular wall hung mirror in quarter sawn oak with a solid silver 
 thumbnail:  //images.quru.com/image?src=kwf/KWFGeometricMirrors/KWFRectangularMirrorWhite.jpg&width=175&height=175&fill=%23ffffff
 headimage: //images.quru.com/image?src=kwf/KWFGeometricMirrors/KWFRectangularMirrorWhite.jpg&left=0.01&right=0.99
 stripimage: //images.quru.com/image?src=/kwf/KWFGeometricMirrors/KWFRectangularMirrorWhite.jpg&top=0.0625&bottom=0.92813&left=0.1&halign=R1&fill=auto
-storeprice: 
+storeprice:
   - type: Oak
-    cost: 395
+    cost: 660
 houzzcategory: Wall Mirrors
 ---
 _580mm x 800mm. (22&frac34;&rdquo; x 31&frac12;&rdquo;)_
