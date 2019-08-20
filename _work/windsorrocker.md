@@ -13,7 +13,7 @@ menus:
   - work
   - toBuy
 order: 20
-stock: 2
+stock: 3
 stockdate:
 price:
 date: 2011-01-01
