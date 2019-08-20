@@ -11,4 +11,4 @@ headimage: //images.quru.com/image?src=kwf/NewArtCentre.JPG
 
 The [New Art Centre](//sculpture.uk.com/artists/katie-walker) was founded in 1958. The original gallery was located in Sloane Street, London. In 1994 it was relocated to Roche Court in Wiltshire, a nineteenth-century house in parkland. The existing house and Orangery were built in 1804. Together with the grounds, Roche Court is now used as a sculpture park and educational centre where work is shown inside and out providing a survey of sculpture for the enjoyment of the public. The New Art Centre represents various artists' estates including Barbara Hepworth, Kenneth Armitage and Ian Stephenson. The gallery is the venue for a changing programme of exhibitions.
 
-New Art Centre respresent my sculptural work.
+New Art Centre represent my sculptural work and other pieces in their design house.

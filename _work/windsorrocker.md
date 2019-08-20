@@ -7,7 +7,6 @@ tags:
 type:
   - buy
 retailer:
-  - caa
   - burford garden company
 menus:
   - work
@@ -30,11 +29,11 @@ storeimage: https://images.quru.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor
 storecondition: new
 storeprice:
   - type: Ash
-    cost: 2,235
+    cost: 3,000
   - type: Oak
-    cost: 2,270
+    cost: 3,000
   - type: Walnut
-    cost: 2,295
+    cost: 3,000
 mpn: WR11000SF17
 shippingcost: 35
 shippingweight: 10

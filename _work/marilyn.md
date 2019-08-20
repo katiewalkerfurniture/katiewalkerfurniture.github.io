@@ -7,6 +7,7 @@ type:
   - speculative
 retailer:
   - new art centre
+  - VSOP
 exhibitions:
 collections:
 order: 180

@@ -3,7 +3,6 @@ layout: work
 title: Weight and See mirror
 tags:
   - work
-  - caa
   - kwf
 type:
   - buy
@@ -18,9 +17,9 @@ order: 10
 date: 2002-01-01
 variants:
   - material: ash
-    price: 720
+    price: 1290
   - material: walnut
-    price: 865
+    price: 1290
 stock: 3
 stockdate: January 2015
 social: Weight and see mirror
