@@ -3,11 +3,12 @@ layout: work
 title: Windsor rocker
 tags:
   - work
-  - caa
+  - VSOP
 type:
   - buy
 retailer:
   - burford garden company
+  - VSOP
 menus:
   - work
   - toBuy
@@ -29,11 +30,11 @@ storeimage: https://images.quru.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor
 storecondition: new
 storeprice:
   - type: Ash
-    cost: 3,000
+    cost: 3000
   - type: Oak
-    cost: 3,000
+    cost: 3000
   - type: Walnut
-    cost: 3,000
+    cost: 3000
 mpn: WR11000SF17
 shippingcost: 35
 shippingweight: 10
