@@ -13,7 +13,7 @@ menus:
 order: 120
 date: 2019-04-01
 summary: An intimate update of Gerrit Rietveld's Steltman chair.
-thumbnail: //images.quru.com/image?src=kwf/KWFWingedSeat.jpg&right=0.775&left=0.23125&bottom=0.88263&top=0.06573&width=175&height=175
+thumbnail: //images.quru.com/image?src=/kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeat34.jpg&bottom=0.86563&top=0.19688&width=175&height=175
 headimage: //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeat.jpg
 otherimages:
   - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatFront.jpg
