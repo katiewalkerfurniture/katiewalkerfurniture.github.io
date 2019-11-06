@@ -16,13 +16,13 @@ summary: An intimate update of Gerrit Rietveld's Steltman chair.
 thumbnail: //images.quru.com/image?src=/kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeat34.jpg&bottom=0.86563&top=0.19688&width=175&height=175
 headimage: //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeat.jpg
 otherimages:
-  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatFront.jpg
-  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatSide.jpg
-  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeat34.jpg
-  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatModelled.jpg
-  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatArmDetail.jpg
-  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatBackDetail.jpg
-  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatJointDetail.jpg
+  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatFront.jpg
+  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatSide.jpg
+  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeat34.jpg
+  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatModelled.jpg
+  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatArmDetail.jpg
+  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatBackDetail.jpg
+  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatJointDetail.jpg
   - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatAtNewArtCentre.jpg
 storeprice:
   - type: Oak
