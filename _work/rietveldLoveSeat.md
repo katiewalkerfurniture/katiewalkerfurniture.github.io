@@ -12,23 +12,24 @@ menus:
   - toBuy
 order: 120
 date: 2019-04-01
-summary: An intimate update Gerrit Rietveld's Steltman chair.
+summary: An intimate update of Gerrit Rietveld's Steltman chair.
 thumbnail: //images.quru.com/image?src=kwf/KWFWingedSeat.jpg&right=0.775&left=0.23125&bottom=0.88263&top=0.06573&width=175&height=175
-headimage: //images.quru.com/image?src=kwf/KWFWingedSeat.jpg
+headimage: //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeat.jpg
 otherimages:
-  - //images.quru.com/image?src=kwf/KWF_Winged_Seat_rear.JPG&width=175&height=175&right=0.83125&left=0.19063&top=0.03756
-  - //images.quru.com/image?src=kwf/retailers/architecturalplants/APScultpureGarden.jpg
-  - //images.quru.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPWide.jpg
-  - //images.quru.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPUnderTree.jpg
-  - //images.quru.com/image?src=kwf/retailers/architecturalplants/APFrontGarden.jpg
-  - //images.quru.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPtall.jpg
+  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatFront.jpg
+  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatSide.jpg
+  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeat34.jpg
+  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatModelled.jpg
+  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatArmDetail.jpg
+  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatBackDetail.jpg
+  - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatJointDetail.jpg
+  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatAtNewArtCentre.jpg
 storeprice:
   - type:
     cost: 5000
 houzzcategory: Garden Benches
 ---
-_2000mm wide x 100mm high. (79&rdquo; x 39&frac12;&rdquo;)_
 
-In oiled oak.
+The Rietveld Love seat was designed in response to seeing his Steltman chair at the Stedelijk Museum in Amsterdam. It is the centenary year of the Bauhaus which was set up in 1919 and so a timely celebration to that as well - Walter Gropius invited Rietveld to exhibit there in 1923!
 
-A limited edition of 10.
+The technical details of the Steltman chair are readily available on line but my Love Seat is actually 10% larger in all dimensions than the original. I have increased the width of the seat and linked the two ends so that they are self supporting and no longer need the addition of the rather awkward ‘stabiliser’ foot. The piece has also been adapted for outside use as well as inside, with the slatted seat and pegged joints.
