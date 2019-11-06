@@ -25,8 +25,10 @@ otherimages:
   - /images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatJointDetail.jpg
   - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatAtNewArtCentre.jpg
 storeprice:
-  - type:
+  - type: Oak
     cost: 5000
+colour: Oak/Tan
+material: Oak
 houzzcategory: Garden Benches
 ---
 
