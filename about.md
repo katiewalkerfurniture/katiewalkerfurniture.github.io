@@ -12,8 +12,8 @@ menus: about
 
 Since 1994, my designs have been recognised with many awards and pieces can be found in public galleries and private collections worldwide. My work ranges from the light, witty ‘Weight & see’ cheval mirror through commercial commissions to art based sculptural pieces such as the ‘Winged’ seat.
 
-Collaborations with other workshops has brought with it the opportunity to work with a number of retailers, designing pieces for their ranges. These clients include Benchmark furniture, Heals and John Lewis plc.
+Collaborations with other workshops has brought with it the opportunity to work with a number of retailers, designing pieces for their ranges. These clients include Gaze Burvill, Benchmark Furniture, Heals and John Lewis plc.
 
 I have an uncompromising commitment to quality, a rigorous approach to the process of design and I am passionate about keeping the industry alive.
 
-All pieces are hand made in the UK using only the finest quality materials.
+All pieces are hand made in the UK using only the finest quality materials sourced with care.
