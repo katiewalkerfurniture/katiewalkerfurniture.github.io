@@ -22,7 +22,7 @@ otherimages:
   - //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+11.jpg
   - //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+12.jpg
   - //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+14.jpg
-summary:  A 'lighter' collection designed for leading outdoor furniture makers Gaze Burvill
+summary:  A 'lighter' collection designed for outdoor furniture makers Gaze Burvill
 storeprice: 
 houzzcategory: Outdoor Dining Sets
 ---

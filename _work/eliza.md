@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Eliza chair
+title: Eliza rocking chair
 tags:
   - work
   - commission
@@ -17,7 +17,7 @@ thumbnail: //images.quru.com/image?src=kwf/ElizaRockingChair.jpg&right=0.95&bott
 headimage: //images.quru.com/image?src=kwf/ElizaRockingChair.jpg&strip=1
 otherimages:
 houzzcategory: Rocking Chairs
-summary: A simple small Windsor style rocking chair.
+summary: Designed for the 150th anniversary of John Lewis.
 ---
 _1385mm long x 550mm wide x 460mm high. (54&frac12;” x 21&frac12;” x 18”)_
 
