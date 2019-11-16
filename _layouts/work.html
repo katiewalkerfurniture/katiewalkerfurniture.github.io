@@ -43,7 +43,7 @@ layout: default
 
 
   <h1 class="post-title">{{ page.title }}</h1>
-    {% if page.storeprice %}<div class="price">{% for m in page.storeprice %}<br/>{% if m.type %}{{ m.type }} - {% endif %}£{% if m.cost > 999 %}{{ m.cost | divided_by: 1000 }},{{ assign remainder = m.cost | modulo: 1000 }}{% if remainder = 0 %}000{% else %}{{ remainder }}{% endif %}{% else %}{{ m.cost }}{% endif %}{% endfor %} including VAT.{% if page.madetoorder %} Made to order.{% endif %}</div>{% endif %}
+    {% if page.storeprice %}<div class="price">{% for m in page.storeprice %}<br/>{% if m.type %}{{ m.type }} - {% endif %}£{% if m.cost > 999 %}{{ m.cost | divided_by: 1000 }},{% assign remainder = m.cost | modulo: 1000 %}{% if remainder == 0 %}000{% else %}{{ remainder }}{% endif %}{% else %}{{ m.cost }}{% endif %}{% endfor %} including VAT.{% if page.madetoorder %} Made to order.{% endif %}</div>{% endif %}
 
     {{ content }}
 
