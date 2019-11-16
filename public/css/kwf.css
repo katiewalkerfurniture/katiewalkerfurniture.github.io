@@ -695,6 +695,12 @@ a#show_nav {
 		display:  none;
 	}
 
+    img.right {
+        float: none;
+        display: block;
+        margin: 1rem 0 1rem 1.5rem;
+    }
+
 
 	.footer {
 		width: 93%;
