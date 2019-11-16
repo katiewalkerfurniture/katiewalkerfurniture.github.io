@@ -6,9 +6,8 @@ tags:
   - commission
 type:
   - retailer
-  - buy
 retailer:
-  - gaze burvill
+  - Gaze Burvill
 menus:
   - work
   - forRetailers

@@ -7,7 +7,6 @@ tags:
 type:
   - retailer
 retailer:
-  - sitting firm
 menus:
   - work
   - forRetailers

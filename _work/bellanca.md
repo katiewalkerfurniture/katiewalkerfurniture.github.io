@@ -6,8 +6,6 @@ tags:
   - retailer
 type:
   - retailer
-retailer:
-  - benchmark
 menus:
   - work
   - forRetailers

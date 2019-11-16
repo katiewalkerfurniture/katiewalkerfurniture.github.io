@@ -83,9 +83,9 @@ layout: default
 {% elsif page.type contains "buy" %}
 <p> The {{ page.title }} is made to order. If you would like more information or to place an order then please  <a href="#!" id="show_contact">click here</a>{% if page.retailer %} or contact one of our stockists{% endif %}.
 {% elsif page.type contains "speculative" %}
-<p> To enquire about this piece please  <a href="#!" id="show_contact">click here</a>{% if page.retailer.length == 1 %} or contact {{ page.retailer[0] }}{% elsif page.retailer.length > 1 %} or contact one of our stockists{% endif %}.
-{% elsif page.type contains "retailer" %}
-<p> The {{ page.title }} is available from {{ page.retailer[0]|capitalize }}. If you would like more information about this product then please  <a href="#!" id="show_contact">click here</a>{% if page.retailer %}{% endif %}.{% endif %}
+    <p> To enquire about this piece please  <a href="#!" id="show_contact">click here</a>{% if page.retailer.length == 1 %} or contact {{ page.retailer[0] }}{% elsif page.retailer.length > 1 %} or contact one of our stockists{% endif %}.
+        {% elsif page.type contains "retailer" and page.retailer[0] %}
+        <p>If you would like more information about this product then please  <a href="#!" id="show_contact">click here</a>. Alternatively, contact  {% assign words = page.retailer[0] | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word |capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}direct{% if page.retailer %}{% endif %}.{% endif %}
 <div id="contact_form" class="reserve">
 {% include contact.html %}
 
@@ -96,7 +96,7 @@ layout: default
 {% if page.retailer %}
 {% if page.type contains "retailer" %}<h2>Available from</h2>{% else %}<h2>Galleries</h2>{% endif %}
   {% assign gallery_count = 0 %}{% for vendor in page.retailer %}{% capture lvendor %}{{ vendor | downcase }}{% endcapture %}{% for post in site.retailers %}{% capture lretailer %}{{ post.title | downcase }}{% endcapture %}{% if lretailer == lvendor %}{% assign gallery_count = gallery_count | plus: 1 %}{% endif %}{% endfor %}{% endfor %}
-    <p>The {{ page.title }} is currently being shown with the following {% if gallery_count > 1 %}galleries{% else %}gallery{% endif %}.</p>
+<!--    <p>The {{ page.title }} is currently being shown with the following {% if gallery_count > 1 %}galleries{% else %}gallery{% endif %}.</p>-->
     <div class="grid clearfix" id="stockists">
   {% for vendor in page.retailer %}{% capture lvendor %}{{ vendor | downcase }}{% endcapture %}{% for post in site.retailers %}{% capture lretailer %}{{ post.title | downcase }}{% endcapture %}{% if lretailer == lvendor %}{% include cell.html %}{% endif %}{% endfor %}{% endfor %}
 </div>
