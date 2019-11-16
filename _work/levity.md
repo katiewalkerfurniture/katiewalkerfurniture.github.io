@@ -7,7 +7,7 @@ tags:
 type:
   - retailer
 retailer:
-  - Gaze Burvill
+  - gaze burvill
 menus:
   - work
   - forRetailers
