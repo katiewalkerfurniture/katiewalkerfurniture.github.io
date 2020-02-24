@@ -43,8 +43,7 @@ otherimages:
   - //images.quru.com/image?src=kwf/KWFWeightAndSeeWalnut2013White.jpg&fill=auto&strip=1
   - //images.quru.com/image?src=kwf/WeightAndSeeMirror/KWFWeightAndSeeMirrorThreeAshBlueRed.jpg&fill=auto&strip=1
   - //images.quru.com/image?src=kwf/WeightAndSeeMirror/KWFWeightAndSeeMirrorBackAndFrontTwiceBueAndRed.jpg&fill=auto&strip=1
-  - //images.quru.com/image?src=kwf/WeightAndSeeMirror/KWFWeightAndSeeMirrorBlueStripe.jpg&fill=auto&strip=1
-  - //images.quru.com/image?src=kwf/WeightAndSeeMirror/KWFWeightAndSeeRed.jpg&fill=auto&strip=1
+  - //images.quru.com/image?src=kwf/WeightAndSeeMirror/Weight%26See350/KWF%20Weight%20%26%20see%202019%20walnut%20front%2034.jpg&fill=auto&strip=1
 houzzcategory: Freestanding Mirrors
 ---
 *330mm wide x 590mm deep x 1430mm high*
