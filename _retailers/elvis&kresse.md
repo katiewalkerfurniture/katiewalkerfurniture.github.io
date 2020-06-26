@@ -1,7 +1,7 @@
 ---
 layout: retailers
 title: Elvis & Kresse
-summary: Tonge Mill, Church Road<br/>Tonge<br/>ME9 9AP<br/><br/>+44 1795 484 235
+summary: Tonge Mill<br/>Church Road<br/>Tonge<br/>ME9 9AP<br/><br/>+44 1795 484 235
 tags:
   - retailer
 thumbnail: //images.quru.com/image?src=kwf/retailers/elvis%26kresse.jpg&width=150&height=150&fill=none
