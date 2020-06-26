@@ -1,7 +1,7 @@
 ---
 layout: retailers
 title: Elvis & Kresse
-summary: East Winterslow</br>Salisbury<br/>SP5 1BG<br/><br/>01980 862244
+summary: Tonge Mill, Church Road<br/>Tonge<br/>ME9 9AP<br/><br/>+44 1795 484 235
 tags:
   - retailer
 thumbnail: //images.quru.com/image?src=kwf/retailers/elvis%26kresse.jpg&width=150&height=150&fill=none
