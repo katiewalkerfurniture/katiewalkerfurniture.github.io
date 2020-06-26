@@ -20,7 +20,7 @@ price:
 awards:
   - The Furniture Makers&rsquo; Company, Bespoke Guild Mark no. 250
 date: 1999-01-01
-summary: Bench style seating with Elvis & Kresse leather cover.
+summary: Bench style seating with Elvis & Kresse rescued leather cover.
 social: beam bench seating
 houzzcategory: Upholstered Benches
 storeprice:
@@ -40,7 +40,7 @@ style: red
 ---
 _1370mm long x 500mm wide x 460mm high. (54” x 19&frac34;” x 18”)_
 
-Bench style seating available in ash or walnut with a natural wax/oil finish, stainless steel fittings and leather cover by Elvis & Kresse.
+Bench style seating available in ash or walnut with a natural wax/oil finish, stainless steel fittings and rescued leather cover by Elvis & Kresse.
 
 Price with leather cover as shown, leather available in three colourways - Black, Caramel or Shiraz. Other fabrics/leather covers also available subject to a variation in price.
 
@@ -58,6 +58,6 @@ Beam Bench is inspired by traditional cross-legged tables, blending Japanese sty
 
 In 2005 Kresse Wesling had a chance meeting with the London Fire Brigade and a very emotional response to their damaged, decommissioned fire hose. It was too heroic and too beautiful for landfill. Somebody had to do something, and those somebodies were Elvis & Kresse (Kresse and her partner James ‘aka Elvis’ Henrit).
 
-They mounted a rescue, and over the last 13 years have saved all of London’s hoses, transforming them into a range of luxury accessories and donating 50% of the profits to the Fire Fighters Charity. From the first day Elvis & Kresse had a unique DNA: rescue, transform, donate.
+They mounted a rescue, and over the last 15 years have saved all of London’s hoses, transforming them into a range of luxury accessories and donating 50% of the profits to the Fire Fighters Charity. From the first day Elvis & Kresse had a unique DNA: rescue, transform, donate.
 
 They are now tackling their greatest ever challenge, the 800,000 tonnes of leather off-cuts generated each year by the global leather industry. Even when the patterns for leather goods are carefully planned to maximise the hides, the process inevitably creates small off cuts. These are high quality, unused, freshly tanned and dyed leather, but fall to the workshop floor as seemingly unusable pieces. Elvis & Kresse has designed a system that transforms these fragments into components, which are then hand woven into a new kind of hide that is unrestricted by size or shape.
