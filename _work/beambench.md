@@ -8,6 +8,7 @@ tags:
 type:
   - buy
 retailer:
+  - new art centre
   - elvis & kresse
   - matthew burt
 menus:

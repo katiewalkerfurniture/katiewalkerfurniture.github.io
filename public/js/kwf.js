@@ -1,25 +1,34 @@
 /*
-        Document:      kwf.js
-        Date started:  06Oct2014
-        By:            Roland Whitehead
-        Purpose:       Provide basic js functionality to kwf.biz
-        Requires:      Nothing just yet
-        Copyright:     Katie Walker
-        
-        Last Changed:  $Date$ $Rev$ by $Author$
-        
-        Notable modifications:
-        Date       By    Details
-        =========  ====  ============================================================
-        06Oct2014  RW    New
-        01Dec2014  RW    Added in hideById and showById
-*/
+   Document:      kwf.js
+   Date started:  06Oct2014
+   By:            Roland Whitehead
+   Purpose:       Provide basic js functionality to kwf.biz
+   Requires:      Nothing just yet
+   Copyright:     Katie Walker
+   
+   Last Changed:  $Date$ $Rev$ by $Author$
+   
+   Notable modifications:
+   Date       By    Details
+   =========  ====  ============================================================
+   06Oct2014  RW    New
+   01Dec2014  RW    Added in hideById and showById
+   03Jul2020  RW    Add is_touch_device
+ */
 
 /**** Private interface ****/
 
+function is_touch_device() {  
+    try {  
+        document.createEvent("TouchEvent");  
+        return true;  
+    } catch (e) {  
+        return false;  
+    }  
+}
 
 function kwfAddEventListener(el, eventName, handler) {
-/* Function to add events post DOM load */
+    /* Function to add events post DOM load */
     if (el != null) {
         if (el.addEventListener) {
             el.addEventListener(eventName, handler);

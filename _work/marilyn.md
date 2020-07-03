@@ -4,14 +4,12 @@ title: Marilyn side table
 tags:
   - work
 type:
-  - speculative
+  - buy
 retailer:
-  - new art centre
-  - VSOP
 exhibitions:
 collections:
 order: 180
-stock: 2
+stock: 0
 menus:
   - work
   - toBuy
