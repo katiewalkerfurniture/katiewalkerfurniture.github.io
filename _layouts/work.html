@@ -94,7 +94,7 @@ layout: default
 </div>
 {% endif %}
 {% if page.retailer %}
-{% if page.type contains "retailer" %}<h2>Available from</h2>{% else %}<h2>Galleries</h2>{% endif %}
+{% if page.type contains "retailer" %}<h2>Available from</h2>{% else %}<h2>Galleries and collaborators</h2>{% endif %}
   {% assign gallery_count = 0 %}{% for vendor in page.retailer %}{% capture lvendor %}{{ vendor | downcase }}{% endcapture %}{% for post in site.retailers %}{% capture lretailer %}{{ post.title | downcase }}{% endcapture %}{% if lretailer == lvendor %}{% assign gallery_count = gallery_count | plus: 1 %}{% endif %}{% endfor %}{% endfor %}
 <!--    <p>The {{ page.title }} is currently being shown with the following {% if gallery_count > 1 %}galleries{% else %}gallery{% endif %}.</p>-->
     <div class="grid clearfix" id="stockists">

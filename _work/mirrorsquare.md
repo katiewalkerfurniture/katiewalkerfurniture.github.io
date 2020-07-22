@@ -7,7 +7,6 @@ tags:
 type:
   - buy
 retailer:
-  - new art centre
 menus:
   - work
   - toBuy

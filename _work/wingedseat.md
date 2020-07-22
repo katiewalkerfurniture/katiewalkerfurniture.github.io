@@ -10,7 +10,7 @@ retailer:
 menus:
   - work
   - toBuy
-order: 120
+order: 180
 date: 1995-01-01
 summary: A limited edition sculptural outdoor seat in stainless steel.
 thumbnail: //images.quru.com/image?src=kwf/KWFWingedSeat.jpg&right=0.775&left=0.23125&bottom=0.88263&top=0.06573&width=175&height=175
