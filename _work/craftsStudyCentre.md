@@ -16,10 +16,10 @@ date: 2000-01-01
 social: Crafts Study Centre reception desk and display
 awards:
 
-thumbnail: //images.quru.com/image?src=kwf/Farnham%20display%20case.tif&width=170&height=170&bottom=0.86875&top=0.25625
-headimage: //images.quru.com/image?src=kwf/Farnham%20display%20case.tif
+thumbnail: //images.quru.com/image?src=/kwf/Farnham%20display%20case.tif&width=170&height=170&bottom=0.86875&top=0.25625&format=jpeg
+headimage: //images.quru.com/image?src=/kwf/Farnham%20display%20case.tif&format=jpeg
 otherimages:
-  - //images.quru.com/image?src=kwf/Farnham%20desk.jpg&top=0.325
+  - //images.quru.com/image?src=/kwf/Farnham%20desk.jpg&top=0.325&format=jpeg
 
 ---
 The design and production of a reception desk, shelving and retail display cases for The Crafts Study Centre in Farnham, Surrey. 2004, 2008.

@@ -16,8 +16,8 @@ date: 1998-01-01
 social: Corporate display in aluminium
 awards:
 
-thumbnail: //images.quru.com/image?src=kwf/DisplayBoard.tif&width=170&height=170&fill=auto
-headimage: //images.quru.com/image?src=kwf/DisplayBoard.tif
+thumbnail: //images.quru.com/image?src=/kwf/DisplayBoard.tif&width=170&height=170&fill=auto&format=jpeg
+headimage: //images.quru.com/image?src=/kwf/DisplayBoard.tif&format=jpeg
 otherimages:
 
 ---
