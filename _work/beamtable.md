@@ -13,8 +13,6 @@ menus:
   - toBuy
 order: 50
 storeprice: 
-  - type: 
-    cost: 2,495
 date: 1995-01-01
 social: white lacquered oak dining table
 thumbnail: //images.quru.com/image?src=kwf/KWFBeamTableWhite.jpg&width=175&height=175&fill=%23ffffff
