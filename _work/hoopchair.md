@@ -17,8 +17,8 @@ summary: An upholstered lounge chair combining a sleek formed seating shell with
 social: Ash and upholtered ply lounge chair
 houzzcategory: Lounge chair
 storeprice: 
-thumbnail:   //images.quru.com/image?src=kwf/KWFHoopchair/KWF%20Hoop%20chair%20cushion%2034.JPG&angle=90&bottom=0.86875&top=0.14063&fill=auto&strip=1&width=175&height=175
-headimage: //images.quru.com/image?src=kwf/KWFHoopchair/KWF%20Hoop%20chair%20cushion%2034.JPG&angle=90&bottom=0.91875&top=0.05625&strip=1
+thumbnail:   //images.quru.com/image?src=/kwf/KWFHoopchair/KWF+Hoop+chair+front.JPG&angle=90&bottom=0.86875&top=0.14063&fill=auto&strip=1&width=175&height=175
+headimage: //images.quru.com/image?src=/kwf/KWFHoopchair/KWF+Hoop+chair+front.JPG&angle=90&bottom=0.91875&top=0.05625&strip=1
 stripimage: 
 otherimages:
   - //images.quru.com/image?src=/kwf/KWFHoopchair/KWF%20Hoop%20chair%20back%2034.JPG&angle=90&top=0.1&bottom=0.9&fill=auto&strip=1
