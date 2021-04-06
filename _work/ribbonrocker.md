@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Ribbon Rocking Chair
+date: 2021-04-06
 tags:
   - work
   - caa
@@ -36,7 +37,7 @@ shippingcost: 35
 shippingweight: 17
 colour: Ash/Tan
 material: Ash/Stainless Steel/Leather
-date: 2006-01-01
+design-date: 2006-01-01
 summary: A contemporary rocking chair with wood ‘Ribbon’ frame, saddle leather seat & stainless steel connectors.
 thumbnail:   //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_side_on_white.jpg&width=175&height=175&fill=%23ffffff&left=0.07428571428571429&top=0.06285714285714286&right=0.9142857142857143&bottom=0.9257142857142857&format=jpg&strip=1
 headimage: //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF+Walnut+Ribbon+front+34.jpeg&right=0.87813&left=0.10625

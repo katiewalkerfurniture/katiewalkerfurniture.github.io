@@ -20,7 +20,8 @@ stockdate: 2020-06-25
 price:
 awards:
   - The Furniture Makers&rsquo; Company, Bespoke Guild Mark no. 250
-date: 1999-01-01
+date: 2021-04-06
+design-date: 1999-01-01
 summary: Bench style seating with Elvis & Kresse rescued leather cover.
 social: beam bench seating
 houzzcategory: Upholstered Benches

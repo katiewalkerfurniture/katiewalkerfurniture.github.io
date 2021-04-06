@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Rietveld Love seat
+date: 2021-04-06
 tags:
   - work
 type:
@@ -11,7 +12,7 @@ menus:
   - work
   - toBuy
 order: 120
-date: 2019-04-01
+design-date: 2019-04-01
 summary: An intimate update of Gerrit Rietveld's Steltman chair.
 thumbnail: //images.quru.com/image?src=/kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeat34.jpg&bottom=0.86563&top=0.19688&width=175&height=175
 headimage: //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeat.jpg

@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Windsor rocker
+date: 2021-04-06
 tags:
   - work
   - VSOP
@@ -16,7 +17,7 @@ order: 20
 stock: 3
 stockdate:
 price:
-date: 2011-01-01
+design-date: 2011-01-01
 awards:
   - The Furniture Makers&rsquo; Company, Design Guild Mark no. 101
   - the 2011 Wood Awards - furniture award

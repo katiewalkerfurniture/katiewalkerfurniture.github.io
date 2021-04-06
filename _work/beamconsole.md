@@ -13,7 +13,8 @@ order: 40
 menus:
   - work
   - toBuy
-date: 1996-01-01
+date: 2021-04-06
+design-date: 1996-01-01
 social: white lacquered oak console
 thumbnail: //images.quru.com/image?src=kwf/KWFBeamConsole2012.jpg&top=0.05&width=175&height=175&right=0.97&fill=auto
 headimage: //images.quru.com/image?src=kwf/KWFBeamConsole2012.jpg&left10&right=0.9&top=0.15&bottom=0.9

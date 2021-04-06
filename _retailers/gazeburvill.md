@@ -2,6 +2,7 @@
 layout: retailers
 title: Gaze Burvill
 summary: Gaze Burvill<br/>Lodge Farm<br/>East Tisted<br/>Hampshire<br/>GU34 3QH<br/><br/>01420 588444
+date: 2019-11-16
 tags:
   - retailer
 thumbnail: //images.quru.com/image?src=kwf/GazeBurvill/gazeburvilllogo.jpg&width=175&height=175

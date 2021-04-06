@@ -2,6 +2,7 @@
 layout: retailers
 title: New Art Centre
 summary: East Winterslow</br>Salisbury<br/>SP5 1BG<br/><br/>01980 862244
+date: 2019-10-01
 tags:
   - retailer
 thumbnail: /public/images/NewArtCentre.png

@@ -13,7 +13,8 @@ retailer:
   - sitting firm
 awards:
 order: 95
-date: 2016-01-01
+date: 2021-04-06
+design-date: 2016-01-01
 summary: The Eliza dining table takes traditional Windsor craftsmanship and serves it with a twist giving the piece a lighter fresh contemporary feel.
 stock: 1
 thumbnail: //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%201.jpg&right=0.86875&left=0.12812&icc=srgb&top=0.12546&strip=0&width=170

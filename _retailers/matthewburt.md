@@ -2,6 +2,7 @@
 layout: retailers
 title: Matthew Burt
 summary: High Street, Hindon<br/>Salisbury<br/>SP3 6DR<br/><br/>01747 820511
+date: 2020-07-03
 tags:
   - retailer
 thumbnail: //images.quru.com/image?src=kwf/retailers/matthewburtlogo.png&width=150

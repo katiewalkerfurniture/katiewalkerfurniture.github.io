@@ -12,8 +12,9 @@ menus:
   - work
   - toBuy
 order: 50
+date: 2021-04-06
 storeprice: 
-date: 1995-01-01
+design-date: 1995-01-01
 social: white lacquered oak dining table
 thumbnail: //images.quru.com/image?src=kwf/KWFBeamTableWhite.jpg&width=175&height=175&fill=%23ffffff
 headimage: //images.quru.com/image?src=kwf/KWFBeamTable.jpg&right=0.99&bottom=0.99
