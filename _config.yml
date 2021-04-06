@@ -13,6 +13,8 @@ pages_list:
   Feed: '/atom.xml'
 exclude:
   - ".#*"
+plugins:
+  - jekyll-sitemap
 version:          1.0.1
 github:
   repo:           https://github.com/katiewalker.furniture/katiewalker.furniture
