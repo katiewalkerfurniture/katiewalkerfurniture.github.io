@@ -13,6 +13,7 @@ pages_list:
   Feed: '/atom.xml'
 exclude:
   - ".#*"
+  - "links/*"
 plugins:
   - jekyll-sitemap
 version:          1.0.1
@@ -29,7 +30,7 @@ collections:
   news:
     output: true
   links:
-    output: true
+    output: false
   exhibitions:
     output: true
   unused:
