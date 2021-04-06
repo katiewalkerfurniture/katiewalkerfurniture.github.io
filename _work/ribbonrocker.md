@@ -2,6 +2,7 @@
 layout: work
 title: Ribbon Rocking Chair
 date: 2021-04-06
+description: A contemporary rocking chair with a wood ‘Ribbon’ forming the backrest, arms and runners, a saddle leather seat and a stainless steel connecting support framework
 tags:
   - work
   - caa

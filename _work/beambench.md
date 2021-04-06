@@ -23,6 +23,7 @@ awards:
 date: 2021-04-06
 design-date: 1999-01-01
 summary: Bench style seating with Elvis & Kresse rescued leather cover.
+description: Bench style seating in ash or walnut with a natural wax/oil finish, stainless steel fittings and rescued leather cover by Elvis & Kresse.
 social: beam bench seating
 houzzcategory: Upholstered Benches
 storeprice:

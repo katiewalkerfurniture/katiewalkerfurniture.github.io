@@ -16,7 +16,10 @@ exclude:
   - "links/*"
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
 version:          1.0.1
+description: More than just beautifully crafted contemporary furniture - hand made with love in the UK. Collectible, award winning, classic design with an iconic modern feel.
 github:
   repo:           https://github.com/katiewalker.furniture/katiewalker.furniture
 

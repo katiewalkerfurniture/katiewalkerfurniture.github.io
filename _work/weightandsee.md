@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Weight and See mirror
+description: Playful contemporary take on the traditional freestanding full length wooden cheval mirror. Move a highly polished stainless steel ball to change the mirrors angle.
 tags:
   - work
   - kwf
