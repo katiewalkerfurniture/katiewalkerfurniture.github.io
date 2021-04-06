@@ -10,7 +10,7 @@ retailer:
 menus:
   - work
   - toBuy
-order: 220
+order: 95
 stock: 1
 stockdate:
 price:

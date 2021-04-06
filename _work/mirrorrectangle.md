@@ -11,7 +11,7 @@ retailer:
 menus:
   - work
   - toBuy
-order: 100
+order: 90
 stock: 1
 date: 2012-01-01
 summary: A rectangular wall hung mirror in quarter sawn oak with a solid silver inlay and a lacquer finish.

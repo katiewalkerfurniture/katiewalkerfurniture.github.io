@@ -12,7 +12,7 @@ menus:
 retailer:
   - sitting firm
 awards:
-order: 230
+order: 95
 date: 2016-01-01
 summary: The Eliza dining table takes traditional Windsor craftsmanship and serves it with a twist giving the piece a lighter fresh contemporary feel.
 stock: 1

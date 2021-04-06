@@ -32,3 +32,5 @@ collections:
     output: true
   unused:
     output: false
+  thanks:
+    output: true

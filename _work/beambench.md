@@ -27,7 +27,7 @@ houzzcategory: Upholstered Benches
 storeprice:
   - type:
     cost: 3,000
-thumbnail: //images.quru.com/image?src=/kwf/KWFBeamBench/Katie%20Walker%20Furniture%20-%20Beam%20Bench.jpg&right=0.67188&left=0.0625&top=0.05093&bottom=0.9537&overlay=/overlays/newtriangle.png&ovsize=0.4&ovpos=nw&width=175&height=175&fill=auto
+thumbnail: //images.quru.com/image?src=/kwf/KWFBeamBench/Katie%20Walker%20Furniture%20-%20Beam%20Bench.jpg&right=0.67188&left=0.0625&top=0.05093&bottom=0.9537&width=175&height=175&fill=auto
 headimage: //images.quru.com/image?src=kwf/KWFBeamBench/Katie%20Walker%20Furniture%20-%20Beam%20Bench.jpg
 stripimage: //images.quru.com/image?src=/kwf/KWFBeamBench2012.jpg&bottom=0.83568&top=0.25822&autocropfit=1&fill=auto
 otherimages:
