@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Quadrin table and chair
+description: Quadrin table and chairs were designed exclusively for Heals Designer Collaboration series and were available from Tottenham Court Road, London. The round table and laminated chair were made in walnut.
 tags:
   - work
   - retailer
@@ -28,4 +29,4 @@ _Table: 1400mm diameter x 740mm high (55&rdquo; diameter x 29&rdquo; high)_
 _Chair: 535mm wide x 855mm high (21&rdquo; high x 33&frac12;&rdquo;)_
 
 
-The Quadrin table and chair were designed exclusively for Heal's Designer Collaboration series. It was made from walnut faced laminated birch ply.
+The Quadrin table and chair were designed exclusively for [Heals](/retailers/heals.html "Heals, London") Designer Collaboration series. It was made from walnut faced laminated birch ply.

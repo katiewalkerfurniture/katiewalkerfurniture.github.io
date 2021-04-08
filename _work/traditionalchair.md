@@ -1,12 +1,12 @@
 ---
 layout: work
 title: Traditional chair
+description: A traditional kitchen chair or dining chair made in the Windsor chair style in ash, oak or walnut. It remains light and fresh - a contemporary take on a classic.
 tags:
   - work
 type:
   - buy
 retailer:
-  - sitting firm
 menus:
   - work
   - toBuy

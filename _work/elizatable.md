@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Eliza table
+description: A round or circular dining table made in ash using traditional Windsor craftmanship but with an added twist giving it a lighter, fresh contemporary feel. Either 1.2m (seats 6) or 1.5m (seats 8).
 tags:
   - work
   - kwf
@@ -10,7 +11,6 @@ menus:
   - work
   - toBuy
 retailer:
-  - sitting firm
 awards:
 order: 95
 date: 2021-04-06
@@ -35,7 +35,7 @@ _1200mm dia x 730mm high (47&frac14;” dia x 28&frac34;”) seats 6_
 _1500mm dia x 730mm high (59” dia x 28&frac34;”) seats 8_
 
 
-In ash with a white oil finish, walnut with a clear oil finish or oak with either a white or clear oil finish.
+A round or circular dining table in ash with a white oil finish, walnut with a clear oil finish or oak with either a white or clear oil finish.
 
 Other finishes are available on request.
 

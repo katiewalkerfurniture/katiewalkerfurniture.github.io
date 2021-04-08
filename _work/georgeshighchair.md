@@ -1,6 +1,7 @@
 ---
 layout: work
 title: George's high chair
+Description: Developed from the one-off commissioned for HRH Prince George, George's high chair is the ultimate, British Standards tested seat for your child that will grow with them - a modern heirloom
 tags:
   - work
   - retailer
