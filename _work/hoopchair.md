@@ -1,6 +1,8 @@
 ---
 layout: work
 title: Hoop chair
+description: A lounge chair made with a plywood formed seat upholstered with 100% natural materials, covered in a wool Boucle from Bute Fabrics on a light, sustainable, hand-crafted ash wood frame.
+date: 2021-04-15
 tags:
   - work
 type:
@@ -11,24 +13,41 @@ menus:
   - toBuy
 order: 60
 stock: 1
+storeprice:
+  - type:
+    cost: 4,956
 awards:
-date: 2018-09-30
+design-date: 2018-09-30
 summary: An upholstered lounge chair combining a sleek formed seating shell with a light ash wood frame.
-social: Ash and upholtered ply lounge chair
+social: Ash and upholstered lounge chair
 houzzcategory: Lounge chair
-storeprice: 
-thumbnail:   //images.quru.com/image?src=/kwf/KWFHoopchair/KWF+Hoop+chair+front.JPG&angle=90&bottom=0.86875&top=0.14063&fill=auto&strip=1&width=175&height=175
-headimage: //images.quru.com/image?src=/kwf/KWFHoopchair/KWF+Hoop+chair+front.JPG&angle=90&bottom=0.91875&top=0.05625&strip=1
-stripimage: 
+thumbnail: //images.quru.com/image?src=/kwf/KWFHoopchair/Katie%20Walker%20Furniture%20Hoop%20chair%20-%20boucle%20Front.jpg&width=175&height=175&bottom=0.8625&top=0.19375&overlay=/overlays/NewFor2021FlatBlue.svg&ovpos=s&ovsize=0.9&strip=1
+headimage: //images.quru.com/image?src=kwf/KWFHoopchair/Katie%20Walker%20Furniture%20Hoop%20chair%20-%20boucle%20Front.jpg&top=0.07&bottom=0.95&fill=auto&strip=1
+stripimage:
 otherimages:
+  - //images.quru.com/image?src=kwf/KWFHoopchair/Katie%20Walker%20Furniture%20Hoop%20chair%20-%20boucle%20Front.jpg&fill=auto&strip=1
+  - //images.quru.com/image?src=kwf/KWFHoopchair/Katie%20Walker%20Furniture%20Hoop%20chair%20-%20Boucle%20front%20quarter.jpg&fill=auto&strip=1
+  - //images.quru.com/image?src=kwf/KWFHoopchair/Katie%20Walker%20Furniture%20Hoop%20chair%20-%20Boucle%20back.jpg&fill=auto&strip=1
+  - //images.quru.com/image?src=kwf/KWFHoopchair/Katie+Walker+Furniture+Hoop+chair+Boucle+side.jpg&fill=auto&strip=1
+  - //images.quru.com/image?src=/kwf/KWFHoopchair/KWF+Hoop+chair+front.JPG&angle=90&bottom=0.91875&top=0.05625&strip=1
+  - //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+chair+34.JPG&top=0.13&bottom=0.9&angle=90&flip=v&fill=auto&strip=1
   - //images.quru.com/image?src=/kwf/KWFHoopchair/KWF%20Hoop%20chair%20back%2034.JPG&angle=90&top=0.1&bottom=0.9&fill=auto&strip=1
   - //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+chair+side.JPG&top=0.1&bottom=0.9&angle=90&fill=auto&strip=1
-  - //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+chair+cushion+34.JPG&top=0.1&bottom=0.9&angle=90&fill=auto&strip=1
-  - //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+chair+34.JPG&top=0.13&bottom=0.9&angle=90&fill=auto&strip=1
+
 style: ash & taup
 ---
 _905mm wide x 835mm deep x 1080mm high (35&#8531;&rdquo; x 32&frac12;&rdquo; x 42&frac14;&rdquo;)_
 
-Hoop chair is an upholstered lounge chair combining a sleek formed seating shell with a light ash wood frame. The piece took its inspiration from both of the iconic rocking chairs in the Katie Walker Furniture range – the seating shell further explores the extents to which plywood can be formed and the ash hoop both acts as a structural member and an inviting shape for armrests to sit within. The challenge in the design was to achieve exceptional comfort whilst matching the two geometric shapes of the seating shell and the angled hoop – the shell seemingly dropped into and effortlessly supported by the hoop.
+Hoop chair is a lounge chair made with a plywood formed seat upholstered with 100% natural materials, covered in a wool Boucle on a light, sustainable, hand-crafted ash wood frame.
 
-The upholstery fabric is also a new design by Bute fabrics and the cover has been tailored like a fine coat so as to be fully removable.
+ The piece took its inspiration from both of the iconic rocking chairs in the Katie Walker Furniture range – the seating shell further explores the extents to which plywood can be formed and the ash hoop both acts as a structural member and an inviting shape for armrests to sit within. The challenge in the design was to achieve exceptional comfort whilst matching the two geometric shapes of the seating shell and the angled hoop – the shell seemingly dropped into and effortlessly supported by the hoop.
+
+The chair is upholstered in 100% natural wool materials covered in a Boucle fabric from [Bute](https://www.butefabricsltd.com/ "Bute Fabrics, Scotland"). It can be upholstered in a fabric of your choice, needing 2.8m per chair.
+
+The use of ply, ash and wool makes it an ecological, sustainable hand-made chair for everyday living.
+
+
+
+<!-- image?src=kwf/KWFHoopchair/Katie%20Walker%20Furniture%20Hoop%20chair%20-%20Boucle%20single%20front.jpg&bottom=0.88438&top=0.20625&right=0.875&width=175&height=175
+
+ image?src=/kwf/KWFHoopchair/KWF+Hoop+chair+front.JPG&angle=90&bottom=0.86875&top=0.14063&fill=auto&strip=1&width=175&height=175 -->
