@@ -39,6 +39,7 @@ body {
 .post {
     position: relative;
     top: -5rem;
+    z-index: -10;
 }
 
 .content {
