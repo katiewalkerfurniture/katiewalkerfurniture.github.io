@@ -21,7 +21,7 @@ design-date: 2018-09-30
 summary: An upholstered lounge chair combining a sleek formed seating shell with a light ash wood frame.
 social: Ash and upholtered ply lounge chair
 houzzcategory: Lounge chair
-thumbnail: //images.quru.com/image?src=kwf/KWFHoopchair/Katie%20Walker%20Furniture%20Hoop%20chair%20-%20Boucle%20single%20front.jpg&bottom=0.86875&top=0.19375&right=0.87097&overlay=/overlays/NewFor2021TriangleDark.svg&ovsize=0.3&ovpos=ne&width=170&height=170&strip=1
+thumbnail: //images.quru.com/image?src=kwf/KWFHoopchair/Katie%20Walker%20Furniture%20Hoop%20chair%20-%20Boucle%20single%20front.jpg&bottom=0.86875&top=0.19375&right=0.87097&overlay=/overlays/NewFor2021TriangleDark.svg&ovsize=0.5&ovpos=ne&width=170&height=170&strip=1
 headimage: //images.quru.com/image?src=kwf/KWFHoopchair/Katie+Walker+Furniture+Hoop+chair+-+Boucle+main.jpg&fill=auto&strip=1
 stripimage: 
 otherimages:
