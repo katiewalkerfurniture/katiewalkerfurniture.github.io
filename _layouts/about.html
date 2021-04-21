@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="post">
-  <h1 class="post-title hidden">{{ page.title }}</h1>
+  <h1 class="post-title {% if page.title=="About" %}hidden{% endif %}">{{ page.title }}</h1>
   {{ content }}
 </div>
 

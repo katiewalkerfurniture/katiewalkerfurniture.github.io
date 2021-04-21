@@ -11,7 +11,7 @@ layout: default
 <div class="related">
     <h2>Pieces available</h2>
     <div class="grid clearfix">
-        {% assign contents = site.work | sort:'order' %}{% for post in contents %}{% if post.title != "Work" %}{% assign lvendor = page.title | downcase %}{% if post.retailer contains lvendor %}
+        {% assign contents = site.furniture | sort:'order' %}{% for post in contents %}{% if post.title != "Furniture" %}{% assign lvendor = page.title | downcase %}{% if post.retailer contains lvendor %}
         {% include cell.html %}
         {% endif %}{% endif %}{% endfor %}
     </div>

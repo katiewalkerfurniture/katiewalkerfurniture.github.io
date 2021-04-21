@@ -1,8 +1,8 @@
 ---
 layout: work
 title: Windsor rocker
-date: 2021-04-06
-description: A contemporary wooden rocking chair developed from traditional Windsor chair making. Made in the UK from local sustainable wood finished with natural oil.
+date: 2021-04-21
+description: A contemporary wooden rocking chair developed from traditional Windsor chair making. Made in the UK from local sustainable wood finished with natural oil. Wood Awards winner.
 
 tags:
   - work

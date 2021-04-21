@@ -1,6 +1,8 @@
 ---
 layout: work
 title: Beam table
+date: 2021-04-21
+description: A contemporary dining table fit for the modern home. Made in solid FSC sourced oak finished with a hard wax oil. The beam table has inspired many copies and remains ever popular.
 tags:
   - work
   - caa
@@ -12,7 +14,6 @@ menus:
   - work
   - toBuy
 order: 50
-date: 2021-04-06
 storeprice: 
 design-date: 1995-01-01
 social: white lacquered oak dining table

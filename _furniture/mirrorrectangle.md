@@ -1,11 +1,13 @@
 ---
 layout: work
 title: Geometric mirror range - Rectangle with silver square
+date: 2021-04-21
+description: A rectangular wall hung mirror in quarter sawn oak with a solid silver inlay and a lacquer finish.
 tags:
   - work
   - caa
 type:
-  - buy
+  - folio
 retailer:
   - caa
 menus:
@@ -13,7 +15,7 @@ menus:
   - toBuy
 order: 90
 stock: 1
-date: 2012-01-01
+design-date: 2012-01-01
 summary: A rectangular wall hung mirror in quarter sawn oak with a solid silver inlay and a lacquer finish.
 thumbnail:  //images.quru.com/image?src=kwf/KWFGeometricMirrors/KWFRectangularMirrorWhite.jpg&width=175&height=175&fill=%23ffffff
 headimage: //images.quru.com/image?src=kwf/KWFGeometricMirrors/KWFRectangularMirrorWhite.jpg&left=0.01&right=0.99

@@ -26,7 +26,7 @@ github:
 collections:
   retailers:
     output: true
-  work:
+  furniture:
     output: true
   contact:
     output: true

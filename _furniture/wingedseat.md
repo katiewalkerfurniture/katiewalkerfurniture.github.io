@@ -1,6 +1,8 @@
 ---
 layout: work
 title: Winged seat
+date: 2021-04-21
+description: Sculpture that you can sit on. A limited edition stainless steel bench developed from an earlier commission in Bushy Park, London.
 tags:
   - work
 type:
@@ -11,7 +13,7 @@ menus:
   - work
   - toBuy
 order: 180
-date: 1995-01-01
+design-date: 1995-01-01
 summary: A limited edition sculptural outdoor seat in stainless steel.
 thumbnail: //images.quru.com/image?src=kwf/KWFWingedSeat.jpg&right=0.775&left=0.23125&bottom=0.88263&top=0.06573&width=175&height=175
 headimage: //images.quru.com/image?src=kwf/KWFWingedSeat.jpg

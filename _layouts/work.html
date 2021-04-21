@@ -48,18 +48,18 @@ layout: default
         <br/>
         {% if m.type %}{{ m.type }} - {% endif %}
         {% if m.cost != "POA" %}
-            £{% if m.cost > 999 %}{{ m.cost | divided_by: 1000 }},{% assign remainder = m.cost | modulo: 1000 %}{% if remainder == 0 %}000{% else %}{{ remainder }}{% endif %}{% else %}{{ m.cost }}{% endif %} including VAT
+        £{% if m.cost > 999 %}{{ m.cost | divided_by: 1000 }},{% assign remainder = m.cost | modulo: 1000 %}{% if remainder == 0 %}000{% else %}{{ remainder }}{% endif %}{% else %}{{ m.cost }}{% endif %} including VAT
         {% else %}
-            {{ m.cost }}
+        {{ m.cost }}
         {% endif %}
         {% endfor %}
 
-{% if page.madetoorder %} Made to order.{% endif %}</div>{% endif %}
+        {% if page.madetoorder %} Made to order.{% endif %}</div>{% endif %}
 
-    {{ content }}
+        {{ content }}
 
-  {% if page.awards %}<div class="awards">    This piece was awarded{% for gong in page.awards %}{% if forloop.first %} {% elsif forloop.last %} and {% else %}, {% endif %}{{ gong }}{% endfor %}.
-  </div>{% endif %}
+        {% if page.awards %}<div class="awards">    {% for gong in page.awards %}{% assign numawards = forloop.length %}{% endfor %}{% if numawards <= 3 %}This piece was awarded{% for gong in page.awards %}{% if forloop.first %} {% elsif forloop.last %} and {% else %}, {% endif %}{{ gong }}{% endfor %}.{% else %}This piece was awarded:<ul>{% for gong in page.awards %}<li>{{ gong }}</li>{% endfor %}</ul>.{% endif %}
+        </div>{% endif %}
 
 
   {% if page.collections != null %}<div class="collections">

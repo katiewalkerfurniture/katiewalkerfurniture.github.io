@@ -1,11 +1,13 @@
 ---
 layout: work
 title: Geometric mirror range - Square silver section
+date: 2021-04-21
+description: A square wall hung mirror in burr oak with a solid silver inlay and a lacquer finish.
 tags:
   - work
   - caa
 type:
-  - buy
+  - folio
 retailer:
 menus:
   - work

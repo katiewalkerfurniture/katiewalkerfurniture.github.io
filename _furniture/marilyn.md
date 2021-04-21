@@ -1,6 +1,8 @@
 ---
 layout: work
 title: Marilyn side table
+date: 2021-04-21
+description: Side table designed so the legs flow seamlessly from the top and the structural ‘undercarriage’ provides ‘cubby hole’ style storage. Available in ash, oak and walnut.
 tags:
   - work
 type:
@@ -13,7 +15,7 @@ stock: 0
 menus:
   - work
   - toBuy
-date: 1998-01-01
+design-date: 1998-01-01
 social: Marilyn side table
 awards:
   - Worshipful Company of Furniture Makers, Bespoke Guild Mark no. 366

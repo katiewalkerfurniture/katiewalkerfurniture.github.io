@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Work
+title: Furniture
 menus:
-  - work
-  - toBuy
+  - furniture
+  - folio
 title-style:
 summary: Katie has some stunning work
 ---
@@ -22,7 +22,7 @@ It is constantly evolving and is produced using the finest materials, with metic
 The collection can be viewed by appointment at our studio in West Sussex and some pieces are also available through selected galleries and retailers in the UK.
 
   <div class="grid clearfix">
-        {% assign contents = site.work | sort:'order' %}{% for post in contents %}{% if post.publish != false %}{% if post.title != "Work" %}{% if post.type contains "buy" or post.type contains "speculative" or post.type contains "retailer" %}
+    {% assign contents = site.furniture | sort:'order' %}{% for post in contents %}{% if post.publish != false %}{% if post.title != "Furniture" %}{% if post.type contains "buy" or post.type contains "speculative" or post.type contains "commission" or post.type contains "retailer" or post.type contains "folio" %}
     {% include cell.html %}
     {% endif %}{% endif %}{% endif %}{% endfor %}
   </div>
