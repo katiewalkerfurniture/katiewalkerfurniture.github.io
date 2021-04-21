@@ -308,9 +308,8 @@ img.page-title, img.post-title {
 }
 
 img.post-half {
-    width: 50%;
-	max-width: 400px;
-    padding-right: 1rem;
+    width: 49%;
+	max-width: 380px;
     padding-bottom: 2rem;
 }
 
