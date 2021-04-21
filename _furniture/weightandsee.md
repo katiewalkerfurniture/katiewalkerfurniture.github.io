@@ -1,7 +1,8 @@
 ---
 layout: work
 title: Weight and See mirror
-description: Playful contemporary take on the traditional freestanding full length wooden cheval mirror. Move a highly polished stainless steel ball to change the mirrors angle.
+date: 2021-04-21
+description: Playful contemporary take on the traditional freestanding full length wooden cheval mirror. Moving a highly polished stainless steel ball to change the mirrors angle to show you at full height. 
 tags:
   - work
   - kwf
@@ -15,7 +16,7 @@ menus:
 awards:
   - The Furniture Makers&rsquo; Company, Bespoke Guild Mark no. 347
 order: 10
-date: 2002-01-01
+design-date: 2002-01-01
 variants:
   - material: ash
     price: 1290

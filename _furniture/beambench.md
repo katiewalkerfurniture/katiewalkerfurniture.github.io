@@ -1,6 +1,8 @@
 ---
 layout: work
 title: Beam bench
+date: 2021-04-06
+description: Bench style seating in ash or walnut with a natural wax/oil finish, stainless steel fittings and rescued leather cover by Elvis & Kresse. Ideal for the modern home.
 tags:
   - work
   - elvis & Kresse
@@ -20,10 +22,8 @@ stockdate: 2020-06-25
 price:
 awards:
   - The Furniture Makers&rsquo; Company, Bespoke Guild Mark no. 250
-date: 2021-04-06
 design-date: 1999-01-01
 summary: Bench style seating with Elvis & Kresse rescued leather cover.
-description: Bench style seating in ash or walnut with a natural wax/oil finish, stainless steel fittings and rescued leather cover by Elvis & Kresse.
 social: beam bench seating
 houzzcategory: Upholstered Benches
 storeprice:

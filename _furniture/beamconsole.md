@@ -3,7 +3,6 @@ layout: work
 title: Beam console
 date: 2021-04-06
 description: A side table or console in solid European oak with a white lacquer finish. The drawer bottom is cedar.
-
 tags:
   - work
   - caa
