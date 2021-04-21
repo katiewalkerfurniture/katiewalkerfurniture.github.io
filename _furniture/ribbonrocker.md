@@ -1,8 +1,8 @@
 ---
 layout: work
 title: Ribbon Rocking Chair
-date: 2021-04-06
-description: A contemporary rocking chair with a wood ‘Ribbon’ forming the backrest, arms and runners, a saddle leather seat and a stainless steel connecting support framework
+date: 2021-04-21
+description: A contemporary designer rocking chair with a wood ‘Ribbon’ forming the backrest, arms and runners, a saddle leather seat and a stainless steel connecting support framework. Winner of multiple awards.
 tags:
   - work
   - caa
@@ -15,9 +15,11 @@ menus:
   - toBuy
 awards:
   - The Furniture Makers&rsquo; Company, Bespoke Guild Mark no. 373
-  - 2006 Wood Awards - furniture and innovation
+  - 2006 Wood Awards - furniture
+  - 2006 Wood Awards - innovation
   - 2006 Wesley-Barrell Craft Award
-  - 2007 Grand Designs - best furniture and product of the year
+  - 2007 Grand Designs - best furniture
+  - 2007 Grand Designs - product of the year
 collections: A Ribbon Rocking Chair was purchased by <a href="//manchesterartgallery.org/" alt="Manchester Museum of Modern Art">Manchester Museum of Modern Art</a> for their permanent collection with assistance from the Art Fund.
 madetoorder: false
 order: 2
@@ -41,19 +43,22 @@ material: Ash/Stainless Steel/Leather
 design-date: 2006-01-01
 summary: A contemporary rocking chair with wood ‘Ribbon’ frame, saddle leather seat & stainless steel connectors.
 thumbnail:   //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_side_on_white.jpg&width=175&height=175&fill=%23ffffff&left=0.07428571428571429&top=0.06285714285714286&right=0.9142857142857143&bottom=0.9257142857142857&format=jpg&strip=1
-headimage: //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF+Walnut+Ribbon+front+34.jpeg&right=0.87813&left=0.10625
+headimage: //images.quru.com/image?src=kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chairs%20pair%201.jpg&top=0.075&bottom=0.95&left=0.05
 otherimages:
-  - //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20back.tif&bottom=0.77188&top=0.10313&fill=auto&format=jpg&strip=1
-  - //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20front%20on.tif&bottom=0.825&top=0.15625&fill=auto&format=jpg&strip=1
-  -  //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20side.tif&right=0.90625&left=0.1&fill=auto&format=jpg&strip=1
-  - //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_front_wide_on_white.jpg&right=0.84688&left=0.17813&format=jpg&strip=1
+  - //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20side.tif&right=0.90625&left=0.1&fill=auto&format=jpg&strip=1
+  - //images.quru.com/image?src=kwf/KWFRibbonRockingChair/KWF+Ribbon+rocking+chairs+ash+front+and+walnut+34.jpg&top=0.12&bottom=0.92
+  - //images.quru.com/image?src=kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20ash%20front-2.jpg&bottom=0.81563&top=0.1875&right=0.93925
+  - //images.quru.com/image?src=kwf/KWFRibbonRockingChair/KWF+Ribbon+rocking+chairs+pair+4.jpg&top=0.08&bottom=0.95
+  - //images.quru.com/image?src=kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20walnut%20angled%20side.jpg&right=0.8375&left=0.16875
+  - //images.quru.com/image?src=/kwf/KWFRibbonRockingChair/KWF+Walnut+Ribbon+front+34.jpeg&right=0.87813&left=0.10625
+  - //images.quru.com/image?src=kwf/KWFRibbonRockingChair/KWF+Ribbon+rocking+chair+walnut+8.jpg&top=0.1&bottom=0.95
+  - //images.quru.com/image?src=kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chair%20back%2034%209.jpg&top=0.1&right=0.97&bottom=0.99688&left=0.01333
+
 houzzcategory: Rocking Chairs
 ---
 _790mm wide x 1130mm deep x 860mm high (31&rdquo; x 44&frac12;&rdquo; x 33&frac34;&rdquo;)_
 
 The Ribbon rocking chair is a contemporary rocking chair with a wood ‘Ribbon’ forming the backrest, arms and runners, a saddle leather seat and a stainless steel connecting support framework.
-
-Shown in walnut but also available in rippled ash, both with a natural leather seat.
 
 <img class="post-title gallery_image" alt="Ribbon Rocking Chair" src="//images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=342" srcset="//images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=342 360w, //images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=770 800w,  //images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=1440 2x">
 

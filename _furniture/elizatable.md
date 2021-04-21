@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Eliza table
+date: 2021-04-06
 description: A round or circular dining table made in ash using traditional Windsor craftmanship but with an added twist giving it a lighter, fresh contemporary feel. Either 1.2m (seats 6) or 1.5m (seats 8).
 tags:
   - work
@@ -12,8 +13,7 @@ menus:
   - toBuy
 retailer:
 awards:
-order: 95
-date: 2021-04-06
+order: 94
 design-date: 2016-01-01
 summary: The Eliza dining table takes traditional Windsor craftsmanship and serves it with a twist giving the piece a lighter fresh contemporary feel.
 stock: 1

@@ -7,19 +7,21 @@ type:
   - selected commission
   - commission
 retailer:
+publish: True
 exhibitions:
 collections:
 order: 280
 menus:
-  - work
+  - furniture
   - commission
 date: 1998-01-01
 social: Princes Trust Boardroom
 awards:
-thumbnail: //images.quru.com/image?src=kwf/PYBTBoardRoom.tif&width=170&height=170&fill=auto
-headimage: //images.quru.com/image?src=kwf/PYBTBoardRoom.tif
+thumbnail: //images.quru.com/image?src=/kwf/PYBTBoardRoom.jpg&width=170&height=170
+headimage: //images.quru.com/image?src=/kwf/PYBTBoardRoom.jpg
 otherimages:
 
+---
 
 Boardroom table and chairs for the Headquarters of the Princes Trust, Regents Park, London. 1996
 

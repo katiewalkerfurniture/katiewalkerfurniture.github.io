@@ -6,7 +6,7 @@ tags:
   - work
   - retailer
 type:
-  - buy
+  - folio
 retailer:
 menus:
   - work

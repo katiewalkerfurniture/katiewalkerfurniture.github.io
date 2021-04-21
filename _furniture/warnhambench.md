@@ -1,10 +1,12 @@
 ---
 layout: work
 title: Warnham bench
+date: 2021-04-21
+description: An outdoor seat for two in oak with arms wide enough for your book and a gin and tonic. Finished with a white hardwax oil. Made from oak felled in Warnham, Sussex in our Warnham workshop.
 tags:
   - work
 type:
-  - buy
+  - folio
 # retailer:
 menus:
   - work
@@ -25,4 +27,4 @@ houzzcategory: Garden Benches
 ---
 _1425mm wide x 725mm deep x 1230mm high (56&rdquo; x 28&frac12;&rdquo; x 48&frac12;&rdquo;)_
 
-An outdoor seat in oak, finished with a white hardwax oil.
+An outdoor seat for two in oak with arms wide enough for your book and a gin and tonic. Finished with a white hardwax oil. Made from oak felled in Warnham, Sussex in our Warnham workshop.

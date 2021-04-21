@@ -5,7 +5,7 @@ tags:
   - work
   - kwf
 type:
-  - buy
+  - folio
 menus:
   - work
   - toBuy
@@ -14,7 +14,7 @@ awards:
 order: 30
 date: 2012-01-01
 summary: A Windsor style small side table or coffee table with a suspended bowl designed to accompany the Windsor Rocker. In ash, oak or walnut.
-stock: 2
+stock: 1
 storeprice: 
   - type: Ash
     cost: 675
