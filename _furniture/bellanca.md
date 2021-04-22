@@ -23,6 +23,6 @@ summary: An expanding dining table designed for Benchmark Furniture.
 
 _900mm wide x 1800mm long (extending to 2400mm) x 740mm high (35&frac12;&rdquo; x  77&frac34;&rdquo; (94&frac12;&rdquo;) x 29&rdquo;)_  
 
-The Bellanca table was designed for [Benchmark Furniture](/retailers/benchmark). It has a central extension (stored under the table top) and so can seet 6 or 10. It features drawers at both ends.
+The Bellanca table was designed for Benchmark Furniture. It has a central extension (stored under the table top) and so can seet 6 or 10. It features drawers at both ends.
 
 With a walnut frame, an oak top and walnut extension.  It is also available with a walnut top and black extension. It is finished with two coats of hard wax oil.

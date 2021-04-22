@@ -1,6 +1,8 @@
 ---
 layout: work
 title: Media display
+date: 2021-04-22
+description: Display board for a London based Media company. In brushed and polished rolled aluminium and perspex.
 tags:
   - work
 type:
@@ -12,7 +14,7 @@ order: 310
 menus:
   - work
   - toCommission
-date: 1998-01-01
+design-date: 1995-01-01
 social: Corporate display in aluminium
 awards:
 

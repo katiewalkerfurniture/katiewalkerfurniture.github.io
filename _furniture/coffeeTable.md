@@ -1,6 +1,8 @@
 ---
 layout: work
 title: Coffee table
+date: 2021-04-22
+description: A bespoke commission for a coffee table in walnut with a glass top. Styled to go with the Weight and see mirror.
 tags:
   - work
 type:
@@ -12,7 +14,7 @@ order: 230
 menus:
   - work
   - toCommission
-date: 1998-01-01
+design-date: 2000-01-01
 social: coffee table in walnut with glass top
 awards:
 thumbnail: //images.quru.com/image?src=kwf/KWF%20Coffee%20Table.jpg&width=170&height=170&fill=auto

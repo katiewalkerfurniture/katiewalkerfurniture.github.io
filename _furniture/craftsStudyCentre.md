@@ -1,6 +1,8 @@
 ---
 layout: work
 title: Crafts Study Centre
+date: 2021-04-22
+description: The design and production of a reception desk, shelving and retail display cases for The Crafts Study Centre in Farnham, Surrey. In cherry wood, glass and stainless steel.
 tags:
   - work
 type:
@@ -12,7 +14,7 @@ order: 240
 menus:
   - work
   - toCommission
-date: 2000-01-01
+design-date: 2000-01-01
 social: Crafts Study Centre reception desk and display
 awards:
 

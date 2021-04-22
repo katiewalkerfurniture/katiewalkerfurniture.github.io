@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Islington table
+publish: false
 tags:
   - work
   - commission
@@ -14,7 +15,7 @@ menus:
 date: 1999-01-01
 
 summary:
-thumbnail: //images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg&right=0.85313&left=0.225
+thumbnail: //images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg&right=0.85313&left=0.225&width=170&height=170
 headimage: //images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg
 stripimage: //images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg&bottom=0.68&top=0.068&autocropfit=1
 otherimages:

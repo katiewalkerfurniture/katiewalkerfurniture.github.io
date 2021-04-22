@@ -1,6 +1,8 @@
 ---
 layout: work
 title: Walsall Leather Museum
+date: 2021-04-22
+description: Bench seating in rippled ash for the entrance foyer of Walsall Leather Museum. Commissioned by Walsall Metropolitan Borough Council. Designed in 1988.
 tags:
   - work
 type:
@@ -12,7 +14,7 @@ order: 290
 menus:
   - work
   - toCommission
-date: 1998-07-01
+design-date: 1998-07-01
 social: Walsall Leather Museum
 awards:
 thumbnail: //images.quru.com/image?src=/kwf/KWF_Walsall_chair.tif&format=jpeg&width=170&height=170&fill=auto

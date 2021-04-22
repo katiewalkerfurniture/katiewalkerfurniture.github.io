@@ -1,6 +1,8 @@
 ---
 layout: work
 title: Totem bench
+date: 2021-04-22
+description: Totem bench, public seating commissioned by The Royal Parks Department, National Heritage for the Woodland gardens, Bushy Park, Teddington, London
 tags:
   - work
 type:
@@ -12,7 +14,7 @@ order: 350
 menus:
   - work
   - toCommission
-date: 1992-07-01
+design-date: 1992-07-01
 social: Public seating commissioned by National Heritage
 awards:
 

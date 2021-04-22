@@ -15,13 +15,14 @@ menus:
 date: 2017-05-23
 order: 50
 social: lightweight outdoor range by @GazeBurvill
-thumbnail: //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+15.jpg&width=175&height=175
-headimage: //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+15.jpg
+thumbnail: //images.quru.com/image?src=kwf/GazeBurvill/GB%20CB%20Worplesdon-030.jpg&right=0.85313&left=0.09375&top=0.11636&width=175&height=175
+headimage: //images.quru.com/image?src=kwf/GazeBurvill/GB%20CB%20Worplesdon-030.jpg&right=0.85313&left=0.09375&top=0.11636
 otherimages:
   - //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+10.jpg
   - //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+11.jpg
   - //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+12.jpg
   - //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+14.jpg
+  - //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+15.jpg
 summary:  A 'lighter' collection designed for outdoor furniture makers Gaze Burvill
 storeprice: 
 houzzcategory: Outdoor Dining Sets
@@ -35,3 +36,5 @@ Levity is a 'lighter' collection designed for leading outdoor furniture makers G
 The table also explores the idea of two interlocking parts. In this design two arched leg sections come together to form a much stronger combined ’T’ leg section. The design also enables the table to be delivered flat and assembled on site, accommodating terrace areas with limited access.
 
 *‘Levity expresses a new lightness of touch. Lyrical, elegant yet immensely practical.’* Simon Burvill
+
+<img alt="RHS Finalist" src="//images.quru.com/image?src=kwf/GazeBurvill/CGPotY%20tag%20-%20Finalist.png&width=170" width="170" style="padding: 2rem 0 2rem 0;"/>

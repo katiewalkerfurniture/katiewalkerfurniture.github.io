@@ -1,6 +1,8 @@
 ---
 layout: work
 title: Princes Trust Boardroom
+date: 2021-04-22
+description: Boardroom table and chairs for the Headquarters of the Princes Trust, Regents Park, London. 1996. In cherry and sycamore. Table in four sections. 16 chairs, 2 armchairs, with leather upholstery.
 tags:
   - work
 type:
@@ -14,7 +16,7 @@ order: 280
 menus:
   - furniture
   - commission
-date: 1998-01-01
+design-date: 1996-01-01
 social: Princes Trust Boardroom
 awards:
 thumbnail: //images.quru.com/image?src=/kwf/PYBTBoardRoom.jpg&width=170&height=170

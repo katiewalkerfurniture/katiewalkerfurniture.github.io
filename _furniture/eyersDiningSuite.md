@@ -1,7 +1,8 @@
 ---
 layout: work
 title: Eyers dining set, 1998
-publish: false
+date: 2021-04-22
+description: A private commission for a dining table and bench style seating in rippled ash with chenille upholstery. The Worshipful Company of Furniture Makers Craft Guild Mark holder. 
 tags:
   - work
 type:
@@ -14,7 +15,7 @@ order: 270
 menus:
   - work
   - commission
-date: 1998-01-01
+design-date: 1998-01-01
 social: Eyers dining set, 1998
 awards: Awarded a Craft Guild Mark by The Worshipful Company of Furniture Makers, No. 271
 thumbnail: //images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg&right=0.85313&left=0.225
@@ -25,6 +26,6 @@ otherimages:
   - //images.quru.com/image?src=kwf/commissions/KWFIslingtonTableLegs.tif
 ---
 
-A private commission for a dining table and bench style seating in rippled ash with chenille upholstery.
+_1385mm long x 550mm wide x 460mm high. (54&frac12;” x 21&frac12;” x 18”)_
 
-Table size: 2.8metres long x 1.3metres wide with a curved sided top. Two 1-2 seater accompanying bench style seats and two 5-6 seater accompanying bench style seats.
+A private commission for a dining table and bench style seating in rippled ash with chenille upholstery. The four bench seats are capable of seating four to sixteen comfortably.

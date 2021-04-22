@@ -9,8 +9,6 @@ title-style:
 summary: Katie has some really stunning work
 ---
 
-
-
 {% include workheader.html %}
 
 <div class="work" markdown="1">

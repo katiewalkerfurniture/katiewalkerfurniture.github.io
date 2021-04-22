@@ -15,15 +15,34 @@ summary: Katie has some stunning work
 <div class="work" markdown="1">
 <!-- # The Katie Walker Furniture collection -->
 
-<h1 style="font-weight: 300; font-size: 15px;">The Katie Walker Furniture collection comprises a small number of signature pieces designed by Katie Walker which are available to order.</h1>
+## Collaborations ##
 
-It is constantly evolving and is produced using the finest materials, with meticulous attention to detail. As each piece is individually made, some sizes, materials and finishes can be tailored to your requirements.
-
-The collection can be viewed by appointment at our studio in West Sussex and some pieces are also available through selected galleries and retailers in the UK.
+Katie Walker has designed and developed a number of pieces for others in the furniture industry that are only available through them.
 
   <div class="grid clearfix">
-    {% assign contents = site.furniture | sort:'order' %}{% for post in contents %}{% if post.publish != false %}{% if post.title != "Furniture" %}{% if post.type contains "buy" or post.type contains "speculative" or post.type contains "commission" or post.type contains "retailer" or post.type contains "folio" %}
+    {% assign contents = site.furniture | sort:'order' %}{% for post in contents %}{% if post.publis != false %}{% if post.title != "Furniture" %}{% if post.type contains "retailer" %}
     {% include cell.html %}
     {% endif %}{% endif %}{% endif %}{% endfor %}
   </div>
+
+## Commissions ##
+
+The creation of bespoke pieces represents a significant part of my work. Since my first commission from English Heritage for the ‘Totem bench’ in London’s Bushy Park in 1993, numerous commissions have allowed me to combine the expressive nature of my work with the discipline of resolving highly varied, personal and often very particular requirements.
+
+  <div class="grid clearfix">
+    {% assign contents = site.furniture | sort:'design-date' | reverse %}{% for post in contents %}{% if post.publish != false %}{% if post.title != "Furniture" %}{% if post.type contains "commission" %}
+    {% include cell.html %}
+    {% endif %}{% endif %}{% endif %}{% endfor %}
+  </div>
+
+## Archive ##
+
+We have created a number of pieces in the past that are no longer made for our collection. Of course we would be interested in making them for you so please contact us if anything is of interest.
+
+  <div class="grid clearfix">
+    {% assign contents = site.furniture | sort:'order' %}{% for post in contents %}{% if post.publish != false %}{% if post.title != "Furniture" %}{% if post.type contains "speculative" or post.type contains "folio" %}{% if post.type contains "buy" %}{% else %}
+    {% include cell.html %}
+    {% endif %}{% endif %}{% endif %}{% endif %}{% endfor %}
+  </div>
+
 </div>

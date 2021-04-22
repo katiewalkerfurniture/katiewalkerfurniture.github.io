@@ -1,6 +1,9 @@
 ---
 layout: work
 title: HRH Prince George's high chair
+date: 2021-04-22
+description: Commissioned by The Furniture Makers Company and presented to HRH the Duchess of Cambridge in 2014 for HRH Prince George. A child's high chair that grows with him.
+
 tags:
   - work
 type:
@@ -12,7 +15,7 @@ order: 220
 menus:
   - work
   - toCommission
-date: 2014-01-01
+design-date: 2014-01-01
 social: HRH Prince George's high chair
 awards:
   - Worshipful Company of Furniture Makers, Bespoke Guild Mark no. 451
@@ -24,6 +27,6 @@ otherimages:
 ---
 Made in rippled ash, originating from the Longleat Estate, and finished with a white tinted hard wax oil.
 
-Commissioned by The Worshipful Company of Furniture Makers, the City of London livery company, this piece was the winning entry in an invited competition and was presented to HRH the Duchess of Cambridge in 2014.
+Commissioned by The Furniture Makers Company, the City of London livery company, this piece was the winning entry in an invited competition and was presented to HRH the Duchess of Cambridge in 2014.
 
 Taking a contemporary approach to traditional chair-making techniques, the form of Prince George’s high chair follows its function. The backrest curves around the body for comfort and provides a sense of containment. This curve also allows one front leg to flow seamlessly into the other. The front legs and the top rail of the backrest are steam bent; all other curved elements are laminated from birch plywood and ash veneer. Prince George’s high chair has been designed with longevity in mind. It is a high chair but can be used without the retaining baby bar as His Royal Highness grows.

@@ -1,6 +1,8 @@
 ---
 layout: work
 title: Public seating for Allied London Properties
+date: 2021-04-22
+description: Public seating commissioned by Allied London Properties Limited for The Swan Centre, Leatherhead, Surrey in 2000 and Christopher Place, St Albans Hertfordshire in 2002. In convex and concave bench versions.
 tags:
   - work
 type:
@@ -12,7 +14,7 @@ order: 250
 menus:
   - work
   - toCommission
-date: 1998-01-01
+design-date: 1998-01-01
 social: oak and steel public seating for Allied London Properties
 awards:
 thumbnail: //images.quru.com/image?src=/kwf/St%20Albans%20Bench%20Conc.tif&format=jpeg&width=170&height=170&right=0.59062&left=0.10625&bottom=0.87317&top=0.11707
