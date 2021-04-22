@@ -1,13 +1,8 @@
-<h3 id="handmade">
-    More than just beautifully crafted contemporary furniture
-    - hand made with love in the UK<br/>
-    Collectible, classic design with an iconic modern feel
-</h3>
-<center><img
-            src="//images.quru.com/original?src=kwf/KWRoundel3-500.png&width=80&height=80&quality=72"
-            alt="KWF" width="80" height="80"/>
-</div></center>
-
+<h3 id="handmade">More than just beautifully crafted contemporary furniture - hand made with love in the UK<br/>
+    Collectible, classic design with an iconic modern feel</h3>
+<center>
+    <img id="roundel" src="//images.quru.com/original?src=kwf/KWRoundel3-500.png&width=80&height=80&quality=72" alt="KWF" width="80" height="80"/>
+</center>
 
 <div class="footer">
 
@@ -16,37 +11,18 @@
         <!-- Twitter -->
         <a href="https://twitter.com/intent/tweet?via=katiewalkerfurn&text=Katie+Walker's+{{ page.social | replace:' ','+' }}&url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" class="twitter-share-button" data-via="katiewalkerfurn" data-count="none" data-dnt="true">a</a>
         <a target="_blank" class="follow" href="https://twitter.com/katiewalkerfurn">a <span class="normal"> Follow </span></a>
-        <!-- G+
-        <a target="_blank" href="https://plus.google.com/u/0/114480525122479352491">c</a>-->
         <!-- Pinterest -->
         <a href="http://pinterest.com/pin/create/button/?url={{ site.url | uri_escape }}{{ page.url | uri_escape }}&media={{ page.headimage }}&description=Katie+Walker's+{{ page.social | replace:' ','+' }}+#katiewalkerfurniture" target="_blank">d</a>
-<!--
-url:{% if post %}{{ post.url | remove_first: '/' }}{% else %}{{ page.url | remove_first: '/' }}{% endif %}
-headimage:{{ post.headimage }}
-summary:{{ post.summary }}
--->
-
-        <!-- LinkedIn -->
 
         <!-- Instagram -->
         <a target="_blank" href="http://instagram.com/katiewalkerfurniture">x</a>
-        <!-- Github -->
-        <!-- <a target="_blank" href="https://github.com/katiewalker.furniture">Q</a> -->
-        <!-- Email -->
-        <!-- <a id="mail" target="_blank" href="mailto://info@kwf.biz"><img src="/public/images/envelope.svg" alt="M"></a> -->
-        <!-- Houzz -->
-    </div>
-    <div id="roundel">
-    <div id="contactFooter">
-       <a href="/contact">Contact us</a><br/>
-        or call +44 7747 615323
-    </div>
 
-<!--     <div id="downloadBrochure">
-        <a href="http://images.quru.com/original?src=/kwf/KWF%20Brochure.pdf">Download our brochure</a>
     </div>
- -->
-    <div id="rights">
-        &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+    <div id="contactFooter">
+        <a href="/contact">Contact us</a><br/>
+            or call +44 7747 615323
+        <div id="rights">
+            &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+        </div>
     </div>
 </div>

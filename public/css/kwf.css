@@ -39,7 +39,6 @@ body {
 .post {
     position: relative;
     top: -5rem;
-    z-index: -10;
 }
 
 .content {
@@ -71,7 +70,8 @@ body {
 .social {
 	display: inline-block;
 	width: 40%;
-	top: 0;
+	min-width: 175px;
+    top: 0;
 	margin-bottom: 1.5rem;
 }
 
@@ -627,7 +627,8 @@ a#show_nav {
 
 #nav {
 	background: none;
-	z-index: 900;
+	position: relative;
+    z-index: 900;
 	max-height:  0;
 	padding: 35px 0 0;
 	transition-property: max-height;
@@ -680,7 +681,7 @@ a#show_nav {
 @media screen and (max-width : 760px){
 	/*Make dropdown links appear inline*/
 	body {
-		width: 95%;
+		width: 92%;
 		max-width: none;
 		margin-top: 0;
 	}
@@ -689,6 +690,7 @@ a#show_nav {
 		position:  fixed;
 		top: 0;
 		padding-top: 1rem;
+        z-index: 10;
 	}
 
 	.post, .work {
@@ -720,10 +722,21 @@ a#show_nav {
     img.right {
         float: none;
         display: block;
-        margin: 1rem 0 1rem 1.5rem;
+        margin: 0.3rem 0 1rem 0;
     }
 
+    img.post-half {
+        width: 100%;
+        max-width: 770px;
+    }
 
+    img.left {
+        float: none;
+        display: block;
+        margin: 0.3rem 0 1rem 0;
+    }
+
+    
 	.footer {
 		width: 93%;
 		position: fixed;
@@ -735,9 +748,23 @@ a#show_nav {
 		height: 6rem;
 	}
 
+    img#roundel {
+        margin-bottom: 5.5rem;
+    }
+
 	.social, #contactFooter, #downloadBrochure {
 		white-space: normal;
+        
 	}
+
+    #contactFooter {
+        position: relative;
+    }
+
+    .social {
+        position: relative;
+        top: 40px;
+    }
 
 	#rights {
 		position: fixed;

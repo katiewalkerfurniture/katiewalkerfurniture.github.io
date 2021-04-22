@@ -55,16 +55,16 @@ function kwfRemoveEventListener(el, eventName, handler) {
 
 
 function selectMenus(theMenus) {
-/* Function to add class 'selected' to current menu items */
-    var noOfMenus = theMenus.length;
-    for (var i = 0; i < noOfMenus; i++) {
-        var el=document.getElementById(theMenus[i]);
-        if (el.classList)
-            el.classList.add('selected');
-        else
-            el.className += ' ' + 'selected';
-    }
-    return false;
+// Function to add class 'selected' to current menu items
+    /* var noOfMenus = theMenus.length;
+     * for (var i = 0; i < noOfMenus; i++) {
+     *     var el=document.getElementById(theMenus[i]);
+     *     if (el.classList)
+     *         el.classList.add('selected');
+     *     else
+     *         el.className += ' ' + 'selected';
+     * }
+     * return false; */
 }
 
 function showById(el_id){
