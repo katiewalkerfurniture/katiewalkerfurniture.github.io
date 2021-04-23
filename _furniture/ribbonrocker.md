@@ -20,7 +20,7 @@ awards:
   - 2006 Wesley-Barrell Craft Award
   - 2007 Grand Designs - best furniture
   - 2007 Grand Designs - product of the year
-collections: A Ribbon Rocking Chair was purchased by <a href="//manchesterartgallery.org/" alt="Manchester Museum of Modern Art">Manchester Museum of Modern Art</a> for their permanent collection with assistance from the Art Fund.
+collections: A Ribbon Rocking Chair was purchased by <a href="//manchesterartgallery.org/" alt="Manchester Museum of Modern Art">Manchester Museum of Modern Art</a> for their permanent collection with assistance from the [Art Fund](https://www.artfund.org/about-us "Supporting UK galleries & museums").
 madetoorder: false
 order: 2
 stock: 0
@@ -41,7 +41,7 @@ shippingweight: 17
 colour: Ash/Tan
 material: Ash/Stainless Steel/Leather
 design-date: 2006-01-01
-summary: A contemporary rocking chair with wood ‘Ribbon’ frame, saddle leather seat & stainless steel connectors.
+summary: A contemporary rocking chair with wood ‘Ribbon’, saddle leather seat & stainless steel frame.
 thumbnail:   //images.quru.com/image?src=/kwf/KWF_Ribbon_Rocking_Chair_side_on_white.jpg&width=175&height=175&fill=%23ffffff&left=0.07428571428571429&top=0.06285714285714286&right=0.9142857142857143&bottom=0.9257142857142857&format=jpg&strip=1
 headimage: //images.quru.com/image?src=kwf/KWFRibbonRockingChair/KWF%20Ribbon%20rocking%20chairs%20pair%201.jpg&top=0.075&bottom=0.95&left=0.05
 otherimages:
@@ -58,7 +58,7 @@ houzzcategory: Rocking Chairs
 ---
 _790mm wide x 1130mm deep x 860mm high (31&rdquo; x 44&frac12;&rdquo; x 33&frac34;&rdquo;)_
 
-The Ribbon rocking chair is a contemporary rocking chair with a wood ‘Ribbon’ forming the backrest, arms and runners, a saddle leather seat and a stainless steel connecting support framework.
+The Ribbon rocking chair is a contemporary rocking chair with a wood ‘Ribbon’ forming the backrest, arms and runners, a saddle leather seat and a stainless steel frame.
 
 <img class="post-title gallery_image" alt="Ribbon Rocking Chair" src="//images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=342" srcset="//images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=342 360w, //images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=770 800w,  //images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=1440 2x">
 

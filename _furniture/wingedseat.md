@@ -24,6 +24,9 @@ otherimages:
   - //images.quru.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPUnderTree.jpg
   - //images.quru.com/image?src=kwf/retailers/architecturalplants/APFrontGarden.jpg
   - //images.quru.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPtall.jpg
+  - //images.quru.com/image?src=kwf/KWF_winged_seat_end_cut.jpg
+  - //images.quru.com/image?src=kwf/KWF_winged_seat_front_cut.jpg
+  - //images.quru.com/image?src=kwf/KWF_winged_seat_rear_cut.jpg
 storeprice: 
   - type: 
     cost: 14400
@@ -32,5 +35,7 @@ houzzcategory: Garden Benches
 _2000mm wide x 100mm high. (79&rdquo; x 39&frac12;&rdquo;)_
 
 In brushed and polished stainless steel.
+
+This was developed from the ["Totem" bench](/furniture/TotemBench.html "Totem Bench"), a public commission for Bushy Park, London.
 
 A limited edition of 10.

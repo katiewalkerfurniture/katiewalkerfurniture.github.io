@@ -31,6 +31,7 @@ storeprice:
     cost: 615
   - type: Walnut
     cost: 650
+storeprice:
 houzzcategory: Dining Chairs
 
 ---

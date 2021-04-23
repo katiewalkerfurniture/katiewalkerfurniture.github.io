@@ -25,10 +25,10 @@ otherimages:
   - //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%207.jpg&right=0.95625&left=0.04688&icc=srgb&strip=0
   -  //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%20and%20chair%201.jpg&left=0.025&right=0.97188&icc=srgb&strip=0
 storeprice: 
-  - type: Ash 1500mm dia
-    cost: 2352
   - type: Ash 1200mm dia
     cost: 1992
+  - type: Ash 1500mm dia
+    cost: 2352
 houzzcategory: Dining Tables
 ---
 _1200mm dia x 730mm high (47&frac14;” dia x 28&frac34;”) seats 6_  

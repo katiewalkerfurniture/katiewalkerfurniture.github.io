@@ -18,7 +18,7 @@ otherimages:
   - //images.quru.com/image?src=kwf/Bellanca/Bellanca-Table-by-Katie-Walker.jpg&left=0.17813&right=0.84375
   - //images.quru.com/image?src=kwf/Bellanca/Bellanca-Table-by-Katie-Walker-end-shot.jpg&right=0.75625&left=0.25313
 houzzcategory: Dining Tables
-summary: An expanding dining table designed for Benchmark Furniture.
+summary: An extending dining table designed for Benchmark Furniture.
 ---
 
 _900mm wide x 1800mm long (extending to 2400mm) x 740mm high (35&frac12;&rdquo; x  77&frac34;&rdquo; (94&frac12;&rdquo;) x 29&rdquo;)_  

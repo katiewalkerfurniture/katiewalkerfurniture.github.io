@@ -10,7 +10,7 @@ type:
   - buy
 retailer:
 exhibitions:
-collections: A Beam console was purchased by <a href="//brightonmuseums.org.uk/hove" alt="Hove Museum and Art Gallery">Hove Museum and Art Gallery</a> for the South East Art & Craft collection.
+collections: A Beam console was purchased by <a href="//brightonmuseums.org.uk/discover/collections/decorative-art/" alt="Hove Museum and Art Gallery">Hove Museum and Art Gallery</a> for the South East Art & Craft collection.
 order: 40
 menus:
   - work
@@ -23,7 +23,9 @@ stripimage: //images.quru.com/image?src=/kwf/KWFBeamConsole2012.jpg&top=0.18438&
 summary: A side table or console in solid European oak with a white lacquer finish. The drawer bottom is cedar.
 storeprice: 
   - type: 
-    cost: 2925
+    cost: 4490
+stock: 0
+stockdate: April 2021
 houzzcategory: Console Tables
 ---
 _1345mm long x 470mm wide x 850mm high. (53” x 18&frac12;” x 33&frac12;”)_
