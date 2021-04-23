@@ -27,7 +27,7 @@ Katie Walker has designed and developed a number of pieces for others in the fur
 
 ## Commissions ##
 
-The creation of bespoke pieces represents a significant part of my work. Since my first commission from English Heritage for the ‘Totem bench’ in London’s Bushy Park in 1993, numerous commissions have allowed me to combine the expressive nature of my work with the discipline of resolving highly varied, personal and often very particular requirements.
+The creation of bespoke pieces represents a significant part of the Katie Walker Furniture folio. Since the first commission from English Heritage for the ‘Totem bench’ in London’s Bushy Park in 1993, numerous commissions have combined an expressive style with the discipline of resolving highly varied, personal and often very particular requirements. The following are some of the pieces with stories to tell...
 
   <div class="grid clearfix">
     {% assign contents = site.furniture | sort:'design-date' | reverse %}{% for post in contents %}{% if post.publish != false %}{% if post.title != "Furniture" %}{% if post.type contains "commission" %}

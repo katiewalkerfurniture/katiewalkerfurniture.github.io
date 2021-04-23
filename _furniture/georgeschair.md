@@ -24,7 +24,7 @@ otherimages:
   - //images.quru.com/image?src=kwf/KWFGeorgesChair/GeorgesChairGroup.jpg&left=0.05
   - //images.quru.com/image?src=kwf/KWFGeorgesChair/GeorgesChairThree.jpg
   
-summary: An upholstered dining chair in ash, walnut and other materials, designed to accompany George's high chair.
+summary: An upholstered dining chair, designed to accompany George's high chair.
 storeprice:
 houzzcategory: Dining Chairs
 ---

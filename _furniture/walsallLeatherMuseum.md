@@ -17,8 +17,9 @@ menus:
 design-date: 1998-07-01
 social: Walsall Leather Museum
 awards:
-thumbnail: //images.quru.com/image?src=/kwf/KWF_Walsall_chair.tif&format=jpeg&width=170&height=170&fill=auto
-headimage: //images.quru.com/image?src=/kwf/KWF_Walsall_chair.tif&format=jpeg
+summary: Entrance seating.
+thumbnail: //images.quru.com/image?src=/kwf/commissions/KWF_Walsall_chair.tif&format=jpeg&width=170&height=170&fill=auto
+headimage: //images.quru.com/image?src=/kwf/commissions/KWF_Walsall_chair.tif&format=jpeg
 otherimages:
 ---
 

@@ -14,7 +14,7 @@ menus:
   - work
   - toCommission
 design-date: 1994-01-01
-summary:
+summary: Designed to be carried up twisting stairs and out through a window
 thumbnail: //images.quru.com/image?src=/kwf/commissions/KWFKensingtonBench.tif&bottom=0.87813&top=0.20313&left=0.0137&format=jpeg
 headimage: //images.quru.com/image?src=/kwf/commissions/KWFKensingtonBench.tif&left=0.03&format=jpeg
 stripimage: //images.quru.com/image?src=/kwf/commissions/KWFKensingtonBench.tif&left=0.013&bottom=0.62813&top=0.34&format=jpeg
@@ -23,4 +23,4 @@ otherimages:
 
 ---
 
-Terrace seating and table in oak and stainless steel. Designed to be carried up twisting stairs and out through a window.
+Terrace seating and table in oak and stainless steel. This piece is sited on a town house terrace that is accessed off a stairway and through a window so the design threads together in a bead like way with the oak elements being locked in position with stainless steel tie rods and spacers enabling it to be errected on site.

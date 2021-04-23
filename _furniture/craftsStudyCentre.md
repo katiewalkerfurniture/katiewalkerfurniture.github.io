@@ -17,7 +17,7 @@ menus:
 design-date: 2000-01-01
 social: Crafts Study Centre reception desk and display
 awards:
-
+summary: Reception desk, shelving and display for the Crafts Study Centre, Farnham
 thumbnail: //images.quru.com/image?src=/kwf/Farnham%20display%20case.tif&width=170&height=170&bottom=0.86875&top=0.25625&format=jpeg
 headimage: //images.quru.com/image?src=/kwf/Farnham%20display%20case.tif&format=jpeg
 otherimages:
