@@ -29,17 +29,15 @@ otherimages:
   - //images.quru.com/image?src=kwf/KWFEliza/KWF%20Eliza%20Table%20wood%20on%20blue%20undressed.jpg&right=0.94063&left=0.08125&icc=srgb&strip=0&icc=srgb&strip=0
   -  //images.quru.com/image?src=kwf/KWFEliza/Eliza%20round%20dining%20table%201.jpg&right=0.91563&left=0.06875&icc=srgb&strip=0
 storeprice:
-  - type: Ash 1200mm dia
-    cost: 1992
-  - type: Ash 1500mm dia
-    cost: 2352
+  - type: Ash top 1200mm dia
+    cost: 2940
+  - type: Glass top 1200mm dia
+    cost: 3390
 houzzcategory: Dining Tables
 ---
-_1200mm dia x 730mm high (47&frac14;” dia x 28&frac34;”) seats 6_  
-_1500mm dia x 730mm high (59” dia x 28&frac34;”) seats 8_
+_1200mm dia x 730mm high (47&frac14;” dia x 28&frac34;”)_
 
-
-A round or circular dining table in ash with a white oil finish, walnut with a clear oil finish or oak with either a white or clear oil finish.
+A round or circular dining table in ash with a natural oil finish, with either a solid wood or a glass top.
 
 Other finishes are available on request.
 
