@@ -2,7 +2,7 @@
 layout: work
 title: Hoop chair
 description: A lounge chair made with a plywood formed seat upholstered with 100% natural materials, covered in a wool Boucle from Bute Fabrics on a light, sustainable, hand-crafted ash wood frame.
-date: 2021-05-28
+date: 2021-06-24
 tags:
   - work
 type:
@@ -19,28 +19,33 @@ storeprice:
 awards:
 design-date: 2018-09-30
 summary: An upholstered lounge chair combining a sleek formed seating shell with a light ash wood frame.
-social: Ash and upholtered ply lounge chair
+social: Ash and upholstered ply lounge chair
 houzzcategory: Lounge chair
-thumbnail: //images.quru.com/image?src=kwf/KWFHoopchair/Katie%20Walker%20Furniture%20Hoop%20chair%20-%20Boucle%20single%20front.jpg&bottom=0.86875&top=0.19375&right=0.87097&width=170&height=170&strip=1
-headimage: //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+Chair+Boucle+on+blue+model.jpg&fill=auto&strip=1
+thumbnail: //images.quru.com/image?src=kwf/KWFHoopchair/sq/KWF-HoopChairBoucle-WFsq.jpg&strip=1&width=170&height=170&strip=1
+headimage: //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+Chair+Boucle+on+blue.jpg&fill=auto&strip=1
 stripimage:
 otherimages:
   - //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+Chair+Boucle+on+blue+front.jpg&fill=auto&strip=1
-  - //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+Chair+Boucle+on+blue.jpg&fill=auto&strip=1
+  - //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+Chair+Boucle+on+blue+model.jpg&fill=auto&strip=1
   - //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+Chair+Boucle+on+blue+side.jpg&fill=auto&strip=1
   - //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+Chair+Boucle+on+blue+back+34.jpg&fill=auto&strip=
-  - //images.quru.com/image?src=kwf/KWFHoopchair/Katie%20Walker%20Furniture%20Hoop%20chair%20-%20boucle%20Front.jpg&fill=auto&strip=1
-  - //images.quru.com/image?src=kwf/KWFHoopchair/Katie%20Walker%20Furniture%20Hoop%20chair%20-%20Boucle%20front%20quarter.jpg&fill=auto&strip=1
-  - //images.quru.com/image?src=kwf/KWFHoopchair/Katie%20Walker%20Furniture%20Hoop%20chair%20-%20Boucle%20back.jpg&fill=auto&strip=1
-  - //images.quru.com/image?src=kwf/KWFHoopchair/Katie+Walker+Furniture+Hoop+chair+Boucle+side.jpg&fill=auto&strip=1
+
+  - //images.quru.com/image?src=kwf/KWFHoopchair/sq/KWF-HoopChairBoucle-WBR34sq.jpg&flip=h&fill=auto&strip=1
+  - //images.quru.com/image?src=kwf/KWFHoopchair/sq/KWF-HoopChairBoucle-WFsq.jpg&fill=auto&strip=1
+  - //images.quru.com/image?src=kwf/KWFHoopchair/sq/KWF-HoopChairBoucle-WFL34sq.jpg&fill=auto&strip=1  
+  - //images.quru.com/image?src=kwf/KWFHoopchair/sq/KWF-HoopChairBoucle-WBsq.jpg&fill=auto&strip=1
+
   - //images.quru.com/image?src=/kwf/KWFHoopchair/KWF%20Hoop%20chair%20back%2034.JPG&angle=90&top=0.1&bottom=0.9&fill=auto&strip=1
-  - //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+chair+side.JPG&top=0.1&bottom=0.9&angle=90&fill=auto&strip=1
-  - //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+chair+cushion+34.JPG&top=0.1&bottom=0.9&angle=90&fill=auto&strip=1
+  - //images.quru.com/image?src=kwf/KWFHoopchair/KWF%20Hoop%20chair%20front.JPG&angle=90&top=0.1125&bottom=0.8875&fill=auto&strip=1
   - //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+chair+34.JPG&top=0.13&bottom=0.9&angle=90&fill=auto&strip=1
+  - //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+chair+side.JPG&top=0.1&bottom=0.9&angle=90&fill=auto&strip=1
+
+
   - //images.quru.com/image?src=kwf/KWFHoopchair/Katie+Walker+Furniture+Hoop+chair+-+Boucle+back+pair.jpg
   - //images.quru.com/image?src=kwf/KWFHoopchair/Katie+Walker+Furniture+Hoop+chair+-+Boucle+main.jpg
-  - //images.quru.com/image?src=kwf/KWFHoopchair/Katie+Walker+Furniture+Hoop+chair+-+boucle+single+front+quarter.jpg
-  - //images.quru.com/image?src=kwf/KWFHoopchair/Katie+Walker+Furniture+Hoop+chair+-+Boucle+single+front.jpg
+  - //images.quru.com/image?src=kwf/KWFHoopchair/Katie%20Walker%20Furniture%20Hoop%20chair%20-%20Boucle%20single%20front.jpg&bottom=0.86875&top=0.19375&right=0.87097&strip=1
+  - //images.quru.com/image?src=kwf/KWFHoopchair/KWF-HoopChairBoucle-WSet.jpg
+
 style: ash & taup
 ---
 _905mm wide x 835mm deep x 1080mm high (35&#8531;&rdquo; x 32&frac12;&rdquo; x 42&frac14;&rdquo;)_
