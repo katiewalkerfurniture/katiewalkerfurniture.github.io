@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Rietveld Love seat
-date: 2021-04-21
+date: 2021-06-28
 description: The Rietveld Love seat was designed in response to seeing his Steltman chair at the Stedelijk Museum in Amsterdam. 10% bigger than the original this makes a unique, intimate garden seat or bench.
 tags:
   - work
@@ -15,12 +15,13 @@ menus:
 order: 120
 design-date: 2019-04-01
 summary: An intimate update of Gerrit Rietveld's Steltman chair.
-thumbnail: //images.quru.com/image?src=/kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeat34.jpg&bottom=0.86563&top=0.19688&width=175&height=175
-headimage: //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeat.jpg
+thumbnail: //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WL34sq.jpg&width=175&height=175
+headimage: //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WF18sq.jpg
 otherimages:
-  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatFront.jpg
-  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatSide.jpg
-  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeat34.jpg
+  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WFsq.jpg
+  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WL34sq.jpg
+  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WF18sq2.jpg
+  
   - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatModelled.jpg
   - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatArmDetail.jpg
   - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatBackDetail.jpg
