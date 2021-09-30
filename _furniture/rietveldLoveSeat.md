@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Rietveld Love seat
-date: 2021-06-28
+date: 2021-09-30
 description: The Rietveld Love seat was designed in response to seeing his Steltman chair at the Stedelijk Museum in Amsterdam. 10% bigger than the original this makes a unique, intimate garden seat or bench.
 tags:
   - work
@@ -35,6 +35,4 @@ material: Oak
 houzzcategory: Garden Benches
 ---
 
-The Rietveld Love seat was designed in response to seeing his Steltman chair at the Stedelijk Museum in Amsterdam. When designed, it was the centenary year of the Bauhaus which was set up in 1919 and so a timely celebration to that as well - Walter Gropius invited Rietveld to exhibit there in 1923!
-
-The technical details of the Steltman chair are readily available on line but my Love Seat is actually 10% larger in all dimensions than the original. I have increased the width of the seat and linked the two ends so that they are self supporting and no longer need the addition of the rather awkward ‘stabiliser’ foot. The piece has also been adapted for outside use as well as inside, with the slatted seat and pegged joints and so is an ideal, intimate, garden bench.
+An initimate update of Gerritt Rietveld&rsquo;s Steltman chair. The Rietveld Love seat was designed in response to seeing Rietveld&rsquo;s Steltman chair at the Stedelijk Museum in Amsterdam. The proportions of the ends of the Love seat are larger than those of the original Steltman chair and by linking two together makes the structure self supporting. It has also been adapted for use outside as well as in, being made of oak, with a slatted seat and pegged joints.

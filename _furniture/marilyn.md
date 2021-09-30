@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Marilyn side table
-date: 2021-04-21
+date: 2021-09-30
 description: Side table designed so the legs flow seamlessly from the top and the structural ‘undercarriage’ provides ‘cubby hole’ style storage. Available in ash or walnut.
 tags:
   - work
@@ -29,4 +29,4 @@ houzzcategory: Console Tables
 _1125 mm x 375 mm x 850 mm high, (44&frac14;&rdquo; x 14&frac34;&rdquo; x 33&frac12;&rdquo;)_
 
 
-A side table designed so that the legs flow seamlessly from the top and the structural ‘undercarriage’ provides ‘cubby hole’ style storage. Available in ash or walnut.
+A contemporary side table in walnut or ash and birch. The Marilyn side table was designed so that the laminated legs flow seamlessly from the top, separated by two laminated parts and a linking laminated undercarriage. The piece was originally designed as a side table for a hallway where the ‘undercarriage’ provides ‘cubby hole’ style storage to stow away post etc. underneath with a display surface above.
