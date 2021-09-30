@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Windsor rocker
-date: 2021-04-21
+date: 2021-09-30
 description: A contemporary wooden rocking chair developed from traditional Windsor chair making. Made in the UK from local sustainable wood finished with natural oil. Wood Awards winner.
 
 tags:
@@ -10,7 +10,6 @@ tags:
 type:
   - buy
 retailer:
-  - burford garden company
   - VSOP
 menus:
   - work
@@ -59,9 +58,7 @@ houzzcategory: Rocking Chairs
 ---
 _720mm wide x 1020mm deep x 810mm high (28&frac14;” x 40&frac14;” x 32”)_
 
-The Windsor rocker is a contemporary wooden rocking chair with its roots firmly planted in the traditions of Windsor chair making. The band which forms the rocker and the chair’s frame stretches the limitations of the process of steam bending whilst giving the chair its unique form. As collectible as it is comfortable, it is beautifully hand crafted in the UK from locally sourced sustainable wood and finished with a natural oil.
-
-Bespoke finishing options are available on request.
+The Windsor rocker is a contemporary wooden rocking chair with its roots firmly planted in the traditions of Windsor chair making. Derived from the Ribbon rocking chair it is both inspired by and extends the possibilities of these traditional chair making techniques. The band which forms the rocker and the chair's frame stretches the limitations of the process of steam bending whilst giving the chair its unique form. The twenty five spindles flare out from the carved solid seat to the band such that their opposing angles produce an extremely rigid but light form. It is a truly contemporary chair but it echoes the original wheelwright's craft from which the Windsor chair is derived. As collectible as it is comfortable, it is beautifully hand crafted in the UK from locally sourced sustainable wood and finished with a natural oil.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sqwQ6wEk1g4" title="Windsor Rocker video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="padding-top:2rem; padding-bottom:2rem;"></iframe>
 

@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Beam bench
-date: 2021-04-06
+date: 2021-09-30
 description: Bench style seating in ash or walnut with a natural wax/oil finish, stainless steel fittings and rescued leather cover by Elvis & Kresse. Ideal for the modern home.
 tags:
   - work
@@ -13,6 +13,7 @@ retailer:
   - new art centre
   - elvis & kresse
   - matthew burt
+  - jaggedart
 menus:
   - work
   - toBuy
@@ -57,7 +58,7 @@ Other woods, sizes and finishes can be made to order.
 
 This piece was awarded The Furniture Makers’ Company, Bespoke Guild Mark no. 250.
 
-Beam Bench is inspired by traditional cross-legged tables, blending Japanese style self-locking joints with curved legs. Originally conceived for gallery seating, Beam Bench is sized for a domestic setting – hallway seating and at the foot of the bed are popular positions. The lightness of its curves and the playfulness of the jointing are now further highlighted by the modular, rescued leather covering added by Elvis & Kresse. The leather cover is held in place by removable stainless steel tubes making it easy to change the cover, swapping colourways with the seasons.
+It part of the Beam range. Its structure relies on the central beam to both hold the inner legs and connect the inner legs with the outer legs giving it a lighter more playful feel. Originally conceived for gallery seating, Beam Bench is sized for a domestic setting – hallway seating and at the foot of the bed are popular positions. The lightness of its curves and the playfulness of the jointing are now further highlighted by the modular, rescued leather covering added by Elvis & Kresse. The leather cover is held in place by removable stainless steel tubes making it easy to change the cover, swapping colourways with the seasons.
 
 In 2005 Kresse Wesling had a chance meeting with the London Fire Brigade and a very emotional response to their damaged, decommissioned fire hose. It was too heroic and too beautiful for landfill. Somebody had to do something, and those somebodies were Elvis & Kresse (Kresse and her partner James ‘aka Elvis’ Henrit).
 

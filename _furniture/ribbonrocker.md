@@ -1,11 +1,10 @@
 ---
 layout: work
 title: Ribbon Rocking Chair
-date: 2021-04-21
+date: 2021-09-30
 description: A contemporary designer rocking chair with a wood ‘Ribbon’ forming the backrest, arms and runners, a saddle leather seat and a stainless steel connecting support framework. Winner of multiple awards.
 tags:
   - work
-  - caa
 type:
   - buy
 retailer:
@@ -58,7 +57,7 @@ houzzcategory: Rocking Chairs
 ---
 _790mm wide x 1130mm deep x 860mm high (31&rdquo; x 44&frac12;&rdquo; x 33&frac34;&rdquo;)_
 
-The Ribbon rocking chair is a contemporary rocking chair with a wood ‘Ribbon’ forming the backrest, arms and runners, a saddle leather seat and a stainless steel frame.
+The Ribbon rocking chair is a contemporary rocking chair in ash or walnut, leather and stainless steel. Inspired by a sculpture by Naum Gabo, the backrest, armrests and runners are made from one continuous piece creating a single fluid form that is light, both visually and physically. It consists of three main component parts: the laminated wood 'ribbon'; the leather covered plywood seat shell and the stainless steel rod framework which work together resulting in a rigid structure of great strength.
 
 <img class="post-title gallery_image" alt="Ribbon Rocking Chair" src="//images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=342" srcset="//images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=342 360w, //images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=770 800w,  //images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00001.png&width=1440 2x">
 
