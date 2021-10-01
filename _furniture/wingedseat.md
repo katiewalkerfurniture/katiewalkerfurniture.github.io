@@ -19,10 +19,10 @@ thumbnail: //images.quru.com/image?src=kwf/KWFWingedSeat/KWFWingedSeat.jpg&right
 headimage: //images.quru.com/image?src=kwf/KWFWingedSeat/KWFWingedSeat.jpg
 otherimages:
   - //images.quru.com/image?src=kwf/KWFWingedSeat/KWF_Winged_Seat_rear.JPG&width=175&height=175&right=0.83125&left=0.19063&top=0.03756
-  - //images.quru.com/image?src=kwf/retailers/architecturalplants/APScultpureGarden.jpg
+  - //images.quru.com/image?src=kwf/KWFWingedSeat/Winged+seat+at+AP/KWFWingedSeatAP1.jpg
+  - //images.quru.com/image?src=kwf/KWFWingedSeat/Winged+seat+at+AP/KWFWingedSeatAP2.jpg
   - //images.quru.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPWide.jpg
   - //images.quru.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPUnderTree.jpg
-  - //images.quru.com/image?src=kwf/retailers/architecturalplants/APFrontGarden.jpg
   - //images.quru.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPtall.jpg
   - //images.quru.com/image?src=kwf/KWFWingedSeat/KWF_winged_seat_end_cut.jpg
   - //images.quru.com/image?src=kwf/KWFWingedSeat/KWF_winged_seat_front_cut.jpg
@@ -46,4 +46,3 @@ The 'Winged' seat is the latest expression of a form that has been of ongoing in
 I have striven to create a new expression of this in sheet metal, a different material to that which I normally work, by exploring the nature of origami and applying its rules to the fabrication of a version in stainless steel.
 
 Developed from the ["Totem" bench](/furniture/TotemBench.html "Totem Bench"), a public commission for Bushy Park, London.  
-  
