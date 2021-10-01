@@ -10,4 +10,4 @@ headimage: //images.quru.com/image?src=kwf/retailers/VSOPShow1Announcement.jpg
 
 ---
 
-[VSOP]("//www.vsopprojects.com") is a new gallery founded by Jonathan Weiskopf in 2017.
+[VSOP](//www.vsopprojects.com) is a new gallery founded by Jonathan Weiskopf in 2017.

@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Winged seat
-date: 2021-08-24
+date: 2021-10-01
 description: Sculpture that you can sit on. A limited edition stainless steel bench developed from an earlier commission in Bushy Park, London.
 tags:
   - work
@@ -32,10 +32,18 @@ storeprice:
     cost: 14400
 houzzcategory: Garden Benches
 ---
-_2000mm wide x 100mm high. (79&rdquo; x 39&frac12;&rdquo;)_
+_2000mm wide x 100mm high x 870mm deep. (79&rdquo; x 39&frac12;&rdquo; x 34&frac14;&rdquo;)_  
+_125Kg complete but breaks into 3 sections_
 
 In brushed and polished stainless steel.
 
-This was developed from the ["Totem" bench](/furniture/TotemBench.html "Totem Bench"), a public commission for Bushy Park, London.
-
 A limited edition of 10.
+
+## Artists Statement
+
+The 'Winged' seat is the latest expression of a form that has been of ongoing interest, that of a cantelevered structure comprising three parts - two 'wings' and a central column. The wings rising to give the piece movement whilst the column is firmly rooted to the ground.
+
+I have striven to create a new expression of this in sheet metal, a different material to that which I normally work, by exploring the nature of origami and applying its rules to the fabrication of a version in stainless steel.
+
+Developed from the ["Totem" bench](/furniture/TotemBench.html "Totem Bench"), a public commission for Bushy Park, London.  
+  
