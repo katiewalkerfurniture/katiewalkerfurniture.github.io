@@ -22,7 +22,7 @@ headimage: //images.quru.com/image?src=kwf/A-X+Bench+Scan.tiff
 otherimages:
 ---
 
-A one off bench in oak designed for a London terrace. The asymetrical form was created by suspending the interlocking backrest and seat slats between two frames - an A and an X. The slats moving in steps from one frame to the other. 
+A one off bench in oak designed for a London terrace. The asymetrical form was created by suspending the interlocking backrest and seat slats between two frames - an A and an X. The slats moving in steps from one frame to the other.
 
 Made from FSC sourced English oak in 1995.
 

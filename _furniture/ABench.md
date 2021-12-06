@@ -33,6 +33,7 @@ otherimages:
   - //images.quru.com/image?src=kwf/KWFABench/KWF_ABench_FL34_sq.jpg&left=0.1875&top=0.15&right=0.875&bottom=0.8375
 
 ---
+_1955mm long x 1255mm high x 645mm deep (77&rdquo; x 49&frac12;&rdquo; x 25&frac12;&rdquo;)_
 
 &ldquo;A&rdquo; Bench, outdoor seating for four constructed in FSC sourced European oak and finished in hard wax oil.
 
