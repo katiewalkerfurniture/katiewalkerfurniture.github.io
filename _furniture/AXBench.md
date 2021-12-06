@@ -22,8 +22,8 @@ headimage: //images.quru.com/image?src=kwf/A-X+Bench+Scan.tiff
 otherimages:
 ---
 
-A-X Bench, a commission for outdoor seating constructed in English oak, 1995
+A one off bench in oak designed for a London terrace. The asymetrical form was created by suspending the interlocking backrest and seat slats between two frames - an A and an X. The slats moving in steps from one frame to the other. 
 
-This piece was later developed into one of the first pieces in the Katie Walker furniture range. The A-X bench is a simplified version of the one-off concept.
+Made from FSC sourced English oak in 1995.
 
-Fun with celebs at a flower show pic.
+This design evolved and became one of the first pieces in the Katie Walker Furniture collection. It has now been developed further and become simply ‘A’ bench which is available to order.

@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Weight and See mirror
-date: 2021-10-01
+date: 2021-12-06
 description: Playful contemporary take on the traditional freestanding full length wooden cheval mirror. Moving a highly polished stainless steel ball to change the mirrors angle to show you at full height. 
 tags:
   - work
@@ -20,10 +20,10 @@ order: 10
 design-date: 2002-01-01
 variants:
   - material: ash
-    price: 1290
+    price: 1365
   - material: walnut
-    price: 1290
-stock: 3
+    price: 1365
+stock: 6
 stockdate: January 2015
 social: Weight and see mirror
 storeitem: true
@@ -35,9 +35,9 @@ storeimage: //images.quru.com/image?src=/kwf/KWFWeightAndSee2012White.jpg&height
 storecondition: new
 storeprice:
   - type: Ash
-    cost: 1290
+    cost: 1365
   - type: Walnut
-    cost: 1290
+    cost: 1365
   - type: UK shipping
     cost: 125
 mpn: W&S02000SF17

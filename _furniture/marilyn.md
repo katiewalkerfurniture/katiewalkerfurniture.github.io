@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Marilyn side table
-date: 2021-09-30
+date: 2021-12-06
 description: Side table designed so the legs flow seamlessly from the top and the structural ‘undercarriage’ provides ‘cubby hole’ style storage. Available in ash or walnut.
 tags:
   - work
@@ -12,6 +12,9 @@ exhibitions:
 collections:
 order: 180
 stock: 0
+storeprice:
+  - type:
+    cost: 3630
 menus:
   - work
   - toBuy

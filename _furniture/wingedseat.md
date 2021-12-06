@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Winged seat
-date: 2021-10-01
+date: 2021-12-06
 description: Sculpture that you can sit on. A limited edition stainless steel bench developed from an earlier commission in Bushy Park, London.
 tags:
   - work
@@ -29,7 +29,7 @@ otherimages:
   - //images.quru.com/image?src=kwf/KWFWingedSeat/KWF_winged_seat_rear_cut.jpg
 storeprice: 
   - type: 
-    cost: 14400
+    cost: POA
 houzzcategory: Garden Benches
 ---
 _2000mm wide x 100mm high x 870mm deep. (79&rdquo; x 39&frac12;&rdquo; x 34&frac14;&rdquo;)_  

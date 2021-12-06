@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Rietveld Love seat
-date: 2021-09-30
+date: 2021-12-06
 description: The Rietveld Love seat was designed in response to seeing his Steltman chair at the Stedelijk Museum in Amsterdam. 10% bigger than the original this makes a unique, intimate garden seat or bench.
 tags:
   - work
@@ -29,7 +29,7 @@ otherimages:
   - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatAtNewArtCentre.jpg
 storeprice:
   - type: Oak
-    cost: 6000
+    cost: 5040
 colour: Oak/Tan
 material: Oak
 houzzcategory: Garden Benches

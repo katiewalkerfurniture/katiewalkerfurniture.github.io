@@ -2,7 +2,7 @@
 layout: work
 title: Hoop chair
 description: A lounge chair made with a plywood formed seat upholstered with 100% natural materials, covered in a wool Boucle from Bute Fabrics on a light, sustainable, hand-crafted ash wood frame.
-date: 2021-09-30
+date: 2021-12-06
 tags:
   - work
 type:
@@ -16,7 +16,7 @@ order: 30
 stock: 1
 storeprice:
   - type:
-    cost: 4,956
+    cost: 5040
 awards:
 design-date: 2018-09-30
 summary: An upholstered lounge chair combining a sleek formed seating shell with a light ash wood frame.
