@@ -20,22 +20,7 @@ A friend had introduced Katie to the joys of Windsor chair making and from that 
 <h2>Between 2012 and 2020</h2>
 <!-- During that time Katie Walker Furniture: -->
 
- <!-- <div class="cell_front">
-    <center>
-      <a href="/furniture/windsorrocker.html">
-        <img src="///images.quru.com/image?src=kwf/KWFWindsorRocker/KWF+Winsor+Rocker+in+white+ash+F14+White.jpg;height=350" alt="Windsor rocker" border="0" />
-      </a>
-    </center>
-  </div> -->
 <div class="retailers">
-
-<!-- <img src="http://images-container.wsx.quru.com/image?src=kwf/KWFWindsorRocker/Windsor%20rocker%20and%20stool%20in%20Heals.JPG&angle=90&top=0.30312&left=0.07083&width=360"
-srcset="http://images-container.wsx.quru.com/image?src=kwf/KWFWindsorRocker/Windsor%20rocker%20and%20stool%20in%20Heals.JPG&angle=90&top=0.30312&left=0.07083&width=480&height=0 480w,
-http://images-container.wsx.quru.com/image?src=kwf/KWFWindsorRocker/Windsor%20rocker%20and%20stool%20in%20Heals.JPG&angle=90&top=0.30312&left=0.07083&width=800&height=0 800w,
-http://images-container.wsx.quru.com/image?src=kwf/KWFWindsorRocker/Windsor%20rocker%20and%20stool%20in%20Heals.JPG&angle=90&top=0.30312&left=0.07083&width=1200&height=0 1200w"
-sizes="100vw">
-
-src="//images.quru.com/image?src=kwf/KWFWindsorRocker/KWF+Winsor+Rocker+in+white+ash+F14+White.jpg&amp;top=0.1&amp;bottom=0.95&amp;width=360" srcset="//images.quru.com/image?src=kwf/KWFWindsorRocker/KWF+Winsor+Rocker+in+white+ash+F14+White.jpg&amp;top=0.1&amp;bottom=0.95&amp;width=342 360w, //images.quru.com/image?src=kwf/KWFWindsorRocker/KWF+Winsor+Rocker+in+white+ash+F14+White.jpg&amp;top=0.1&amp;bottom=0.95&amp;width=770 800w,  //images.quru.com/image?src=kwf/KWFWindsorRocker/KWF+Winsor+Rocker+in+white+ash+F14+White.jpg&amp;top=0.1&amp;bottom=0.95&amp;width=1440 2x" / -->
 
 <div class="split left"><a href="/furniture/windsorrocker.html"><img  alt="Windsor Rocker" src="http://images.quru.com/image?src=kwf/KWFWindsorRocker/Windsor%20rocker%20and%20stool%20in%20Heals.JPG&angle=90&top=0.30312&left=0.07083&width=360"
 srcset="http://images.quru.com/image?src=kwf/KWFWindsorRocker/Windsor%20rocker%20and%20stool%20in%20Heals.JPG&angle=90&top=0.30312&left=0.07083&width=480&height=0 480w,
