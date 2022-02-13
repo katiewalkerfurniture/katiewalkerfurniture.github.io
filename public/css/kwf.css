@@ -346,6 +346,31 @@ img.top {
 
 /* RETAILERS */
 
+.split {
+	z-index: 1;
+	top: 0;
+	overflow-x: hidden;
+	padding-top: 20px;
+	max-width: 370px;
+	display: inline-block;
+}
+
+.split img {
+	max-width: 100%;
+}
+
+/* Control the left side */
+.split.left {
+	left: 0;
+}
+
+/* Control the right side */
+.split.right {
+	float: right;
+	clear: both;
+}
+
+
 .retailers {
 	clear: both;
 }
@@ -733,7 +758,12 @@ a#show_nav {
         margin: 0.3rem 0 1rem 0;
     }
 
-    
+    .split.right {
+    	left: 0;
+    	clear: both;
+		float: none;
+    }
+
 	.footer {
 		width: 93%;
 		position: fixed;
