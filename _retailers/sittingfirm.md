@@ -13,7 +13,7 @@ headimage: //images.quru.com/image?src=kwf/retailers/sittingfirm/SittingFirmaeri
 <h1 class="post-title">{{ page.title }}</h1>
 
 
-Katie visited Sitting Firm Chairmakers Ltd. in 2012. It was then that she first met Dave Green and hatched a plan to take the Windsor rocker forward to batch production launching with its first retailer - Heals in Tottenham Court Road, London. 
+Katie Walker visited Sitting Firm Chairmakers Ltd. in 2012. It was then that she first met Dave Green and hatched a plan to take the Windsor rocker forward to batch production launching with its first retailer - Heals in Tottenham Court Road, London. 
 
 A friend had introduced Katie to the joys of Windsor chair making and from that the idea of the Windsor rocker was born. From those initial days she was hooked on this very honest, timeless method of construction and working with Dave over the next 7 years cemented that passion. 
 
