@@ -22,7 +22,7 @@ design-date: 1998-01-01
 social: Marilyn side table
 awards:
   - Worshipful Company of Furniture Makers, Bespoke Guild Mark no. 366
-thumbnail: //images.quru.com/image?src=/kwf/KWFMarilyn2012.jpg&width=170&height=170&right=0.88125&left=0.11875
+thumbnail: //images.quru.com/image?src=/kwf/KWFMarilyn2012.jpg&width=175&height=175&right=0.88125&left=0.11875
 headimage: //images.quru.com/image?src=/kwf/KWFMarilyn2012.jpg
 otherimages:
   - //images.quru.com/image?src=kwf/KWFMarilyn/KWF%20Marilyn.jpg&top=0.09333&bottom=0.99556&right=0.8375&left=0.05313

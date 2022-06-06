@@ -19,7 +19,7 @@ price: 720
 design-date: 2016-05-01
 awards:
 summary: A dining chair available in ash with a white oil finish. Part of the Eliza range.
-thumbnail: //images.quru.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-WL34.jpg&width=170
+thumbnail: //images.quru.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-WL34.jpg&width=175
 headimage: //images.quru.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-LBL34.jpg
 otherimages:
   - //images.quru.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-WF.jpg&icc=srgb&strip=0

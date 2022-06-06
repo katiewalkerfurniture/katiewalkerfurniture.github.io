@@ -20,7 +20,7 @@ menus:
 date: 2021-10-01
 social: “A” Bench
 awards:
-thumbnail: //images.quru.com/image?src=kwf/KWFABench/KWF_ABench_FL34_sq.jpg&left=0.1875&top=0.15&right=0.875&bottom=0.8375&width=170&height=170&fill=auto
+thumbnail: //images.quru.com/image?src=kwf/KWFABench/KWF_ABench_FL34_sq.jpg&left=0.1875&top=0.15&right=0.875&bottom=0.8375&width=175&height=175&fill=auto
 headimage: //images.quru.com/image?src=kwf/KWFABench/KWF_ABench_sq.jpg
 otherimages: 
   - //images.quru.com/image?src=kwf/KWFABench/KWF_ABench_F_sq.jpg&left=0.15937&top=0.0875&right=0.93438&bottom=0.8625

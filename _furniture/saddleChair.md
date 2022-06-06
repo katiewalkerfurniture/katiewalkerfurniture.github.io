@@ -18,7 +18,7 @@ design-date: 1993-01-01
 summary: Saddle chairs produced for a number of commissions
 social: Saddle chairs in lime green and mauve Nubuck on a sycamore frame
 awards:
-thumbnail: //images.quru.com/image?src=kwf/KWFSaddleChair/sq/KWF-SaddleChair-WPairSq.jpg&width=170&height=170
+thumbnail: //images.quru.com/image?src=kwf/KWFSaddleChair/sq/KWF-SaddleChair-WPairSq.jpg&width=175&height=175
 headimage: //images.quru.com/image?src=kwf/KWFSaddleChair/sq/KWF-SaddleChair-WPairSq.jpg
 otherimages:
   - //images.quru.com/image?src=kwf/KWFSaddleChair/sq/KWF-SaddleChair-WL18sq.jpg

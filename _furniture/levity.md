@@ -37,4 +37,4 @@ The table also explores the idea of two interlocking parts. In this design two a
 
 *‘Levity expresses a new lightness of touch. Lyrical, elegant yet immensely practical.’* Simon Burvill
 
-<img alt="RHS Finalist" src="//images.quru.com/image?src=kwf/GazeBurvill/CGPotY%20tag%20-%20Finalist.png&width=170" width="170" style="padding: 2rem 0 2rem 0;"/>
+<img alt="RHS Finalist" src="//images.quru.com/image?src=kwf/GazeBurvill/CGPotY%20tag%20-%20Finalist.png&width=175" width="170" style="padding: 2rem 0 2rem 0;"/>

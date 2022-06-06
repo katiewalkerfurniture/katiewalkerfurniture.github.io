@@ -17,7 +17,7 @@ menus:
 date: 2002-01-01
 social: Furniture for St. Nicholas Church
 awards:
-thumbnail: http://images.quru.com/image?src=/kwf/KWFMarilyn2012.jpg&width=170&height=170&right=0.88125&left=0.11875
+thumbnail: http://images.quru.com/image?src=/kwf/KWFMarilyn2012.jpg&width=175&height=175&right=0.88125&left=0.11875
 headimage: http://images.quru.com/image?src=/kwf/KWFMarilyn2012.jpg
 otherimages:
   - http://images.quru.com/image?src=/kwf/KWFMarilyn.jpg

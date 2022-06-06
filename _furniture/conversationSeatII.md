@@ -17,7 +17,7 @@ menus:
 date: 2011-01-01
 social: Conversation seat II
 awards:
-thumbnail: //images.quru.com/image?src=/kwf/KWFConversationSeatII.jpg&width=170&height=170&fill=auto&top=0.075&bottom=0.95938
+thumbnail: //images.quru.com/image?src=/kwf/KWFConversationSeatII.jpg&width=175&height=175&fill=auto&top=0.075&bottom=0.95938
 headimage: //images.quru.com/image?src=kwf/KWFConversationSeatII/Conversation%20seat%20II%20d.jpg&icc=srgb&strip=0
 otherimages:
   - //images.quru.com/image?src=kwf/KWFConversationSeatII/Conversation%20seat%20II%20c.jpg&icc=srgb&strip=0

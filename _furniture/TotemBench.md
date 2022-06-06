@@ -18,7 +18,7 @@ design-date: 1992-07-01
 social: Public seating commissioned by National Heritage
 awards:
 
-thumbnail: //images.quru.com/image?src=/kwf/Totem+Bench/Totem_Bench.jpg&right=0.90938&left=0.23438&height=170
+thumbnail: //images.quru.com/image?src=/kwf/Totem+Bench/Totem_Bench.jpg&right=0.90938&left=0.23438&height=175
 headimage: //images.quru.com/image?src=/kwf/Totem+Bench/Totem_Bench.jpg
 otherimages:
   - //images.quru.com/image?src=/kwf/Totem+Bench/Totem_seat_rear_view.jpg&

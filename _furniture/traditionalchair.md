@@ -18,7 +18,7 @@ price:
 design-date: 2015-01-01
 awards:
 summary: A traditional chair available in ash with a white oil finish, walnut with a clear oil finish or oak with either a white or a clear oil finish.
-thumbnail: //images.quru.com/image?src=kwf/KWFTraditionalChair.jpg&bottom=0.80625&top=0.14063&width=170
+thumbnail: //images.quru.com/image?src=kwf/KWFTraditionalChair.jpg&bottom=0.80625&top=0.14063&width=175
 headimage: //images.quru.com/image?src=kwf/KWFTraditionalChair.jpg
 otherimages:
   - //images.quru.com/image?src=/kwf/KWFTraditionalChair/Eliza+dining+chair+1.jpg&bottom=0.9625&top=0.0625&icc=srgb&strip=0

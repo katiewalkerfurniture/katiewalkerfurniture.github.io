@@ -19,7 +19,7 @@ menus:
 design-date: 1996-01-01
 social: Princes Trust Boardroom
 awards:
-thumbnail: //images.quru.com/image?src=/kwf/PYBTBoardRoom.jpg&width=170&height=170
+thumbnail: //images.quru.com/image?src=/kwf/PYBTBoardRoom.jpg&width=175&height=175
 headimage: //images.quru.com/image?src=/kwf/PYBTBoardRoom.jpg
 otherimages:
 

@@ -17,7 +17,7 @@ menus:
 date: 1998-01-01
 social: A-X Bench
 awards:
-thumbnail: //images.quru.com/image?src=kwf/A-X+Bench+Scan.tiff&width=170&height=170&fill=auto
+thumbnail: //images.quru.com/image?src=kwf/A-X+Bench+Scan.tiff&width=175&height=175&fill=auto
 headimage: //images.quru.com/image?src=kwf/A-X+Bench+Scan.tiff
 otherimages:
 ---

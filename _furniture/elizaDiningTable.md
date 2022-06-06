@@ -17,7 +17,7 @@ order: 94
 design-date: 2016-01-01
 summary: The Eliza dining table takes traditional Windsor craftsmanship and serves it with a twist giving the piece a lighter fresh contemporary feel.
 stock: 1
-thumbnail: //images.quru.com/image?src=kwf/KWFElizaDiningTable/sq/KWF-ElizaDiningTable-WF34.jpg&strip=0&icc=srgb&width=170
+thumbnail: //images.quru.com/image?src=kwf/KWFElizaDiningTable/sq/KWF-ElizaDiningTable-WF34.jpg&strip=0&icc=srgb&width=175
 headimage: //images.quru.com/image?src=kwf/KWFEliza/KWF%20Eliza%20table%20wood%20on%20blue%203.jpg&bottom=0.90313&top=0.2125&icc=srgb&strip=0
 otherimages:
   - //images.quru.com/image?src=kwf/KWFEliza/KWF%20Eliza%20Table%20Glass%20on%20blue%20front.jpg&bottom=0.85625&top=0.1875&icc=srgb&strip=0

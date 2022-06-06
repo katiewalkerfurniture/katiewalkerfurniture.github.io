@@ -17,7 +17,7 @@ menus:
 design-date: 1998-01-01
 social: oak and steel public seating for Allied London Properties
 awards:
-thumbnail: //images.quru.com/image?src=/kwf/St%20Albans%20Bench%20Conc.tif&format=jpeg&width=170&height=170&right=0.59062&left=0.10625&bottom=0.87317&top=0.11707
+thumbnail: //images.quru.com/image?src=/kwf/St%20Albans%20Bench%20Conc.tif&format=jpeg&width=175&height=175&right=0.59062&left=0.10625&bottom=0.87317&top=0.11707
 headimage: //images.quru.com/image?src=/kwf/St+Albans+bench+group.tif&format=jpeg
 otherimages:
   - //images.quru.com/image?src=/kwf/KWF%20Leatherhead%20HR.tif&format=jpeg

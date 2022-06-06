@@ -22,7 +22,7 @@ design-date: 2018-09-30
 summary: An upholstered lounge chair combining a sleek formed seating shell with a light ash wood frame.
 social: Ash and upholstered ply lounge chair
 houzzcategory: Lounge chair
-thumbnail: //images.quru.com/image?src=kwf/KWFHoopchair/sq/KWF-HoopChairBoucle-WFsq.jpg&strip=1&width=170&height=170&strip=1
+thumbnail: //images.quru.com/image?src=kwf/KWFHoopchair/sq/KWF-HoopChairBoucle-WFsq.jpg&strip=1&width=175&height=175&strip=1
 headimage: //images.quru.com/image?src=kwf/KWFHoopchair/KWF+Hoop+Chair+Boucle+on+blue.jpg&fill=auto&strip=1
 stripimage:
 otherimages:

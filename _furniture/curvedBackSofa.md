@@ -16,7 +16,7 @@ stock:
 date: 1998-01-01
 social: Curved back sofa
 awards:
-thumbnail: //images.quru.com/image?src=/kwf/KWF_Cuved_back_Sofa_2.jpg&width=170&right=0.88125&left=0.09063
+thumbnail: //images.quru.com/image?src=/kwf/KWF_Cuved_back_Sofa_2.jpg&width=175&right=0.88125&left=0.09063
 headimage: //images.quru.com/image?src=/kwf/KWF_Cuved_back_Sofa_1.jpg
 otherimages:
   - //images.quru.com/image?src=/kwf/KWF_Cuved_back_Sofa_3.jpg
