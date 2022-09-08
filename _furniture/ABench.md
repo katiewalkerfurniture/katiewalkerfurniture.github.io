@@ -3,6 +3,7 @@ layout: work
 title: “A” Bench
 date: 2021-12-06
 description: An outdoor garden bench in FSC sourced European oak seating 4 people. Finished with a hard wax oil. Sustainable designer garden furniture.
+summary: An oak bench for 4.
 tags:
   - work
 type:
@@ -17,7 +18,7 @@ order: 300
 menus:
   - work
   - toBuy
-date: 2021-10-01
+design-date: 2021-10-01
 social: “A” Bench
 awards:
 thumbnail: //images.quru.com/image?src=kwf/KWFABench/KWF_ABench_FL34_sq.jpg&left=0.1875&top=0.15&right=0.875&bottom=0.8375&width=175&height=175&fill=auto
