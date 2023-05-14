@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Windsor rocker
-date: 2021-09-30
+date: 2023-05-14
 description: A contemporary wooden rocking chair developed from traditional Windsor chair making. Made in the UK from local sustainable wood finished with natural oil. Wood Awards winner.
 
 tags:
@@ -32,11 +32,11 @@ storeimage: https://images.quru.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor
 storecondition: new
 storeprice:
   - type: Ash
-    cost: 3000
+    cost: 3600
   - type: Oak
-    cost: 3000
+    cost: 3600
   - type: Walnut
-    cost: 3000
+    cost: 3600
 mpn: WR11000SF17
 shippingcost: 35
 shippingweight: 10
