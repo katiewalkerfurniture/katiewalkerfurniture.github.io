@@ -24,12 +24,12 @@ Created: 08Aug2014
 
 body {
 	padding: 5px 15px 15px;
-	font: 300 15px/22px "Open Sans", "Verdana", "Droid Sans", sans-serif;
+	font: 300 15px/28px "Open Sans", "Verdana", "Droid Sans", sans-serif;
 	max-width: 770px;
 	/*margin-top: 2rem;*/
 	margin-right: auto;
 	margin-left: auto;
-	color: #515151;
+	color: #222;
 }
 
 .post, .work, .news {
@@ -77,7 +77,7 @@ body {
 	font: 16px 'socicon';
 	width: 17px;
 	height: 17px;
-	background-color: #808080;
+	background-color: #888;
 	display: inline-block;
 	padding: 6px;
 	text-decoration: none;
@@ -186,6 +186,16 @@ img {
 
 .actual_size img, img.actual_size {
 	width: auto;
+}
+
+div.image {
+    padding-bottom: 2em;
+}
+
+div.image span, td.image span {
+    font-size: 80%;
+    line-height: 0.5;
+    color:#888;
 }
 
 
