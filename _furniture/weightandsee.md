@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Weight and See mirror
-date: 2021-12-06
+date: 2024-03-08
 description: Playful contemporary take on the traditional freestanding full length wooden cheval mirror. Moving a highly polished stainless steel ball to change the mirrors angle to show you at full height. 
 tags:
   - work
@@ -10,7 +10,6 @@ type:
   - buy
 retailer:
   - matthew burt
-  - caa
 menus:
   - work
   - toBuy
