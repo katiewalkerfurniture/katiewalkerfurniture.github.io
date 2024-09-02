@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Beam bench
-date: 2021-09-30
+date: 2024-07-01
 description: Bench style seating in ash or walnut with a natural wax/oil finish, stainless steel fittings and rescued leather cover by Elvis & Kresse. Ideal for the modern home.
 tags:
   - work
@@ -13,7 +13,6 @@ retailer:
   - new art centre
   - elvis & kresse
   - matthew burt
-  - jaggedart
 menus:
   - work
   - toBuy

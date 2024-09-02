@@ -7,6 +7,7 @@ tags:
   - work
 type:
   - buy
+  - retailer
 retailer:
   - new art centre
 menus:

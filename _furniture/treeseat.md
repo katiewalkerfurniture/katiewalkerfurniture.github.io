@@ -1,16 +1,16 @@
 ---
 layout: work
 title: Tree Seat
-date: 2022-09-01
+date: 2024-09-02
 description: Circular tree seat, luxury outdoor seating constructed in FSC sourced European oak and finished in hard wax oil.
 summary: An oak tree seat in 3 sections
 tags:
   - work
 type:
-  - buy
-storeprice:
-  - type: Oak
-    cost: 21000
+  - commission
+<!-- storeprice: -->
+<!--   - type: Oak -->
+<!--     cost: 21000 -->
 retailer:
 exhibitions:
 collections:

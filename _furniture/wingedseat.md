@@ -1,12 +1,14 @@
 ---
 layout: work
 title: Winged seat
-date: 2021-12-06
+date: 2024-07-01
+edition: 10
 description: Sculpture that you can sit on. A limited edition stainless steel bench developed from an earlier commission in Bushy Park, London.
 tags:
   - work
 type:
   - buy
+  - retailer
 retailer:
   - new art centre
 menus:
@@ -36,8 +38,6 @@ _2000mm wide x 100mm high x 870mm deep. (79&rdquo; x 39&frac12;&rdquo; x 34&frac
 _125Kg complete but breaks into 3 sections_
 
 In brushed and polished stainless steel.
-
-A limited edition of 10.
 
 ## Artists Statement
 
