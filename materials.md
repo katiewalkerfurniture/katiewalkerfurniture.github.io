@@ -11,7 +11,7 @@ tags:
 
 ---
 
-<img class="right top actual_size" src="http://images.quru.com/image?src=kwf/Tree.JPG&angle=180&width=200">
+<img class="right top actual_size" src="http://images.cart-shed.com/image?src=kwf/Tree.JPG&angle=180&width=200">
 
 I work with a core team of dedicated craftsmen. In many cases it is only feasible to realise my design ideas by working closely with these highly skilled and specialised makers to push the boundaries of what are essentially traditional processes.
 

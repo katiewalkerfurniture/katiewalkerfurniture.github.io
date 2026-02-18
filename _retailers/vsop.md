@@ -6,7 +6,7 @@ date: 2019-02-15
 tags:
   - retailer
 thumbnail: http://static1.squarespace.com/static/57eb037febbd1a8cb0a65281/t/58a3e248ebbd1a2ce47508b5/1493178323588/?format=1500w
-headimage: //images.quru.com/image?src=kwf/retailers/VSOPShow1Announcement.jpg
+headimage: //images.cart-shed.com/image?src=kwf/retailers/VSOPShow1Announcement.jpg
 
 ---
 

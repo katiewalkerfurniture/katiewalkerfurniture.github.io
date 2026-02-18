@@ -17,9 +17,9 @@ menus:
   - toBuy
 design-date: 1996-01-01
 social: white lacquered oak console
-thumbnail: //images.quru.com/image?src=kwf/KWFBeamConsole2012.jpg&top=0.05&width=175&height=175&right=0.97&fill=auto
-headimage: //images.quru.com/image?src=kwf/KWFBeamConsole2012.jpg&left10&right=0.9&top=0.15&bottom=0.9
-stripimage: //images.quru.com/image?src=/kwf/KWFBeamConsole2012.jpg&top=0.18438&bottom=0.525&left=0.03822&right=0.94268
+thumbnail: //images.cart-shed.com/image?src=kwf/KWFBeamConsole2012.jpg&top=0.05&width=175&height=175&right=0.97&fill=auto
+headimage: //images.cart-shed.com/image?src=kwf/KWFBeamConsole2012.jpg&left10&right=0.9&top=0.15&bottom=0.9
+stripimage: //images.cart-shed.com/image?src=/kwf/KWFBeamConsole2012.jpg&top=0.18438&bottom=0.525&left=0.03822&right=0.94268
 summary: A side table or console in oak with a white lacquer finish.
 storeprice: 
   - type: 

@@ -17,18 +17,18 @@ menus:
 order: 190
 design-date: 1995-01-01
 summary: A limited edition sculptural outdoor seat in stainless steel.
-thumbnail: //images.quru.com/image?src=kwf/KWFWingedSeat/KWFWingedSeat.jpg&right=0.775&left=0.23125&bottom=0.88263&top=0.06573&width=175&height=175
-headimage: //images.quru.com/image?src=kwf/KWFWingedSeat/KWFWingedSeat.jpg
+thumbnail: //images.cart-shed.com/image?src=kwf/KWFWingedSeat/KWFWingedSeat.jpg&right=0.775&left=0.23125&bottom=0.88263&top=0.06573&width=175&height=175
+headimage: //images.cart-shed.com/image?src=kwf/KWFWingedSeat/KWFWingedSeat.jpg
 otherimages:
-  - //images.quru.com/image?src=kwf/KWFWingedSeat/KWF_Winged_Seat_rear.JPG&width=175&height=175&right=0.83125&left=0.19063&top=0.03756
-  - //images.quru.com/image?src=kwf/KWFWingedSeat/Winged+seat+at+AP/KWFWingedSeatAP1.jpg
-  - //images.quru.com/image?src=kwf/KWFWingedSeat/Winged+seat+at+AP/KWFWingedSeatAP2.jpg
-  - //images.quru.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPWide.jpg
-  - //images.quru.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPUnderTree.jpg
-  - //images.quru.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPtall.jpg
-  - //images.quru.com/image?src=kwf/KWFWingedSeat/KWF_winged_seat_end_cut.jpg
-  - //images.quru.com/image?src=kwf/KWFWingedSeat/KWF_winged_seat_front_cut.jpg
-  - //images.quru.com/image?src=kwf/KWFWingedSeat/KWF_winged_seat_rear_cut.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFWingedSeat/KWF_Winged_Seat_rear.JPG&width=175&height=175&right=0.83125&left=0.19063&top=0.03756
+  - //images.cart-shed.com/image?src=kwf/KWFWingedSeat/Winged+seat+at+AP/KWFWingedSeatAP1.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFWingedSeat/Winged+seat+at+AP/KWFWingedSeatAP2.jpg
+  - //images.cart-shed.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPWide.jpg
+  - //images.cart-shed.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPUnderTree.jpg
+  - //images.cart-shed.com/image?src=kwf/retailers/architecturalplants/WingedSeatAtAPtall.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFWingedSeat/KWF_winged_seat_end_cut.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFWingedSeat/KWF_winged_seat_front_cut.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFWingedSeat/KWF_winged_seat_rear_cut.jpg
 storeprice: 
   - type: 
     cost: POA

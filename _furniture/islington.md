@@ -15,12 +15,12 @@ menus:
 date: 1999-01-01
 
 summary:
-thumbnail: //images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg&right=0.85313&left=0.225&width=175&height=175
-headimage: //images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg
-stripimage: //images.quru.com/image?src=kwf/commissions/KWFIslingtonTable.jpg&bottom=0.68&top=0.068&autocropfit=1
+thumbnail: //images.cart-shed.com/image?src=kwf/commissions/KWFIslingtonTable.jpg&right=0.85313&left=0.225&width=175&height=175
+headimage: //images.cart-shed.com/image?src=kwf/commissions/KWFIslingtonTable.jpg
+stripimage: //images.cart-shed.com/image?src=kwf/commissions/KWFIslingtonTable.jpg&bottom=0.68&top=0.068&autocropfit=1
 otherimages:
-  - //images.quru.com/image?src=kwf/commissions/KWFIslingtonchair.tif
-  - //images.quru.com/image?src=kwf/commissions/KWFIslingtonTableLegs.tif
+  - //images.cart-shed.com/image?src=kwf/commissions/KWFIslingtonchair.tif
+  - //images.cart-shed.com/image?src=kwf/commissions/KWFIslingtonTableLegs.tif
 
 style: green
 ---

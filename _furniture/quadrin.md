@@ -14,13 +14,13 @@ menus:
 date: 2014-01-01
 order: 300
 summary: The Quadrin table and chair were designed exclusively for Heal's Designer Collaboration series.
-thumbnail: //images.quru.com/image?src=kwf/Quadrin/Quadrin%20Table%20and%20Chairs.jpg&width=150&height=150&right=0.77813&bottom=0.9125&left=0.04688&top=0.18125
-headimage: //images.quru.com/image?src=kwf/Quadrin/Quadrin%20Table%20and%20Chairs.jpg&top=0.05625&bottom=0.91563
+thumbnail: //images.cart-shed.com/image?src=kwf/Quadrin/Quadrin%20Table%20and%20Chairs.jpg&width=150&height=150&right=0.77813&bottom=0.9125&left=0.04688&top=0.18125
+headimage: //images.cart-shed.com/image?src=kwf/Quadrin/Quadrin%20Table%20and%20Chairs.jpg&top=0.05625&bottom=0.91563
 otherimages:
-  - //images.quru.com/image?src=kwf/Quadrin/Quadrin%20Ballanca%20cards.pdf&format=jpg
-  - //images.quru.com/image?src=kwf/Quadrin/Quadrin+Chair+back+.jpg
-  - //images.quru.com/image?src=kwf/Quadrin/Quadrin+Chair.jpg
-  - //images.quru.com/image?src=kwf/Quadrin/Quadrin+Table.jpg
+  - //images.cart-shed.com/image?src=kwf/Quadrin/Quadrin%20Ballanca%20cards.pdf&format=jpg
+  - //images.cart-shed.com/image?src=kwf/Quadrin/Quadrin+Chair+back+.jpg
+  - //images.cart-shed.com/image?src=kwf/Quadrin/Quadrin+Chair.jpg
+  - //images.cart-shed.com/image?src=kwf/Quadrin/Quadrin+Table.jpg
 houzzcategory: Dining Table Sets
 ---
 

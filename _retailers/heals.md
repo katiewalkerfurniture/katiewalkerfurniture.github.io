@@ -8,7 +8,7 @@ menus:
   - links
 summary: 196 Tottenham Court Road<br/>London<br/><br/>and nationwide<br/><br/>0207 896 7451
 thumbnail: /public/images/heals.png
-headimage: //images.quru.com/image?src=/kwf/heals.jpg&height=350&fill=%23ffffff&strip=1
+headimage: //images.cart-shed.com/image?src=/kwf/heals.jpg&height=350&fill=%23ffffff&strip=1
 ---
 
 Heals is well known as a household department store with it's flagship on London's Tottenham Court Road.

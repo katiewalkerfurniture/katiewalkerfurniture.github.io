@@ -19,16 +19,16 @@ price: 720
 design-date: 2016-05-01
 awards:
 summary: A dining chair available in ash with a white oil finish. Part of the Eliza range.
-thumbnail: //images.quru.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-WL34.jpg&width=175
-headimage: //images.quru.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-LBL34.jpg
+thumbnail: //images.cart-shed.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-WL34.jpg&width=175
+headimage: //images.cart-shed.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-LBL34.jpg
 otherimages:
-  - //images.quru.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-WF.jpg&icc=srgb&strip=0
-  - //images.quru.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-WL34.jpg&icc=srgb&strip=0
-  - //images.quru.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-WS.jpg&icc=srgb&strip=0
-  - //images.quru.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-WB34.jpg&icc=srgb&strip=0
-  - //images.quru.com/image?src=kwf/KWFElizaDiningChair/KWF-ElizaDiningChairTable-WBL34.jpg&icc=srgb&strip=0
-  - //images.quru.com/image?src=kwf/KWFElizaDiningChair/KWF-ElizaDiningChairTable-WRS.jpg&icc=srgb&strip=0
-  - //images.quru.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChairTable-SB34.jpg&icc=srgb&strip=0
+  - //images.cart-shed.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-WF.jpg&icc=srgb&strip=0
+  - //images.cart-shed.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-WL34.jpg&icc=srgb&strip=0
+  - //images.cart-shed.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-WS.jpg&icc=srgb&strip=0
+  - //images.cart-shed.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChair-WB34.jpg&icc=srgb&strip=0
+  - //images.cart-shed.com/image?src=kwf/KWFElizaDiningChair/KWF-ElizaDiningChairTable-WBL34.jpg&icc=srgb&strip=0
+  - //images.cart-shed.com/image?src=kwf/KWFElizaDiningChair/KWF-ElizaDiningChairTable-WRS.jpg&icc=srgb&strip=0
+  - //images.cart-shed.com/image?src=kwf/KWFElizaDiningChair/sq/KWF-ElizaDiningChairTable-SB34.jpg&icc=srgb&strip=0
 storeprice:
   - type: Ash
     cost: 720

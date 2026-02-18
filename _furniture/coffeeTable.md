@@ -17,8 +17,8 @@ menus:
 design-date: 2000-01-01
 social: coffee table in walnut with glass top
 awards:
-thumbnail: //images.quru.com/image?src=kwf/KWF%20Coffee%20Table.jpg&width=175&height=175&fill=auto
-headimage: //images.quru.com/image?src=kwf/KWF%20Coffee%20Table.jpg
+thumbnail: //images.cart-shed.com/image?src=kwf/KWF%20Coffee%20Table.jpg&width=175&height=175&fill=auto
+headimage: //images.cart-shed.com/image?src=kwf/KWF%20Coffee%20Table.jpg
 otherimages:
 
 ---

@@ -5,8 +5,8 @@ summary: Gaze Burvill<br/>Lodge Farm<br/>East Tisted<br/>Hampshire<br/>GU34 3QH<
 date: 2019-11-16
 tags:
   - retailer
-thumbnail: //images.quru.com/image?src=kwf/GazeBurvill/gazeburvilllogo.jpg&width=175&height=175
-headimage: //images.quru.com/image?src=kwf/GazeBurvill/gazeburvll.jpg
+thumbnail: //images.cart-shed.com/image?src=kwf/GazeBurvill/gazeburvilllogo.jpg&width=175&height=175
+headimage: //images.cart-shed.com/image?src=kwf/GazeBurvill/gazeburvll.jpg
 
 ---
 

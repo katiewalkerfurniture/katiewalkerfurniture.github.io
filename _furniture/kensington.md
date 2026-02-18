@@ -15,11 +15,11 @@ menus:
   - toCommission
 design-date: 1994-01-01
 summary: Designed to be carried up twisting stairs and out through a window
-thumbnail: //images.quru.com/image?src=/kwf/commissions/KWFKensingtonBench.tif&bottom=0.87813&top=0.20313&left=0.0137&format=jpeg
-headimage: //images.quru.com/image?src=/kwf/commissions/KWFKensingtonBench.tif&left=0.03&format=jpeg
-stripimage: //images.quru.com/image?src=/kwf/commissions/KWFKensingtonBench.tif&left=0.013&bottom=0.62813&top=0.34&format=jpeg
+thumbnail: //images.cart-shed.com/image?src=/kwf/commissions/KWFKensingtonBench.tif&bottom=0.87813&top=0.20313&left=0.0137&format=jpeg
+headimage: //images.cart-shed.com/image?src=/kwf/commissions/KWFKensingtonBench.tif&left=0.03&format=jpeg
+stripimage: //images.cart-shed.com/image?src=/kwf/commissions/KWFKensingtonBench.tif&left=0.013&bottom=0.62813&top=0.34&format=jpeg
 otherimages:
-  - //images.quru.com/image?src=/kwf/commissions/KWFKensingtonTable.tif&format=jpeg
+  - //images.cart-shed.com/image?src=/kwf/commissions/KWFKensingtonTable.tif&format=jpeg
 
 ---
 

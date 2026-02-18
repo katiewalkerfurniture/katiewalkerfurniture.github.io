@@ -22,9 +22,9 @@ storeprice:
     cost: 690
   - type: Walnut
     cost: 695
-thumbnail: //images.quru.com/image?src=/kwf/KWFWindsorTable2012White.jpg&width=175&height=175&fill=auto&fill=%23ffffff&format=jpg&strip=1
+thumbnail: //images.cart-shed.com/image?src=/kwf/KWFWindsorTable2012White.jpg&width=175&height=175&fill=auto&fill=%23ffffff&format=jpg&strip=1
 headimage:
-    //images.quru.com/image?src=/kwf/KWFWindsorTable2012.jpg&top=0.15&bottom=0.9&right=0.98&height=1000&strip=1
+    //images.cart-shed.com/image?src=/kwf/KWFWindsorTable2012.jpg&top=0.15&bottom=0.9&right=0.98&height=1000&strip=1
 houzzcategory: Coffee Tables & Side Tables
 ---
 _540mm dia x 585mm high (21&frac14;&rdquo;dia x 23&rdquo;)_

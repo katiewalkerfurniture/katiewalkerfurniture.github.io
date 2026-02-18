@@ -15,14 +15,14 @@ menus:
 date: 2017-05-23
 order: 50
 social: lightweight outdoor range by @GazeBurvill
-thumbnail: //images.quru.com/image?src=kwf/GazeBurvill/GB%20CB%20Worplesdon-030.jpg&right=0.85313&left=0.09375&top=0.11636&width=175&height=175
-headimage: //images.quru.com/image?src=kwf/GazeBurvill/GB%20CB%20Worplesdon-030.jpg&right=0.85313&left=0.09375&top=0.11636
+thumbnail: //images.cart-shed.com/image?src=kwf/GazeBurvill/GB%20CB%20Worplesdon-030.jpg&right=0.85313&left=0.09375&top=0.11636&width=175&height=175
+headimage: //images.cart-shed.com/image?src=kwf/GazeBurvill/GB%20CB%20Worplesdon-030.jpg&right=0.85313&left=0.09375&top=0.11636
 otherimages:
-  - //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+10.jpg
-  - //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+11.jpg
-  - //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+12.jpg
-  - //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+14.jpg
-  - //images.quru.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+15.jpg
+  - //images.cart-shed.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+10.jpg
+  - //images.cart-shed.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+11.jpg
+  - //images.cart-shed.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+12.jpg
+  - //images.cart-shed.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+14.jpg
+  - //images.cart-shed.com/image?src=kwf/GazeBurvill/SB+Levity+Cutouts+15.jpg
 summary:  A 'lighter' collection designed for outdoor furniture makers Gaze Burvill
 storeprice: 
 houzzcategory: Outdoor Dining Sets
@@ -37,4 +37,4 @@ The table also explores the idea of two interlocking parts. In this design two a
 
 *‘Levity expresses a new lightness of touch. Lyrical, elegant yet immensely practical.’* Simon Burvill
 
-<img alt="RHS Finalist" src="//images.quru.com/image?src=kwf/GazeBurvill/CGPotY%20tag%20-%20Finalist.png&width=175" width="170" style="padding: 2rem 0 2rem 0;"/>
+<img alt="RHS Finalist" src="//images.cart-shed.com/image?src=kwf/GazeBurvill/CGPotY%20tag%20-%20Finalist.png&width=175" width="170" style="padding: 2rem 0 2rem 0;"/>

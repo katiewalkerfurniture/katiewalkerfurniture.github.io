@@ -29,16 +29,16 @@ houzzcategory: Upholstered Benches
 storeprice:
   - type:
     cost: 3,000
-thumbnail: //images.quru.com/image?src=/kwf/KWFBeamBench/Katie%20Walker%20Furniture%20-%20Beam%20Bench.jpg&right=0.67188&left=0.0625&top=0.05093&bottom=0.9537&width=175&height=175&fill=auto
-headimage: //images.quru.com/image?src=kwf/KWFBeamBench/Katie%20Walker%20Furniture%20-%20Beam%20Bench.jpg
-stripimage: //images.quru.com/image?src=/kwf/KWFBeamBench2012.jpg&bottom=0.83568&top=0.25822&autocropfit=1&fill=auto
+thumbnail: //images.cart-shed.com/image?src=/kwf/KWFBeamBench/Katie%20Walker%20Furniture%20-%20Beam%20Bench.jpg&right=0.67188&left=0.0625&top=0.05093&bottom=0.9537&width=175&height=175&fill=auto
+headimage: //images.cart-shed.com/image?src=kwf/KWFBeamBench/Katie%20Walker%20Furniture%20-%20Beam%20Bench.jpg
+stripimage: //images.cart-shed.com/image?src=/kwf/KWFBeamBench2012.jpg&bottom=0.83568&top=0.25822&autocropfit=1&fill=auto
 otherimages:
-  - //images.quru.com/image?src=kwf/KWFBeamBench/KWF+Beam+Bench+-+ash+under.jpg
-  - //images.quru.com/image?src=kwf/KWFBeamBench/KWF+Beam+Bench+-+ash.jpg
-  - //images.quru.com/image?src=kwf/KWFBeamBench/KWF+Beam+Bench+-+cover+detail.jpg
-  - //images.quru.com/image?src=kwf/KWFBeamBench/KWF+Beam+Bench+-+leather+details.jpg
-  - //images.quru.com/image?src=kwf/KWFBeamBench/KWF+Beam+Bench+-+walnut+end.jpg
-  - //images.quru.com/image?src=kwf/KWFBeamBench/KWF+Beam+Bench+-+at+Tonge.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFBeamBench/KWF+Beam+Bench+-+ash+under.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFBeamBench/KWF+Beam+Bench+-+ash.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFBeamBench/KWF+Beam+Bench+-+cover+detail.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFBeamBench/KWF+Beam+Bench+-+leather+details.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFBeamBench/KWF+Beam+Bench+-+walnut+end.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFBeamBench/KWF+Beam+Bench+-+at+Tonge.jpg
 style: red
 ---
 _1370mm long x 500mm wide x 460mm high. (54” x 19&frac34;” x 18”)_
@@ -48,9 +48,9 @@ Bench style seating available in ash or walnut with a natural wax/oil finish, st
 Price with leather cover as shown, leather available in three colourways - Black, Caramel or Shiraz. Other fabrics/leather covers also available subject to a variation in price.
 
 <div class='grid clearfix'>
-<img src='//images.quru.com/image?src=kwf/KWFBeamBench/Elvis%20and%20Kresse%20swatch.jpg&right=0.39688&bottom=0.46729&left=0.08438&width=175&icc=srgb' class='cell' alt='Black'/>
-<img src='//images.quru.com/image?src=kwf/KWFBeamBench/Elvis%20and%20Kresse%20swatch.jpg&right=0.4875&bottom=0.99533&left=0.175&width=175&icc=srgb&top=0.52804' class='cell' alt='Caramel'/>
-<img src='//images.quru.com/image?src=kwf/KWFBeamBench/Elvis%20and%20Kresse%20swatch.jpg&right=0.90625&bottom=0.49065&left=0.59375&width=175&icc=srgb&top=0.02336' class='cell' alt='Shiraz'/>
+<img src='//images.cart-shed.com/image?src=kwf/KWFBeamBench/Elvis%20and%20Kresse%20swatch.jpg&right=0.39688&bottom=0.46729&left=0.08438&width=175&icc=srgb' class='cell' alt='Black'/>
+<img src='//images.cart-shed.com/image?src=kwf/KWFBeamBench/Elvis%20and%20Kresse%20swatch.jpg&right=0.4875&bottom=0.99533&left=0.175&width=175&icc=srgb&top=0.52804' class='cell' alt='Caramel'/>
+<img src='//images.cart-shed.com/image?src=kwf/KWFBeamBench/Elvis%20and%20Kresse%20swatch.jpg&right=0.90625&bottom=0.49065&left=0.59375&width=175&icc=srgb&top=0.02336' class='cell' alt='Shiraz'/>
 </div>
 
 Other woods, sizes and finishes can be made to order.

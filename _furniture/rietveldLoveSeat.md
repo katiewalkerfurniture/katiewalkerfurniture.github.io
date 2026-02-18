@@ -17,18 +17,18 @@ menus:
 order: 120
 design-date: 2019-04-01
 summary: An intimate update of Gerrit Rietveld's Steltman chair.
-thumbnail: //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WL34sq.jpg&width=175&height=175
-headimage: //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WF18sq.jpg
+thumbnail: //images.cart-shed.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WL34sq.jpg&width=175&height=175
+headimage: //images.cart-shed.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WF18sq.jpg
 otherimages:
-  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WFsq.jpg
-  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WL34sq.jpg
-  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WF18sq2.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WFsq.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WL34sq.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFRietveldLoveSeat/sq/KWF-RietveldLoveSeat-WF18sq2.jpg
   
-  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatModelled.jpg
-  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatArmDetail.jpg
-  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatBackDetail.jpg
-  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatJointDetail.jpg
-  - //images.quru.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatAtNewArtCentre.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatModelled.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatArmDetail.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatBackDetail.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatJointDetail.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFRietveldLoveSeat/KWFRietveldLoveSeatAtNewArtCentre.jpg
 storeprice:
   - type: Oak
     cost: 5040

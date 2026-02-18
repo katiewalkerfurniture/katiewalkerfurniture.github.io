@@ -17,13 +17,13 @@ menus:
 date: 2011-01-01
 social: Conversation seat II
 awards:
-thumbnail: //images.quru.com/image?src=/kwf/KWFConversationSeatII.jpg&width=175&height=175&fill=auto&top=0.075&bottom=0.95938
-headimage: //images.quru.com/image?src=kwf/KWFConversationSeatII/Conversation%20seat%20II%20d.jpg&icc=srgb&strip=0
+thumbnail: //images.cart-shed.com/image?src=/kwf/KWFConversationSeatII.jpg&width=175&height=175&fill=auto&top=0.075&bottom=0.95938
+headimage: //images.cart-shed.com/image?src=kwf/KWFConversationSeatII/Conversation%20seat%20II%20d.jpg&icc=srgb&strip=0
 otherimages:
-  - //images.quru.com/image?src=kwf/KWFConversationSeatII/Conversation%20seat%20II%20c.jpg&icc=srgb&strip=0
-  - //images.quru.com/image?src=/kwf/KWFConversationSeatIISat.jpg
-  - //images.quru.com/image?src=/kwf/KWFConversationSeatII.jpg
-  - //images.quru.com/image?src=/kwf/Conversation+seat.jpg
+  - //images.cart-shed.com/image?src=kwf/KWFConversationSeatII/Conversation%20seat%20II%20c.jpg&icc=srgb&strip=0
+  - //images.cart-shed.com/image?src=/kwf/KWFConversationSeatIISat.jpg
+  - //images.cart-shed.com/image?src=/kwf/KWFConversationSeatII.jpg
+  - //images.cart-shed.com/image?src=/kwf/Conversation+seat.jpg
 summary: A one-off, rippled ash seat for two people in &lsquo;conversation&rsquo;.
 houzzcategory: Indoor Benches
 

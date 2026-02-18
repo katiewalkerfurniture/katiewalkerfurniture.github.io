@@ -5,7 +5,7 @@ summary: Bath Road, Kintbury</br>Hungerford<br/>RG17 9SA<br/><br/>01488 608020
 tags:
   - retailer
 thumbnail: /public/images/benchmark.png
-headimage: //images.quru.com/image?src=kwf/retailers/benchmarkworkshop.jpg
+headimage: //images.cart-shed.com/image?src=kwf/retailers/benchmarkworkshop.jpg
 
 ---
 

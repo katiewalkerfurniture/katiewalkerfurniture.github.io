@@ -6,8 +6,8 @@ tags:
 menus:
   - links
 summary: 28 A Devonshire Street</br>London<br/>W1G 6PS<br/><br/>+44 20 7486 7374
-thumbnail: //images.quru.com/image?src=/kwf/retailers/jaggedartlogo.png
-headimage: //images.quru.com/image?src=/kwf/retailers/jaggedart.jpg&strip=1
+thumbnail: //images.cart-shed.com/image?src=/kwf/retailers/jaggedartlogo.png
+headimage: //images.cart-shed.com/image?src=/kwf/retailers/jaggedart.jpg&strip=1
 ---
 Established in 2002, [jaggedart](//www.jaggedart.com) is renowned for its unique and very definite style, showcasing beautiful, intricate and sophisticated works of art.
 

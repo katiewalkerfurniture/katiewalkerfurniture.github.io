@@ -17,8 +17,8 @@ order: 90
 stock: 2
 design-date: 2012-01-01
 summary: A round wall hung mirror in walnut with a solid silver inlay and a lacquer finish.
-thumbnail:  //images.quru.com/image?src=kwf/KWFGeometricMirrors/KWFRoundMirrorWhite.jpg&bottom=0.95313&left=0.03205&top=0.04063&right=0.96795&width=175&height=175&fill=%23ffffff
-headimage: //images.quru.com/image?src=kwf/KWFGeometricMirrors/KWFRoundMirrorWhite.jpg&bottom=0.95313&left=0.03205&top=0.04063&right=0.96795
+thumbnail:  //images.cart-shed.com/image?src=kwf/KWFGeometricMirrors/KWFRoundMirrorWhite.jpg&bottom=0.95313&left=0.03205&top=0.04063&right=0.96795&width=175&height=175&fill=%23ffffff
+headimage: //images.cart-shed.com/image?src=kwf/KWFGeometricMirrors/KWFRoundMirrorWhite.jpg&bottom=0.95313&left=0.03205&top=0.04063&right=0.96795
 storeprice: 
   - type: Oak or fumed oak
     cost: 1320

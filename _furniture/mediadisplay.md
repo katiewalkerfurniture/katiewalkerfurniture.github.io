@@ -18,8 +18,8 @@ design-date: 1995-01-01
 social: Corporate display in aluminium
 awards:
 summary: Brushed and polished rolled aluminium and perspex display case
-thumbnail: //images.quru.com/image?src=/kwf/DisplayBoard.tif&width=175&height=175&fill=auto&format=jpeg
-headimage: //images.quru.com/image?src=/kwf/DisplayBoard.tif&format=jpeg
+thumbnail: //images.cart-shed.com/image?src=/kwf/DisplayBoard.tif&width=175&height=175&fill=auto&format=jpeg
+headimage: //images.cart-shed.com/image?src=/kwf/DisplayBoard.tif&format=jpeg
 otherimages:
 
 ---

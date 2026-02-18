@@ -13,8 +13,8 @@ menus:
 date: 2014-01-01
 order: 55
 social: small rocking chair made by @SittingFirm for @johnlewisretail
-thumbnail: //images.quru.com/image?src=kwf/ElizaRockingChair.jpg&right=0.95&bottom=0.94688&left=0.0625&top=0.05938&width=175&height=175
-headimage: //images.quru.com/image?src=kwf/ElizaRockingChair.jpg&strip=1
+thumbnail: //images.cart-shed.com/image?src=kwf/ElizaRockingChair.jpg&right=0.95&bottom=0.94688&left=0.0625&top=0.05938&width=175&height=175
+headimage: //images.cart-shed.com/image?src=kwf/ElizaRockingChair.jpg&strip=1
 otherimages:
 houzzcategory: Rocking Chairs
 summary: Designed for the 150th anniversary of John Lewis.

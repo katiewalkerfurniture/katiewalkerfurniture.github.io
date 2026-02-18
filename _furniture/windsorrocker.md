@@ -28,7 +28,7 @@ storeid: WR11
 storedescription: A modern wooden rocking chair using traditional Windsor chairmaking techniques.
 storegoogleproductcategory: Furniture > Chairs > Rocking Chairs
 storeproducttype: Interiors > Chairs > Rocking Chairs > Windsor
-storeimage: https://images.quru.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor%20Rocker%20quarter%20view.jpg
+storeimage: https://images.cart-shed.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor%20Rocker%20quarter%20view.jpg
 storecondition: new
 storeprice:
   - type: Ash
@@ -42,17 +42,17 @@ shippingcost: 35
 shippingweight: 10
 colour: Ash
 material: Ash
-thumbnail:  //images.quru.com/image?src=kwf/KWFWindsorRocker/KWF_Windsor_Rocker_side_view_cut.jpg&width=175&height=175&fill=%23ffffff
-headimage: //images.quru.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor%20Rocker%20quarter%20view.jpg
+thumbnail:  //images.cart-shed.com/image?src=kwf/KWFWindsorRocker/KWF_Windsor_Rocker_side_view_cut.jpg&width=175&height=175&fill=%23ffffff
+headimage: //images.cart-shed.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor%20Rocker%20quarter%20view.jpg
 otherimages:
-  - //images.quru.com/image?src=kwf/KWFWindsorRocker/WindsorRockingChair098.jpg&top=0.1&fill=auto&strip=0
-  - //images.quru.com/image?src=kwf/KWFWindsorRocker/KWF_Windsor_Rocker_side_view_cut.jpg&fill=%23ffffff
-  - //images.quru.com/image?src=kwf/KWFWindsorRocker/KWFWindsorRockerWalnutCut.jpg
-  - //images.quru.com/image?src=/kwf/KWF_Woven_Windsor_Rocker_front_3_quarters_4724.JPG&right=0.98438&left=0.0375
-  - //images.quru.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor%20Rocker%20front%20with%20sheepskin.jpg&right=0.91875&left=0.11563
-  - //images.quru.com/image?src=kwf/KWFWindsorRocker/Black%20%26%20woven%20windsors.jpg&bottom=0.94688&top=0.11563&icc=srgb&strip=0
-  - //images.quru.com/image?src=kwf/KWFWindsorRocker/Black%20Windsor%20rocker.jpg&bottom=0.95&top=0.07187&icc=srgb&strip=0
-  - //images.quru.com/image?src=kwf/KWFWindsorRocker/Windsor%20rocker%20and%20stool%20in%20Heals.JPG&angle=90&top=0.30312&left=0.07083
+  - //images.cart-shed.com/image?src=kwf/KWFWindsorRocker/WindsorRockingChair098.jpg&top=0.1&fill=auto&strip=0
+  - //images.cart-shed.com/image?src=kwf/KWFWindsorRocker/KWF_Windsor_Rocker_side_view_cut.jpg&fill=%23ffffff
+  - //images.cart-shed.com/image?src=kwf/KWFWindsorRocker/KWFWindsorRockerWalnutCut.jpg
+  - //images.cart-shed.com/image?src=/kwf/KWF_Woven_Windsor_Rocker_front_3_quarters_4724.JPG&right=0.98438&left=0.0375
+  - //images.cart-shed.com/image?src=kwf/KWFWindsorRocker/KWF%20Windsor%20Rocker%20front%20with%20sheepskin.jpg&right=0.91875&left=0.11563
+  - //images.cart-shed.com/image?src=kwf/KWFWindsorRocker/Black%20%26%20woven%20windsors.jpg&bottom=0.94688&top=0.11563&icc=srgb&strip=0
+  - //images.cart-shed.com/image?src=kwf/KWFWindsorRocker/Black%20Windsor%20rocker.jpg&bottom=0.95&top=0.07187&icc=srgb&strip=0
+  - //images.cart-shed.com/image?src=kwf/KWFWindsorRocker/Windsor%20rocker%20and%20stool%20in%20Heals.JPG&angle=90&top=0.30312&left=0.07083
 houzzcategory: Rocking Chairs
 
 ---
@@ -62,6 +62,6 @@ The Windsor rocker is a contemporary wooden rocking chair with its roots firmly 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sqwQ6wEk1g4" title="Windsor Rocker video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="padding-top:2rem; padding-bottom:2rem;"></iframe>
 
-<img class="post-title gallery_image" alt="Ribbon Rocking Chair" src="//images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00002.png&width=342" srcset="//images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00002.png&width=342 360w, //images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00002.png&width=770 800w,  //images.quru.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00002.png&width=1440 2x">
+<img class="post-title gallery_image" alt="Ribbon Rocking Chair" src="//images.cart-shed.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00002.png&width=342" srcset="//images.cart-shed.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00002.png&width=342 360w, //images.cart-shed.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00002.png&width=770 800w,  //images.cart-shed.com/image?src=/kwf/GREAT/GREAT_Desn_Social_Post_Katie_Walker.pdf.d/page-00002.png&width=1440 2x">
 
-<img class="logo" alt="Wood Awards" src="//images.quru.com/image?src=kwf/Marketing/woodawards.jpg&height=100" height="100" style="padding-right: 3rem; padding-top: 1rem;"><img class="logo" alt="Guild Mark" src="//images.quru.com/image?src=kwf/WCFMGuildMark.jpg&height=100" height="100" style="padding-top: 1rem;">
+<img class="logo" alt="Wood Awards" src="//images.cart-shed.com/image?src=kwf/Marketing/woodawards.jpg&height=100" height="100" style="padding-right: 3rem; padding-top: 1rem;"><img class="logo" alt="Guild Mark" src="//images.cart-shed.com/image?src=kwf/WCFMGuildMark.jpg&height=100" height="100" style="padding-top: 1rem;">

@@ -16,10 +16,10 @@ stock: 1
 stockdate:
 date: 2000-01-01
 summary: A limited edition outdoor seat in raw oak.
-thumbnail:  //images.quru.com/image?src=kwf/Warnham%20bench%2034sq.jpg&width=175&height=175&fill=auto
-headimage: //images.quru.com/image?src=kwf/Warnham%20bench%2034sq.jpg
+thumbnail:  //images.cart-shed.com/image?src=kwf/Warnham%20bench%2034sq.jpg&width=175&height=175&fill=auto
+headimage: //images.cart-shed.com/image?src=kwf/Warnham%20bench%2034sq.jpg
 otherimages:
-  - //images.quru.com/image?src=kwf/Warnham+bench+front.jpg
+  - //images.cart-shed.com/image?src=kwf/Warnham+bench+front.jpg
 storeprice:
   - type:
     cost: 2160

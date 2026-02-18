@@ -16,11 +16,11 @@ menus:
 date: 2000-01-01
 social: Table/light
 awards:
-thumbnail: //images.quru.com/image?src=/kwf/Table+light.jpg&width=175&height=175&fill=auto&top=0.15&bottom=0.85
-headimage: //images.quru.com/image?src=kwf/Table+light.jpg
+thumbnail: //images.cart-shed.com/image?src=/kwf/Table+light.jpg&width=175&height=175&fill=auto&top=0.15&bottom=0.85
+headimage: //images.cart-shed.com/image?src=kwf/Table+light.jpg
 otherimages:
-  - //images.quru.com/image?src=kwf/KWF+Table+light+1.jpg
-  - //images.quru.com/image?src=kwf/Table+Light.JPG
+  - //images.cart-shed.com/image?src=kwf/KWF+Table+light+1.jpg
+  - //images.cart-shed.com/image?src=kwf/Table+Light.JPG
 summary: A combination of table and side light where both the light base and the table form are used in conjunction to create the structure of the piece
 houzzcategory: Table Lights
 ---

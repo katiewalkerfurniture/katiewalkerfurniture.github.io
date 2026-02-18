@@ -5,8 +5,8 @@ date: 2021-04-06
 summary: New Barns Farm<br/>Box Lane<br/>Painters Forstal<br/>ME13 0RU<br/><br/>+44 1795 892 184
 tags:
   - retailer
-thumbnail: //images.quru.com/image?src=kwf/retailers/elvis%26kresse.jpg&width=150&height=150&fill=none
-headimage: //images.quru.com/image?src=kwf/retailers/Elvis_Kresse_Shopify_Banner_2048x.jpg
+thumbnail: //images.cart-shed.com/image?src=kwf/retailers/elvis%26kresse.jpg&width=150&height=150&fill=none
+headimage: //images.cart-shed.com/image?src=kwf/retailers/Elvis_Kresse_Shopify_Banner_2048x.jpg
 
 ---
 

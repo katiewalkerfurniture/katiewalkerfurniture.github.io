@@ -18,8 +18,8 @@ design-date: 1994-01-01
 social: Corporate commission for a boardroom side table
 awards:
 summary: A side table in cherry and sycamore
-thumbnail: //images.quru.com/image?src=/kwf/commissions/ServingTable.jpg&right=0.97188&left=0.04688&width=175&height=175&fill=auto
-headimage: //images.quru.com/image?src=/kwf/commissions/ServingTable.jpg
+thumbnail: //images.cart-shed.com/image?src=/kwf/commissions/ServingTable.jpg&right=0.97188&left=0.04688&width=175&height=175&fill=auto
+headimage: //images.cart-shed.com/image?src=/kwf/commissions/ServingTable.jpg
 otherimages:
 
 
