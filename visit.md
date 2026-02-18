@@ -1,7 +1,7 @@
 ---
 
 layout: about
-date: 2021-04-21
+date: 2026-02-18
 description: Come and see us in the heart of the beautiful West Sussex countryside to view our iconic range of modern designer furniture. Easy access by car, rail, bicycle and foot with the South Downs a mile away
 headimage:
 menus: about
@@ -9,7 +9,6 @@ title: Come and see for yourself
 headimage:
 menus:
 tags:
-date: 2021-04-19
 description: Do come and visit us to view our work and to meet us in the heart of West Sussex. We can be easily reached by road, rail, bicycle or foot.
 
 ---

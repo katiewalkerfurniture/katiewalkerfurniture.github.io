@@ -1,7 +1,7 @@
 ---
 
 layout: about
-
+date: 2026-02-18
 headimage:
 menus: nature
 title: Designs for nature

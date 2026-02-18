@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Rietveld Love seat
-date: 2024-07-01
+date: 2026-02-18
 edition:
 description: The Rietveld Love seat was designed in response to seeing his Steltman chair at the Stedelijk Museum in Amsterdam. 10% bigger than the original this makes a unique, intimate garden seat or bench.
 tags:
